@@ -4,10 +4,16 @@
   "nama": "النّٰزعٰت",
   "nama_latin": "An-Nazi'at",
   "jumlah_ayat": 46,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Malaikat Yang Mencabut",
   "deskripsi": "Surat An NaaziÂ´aat terdiri atas 46 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An NabaÂ´. Dinamai <i>An NaaziÂ´aat</i> diambil dari perkataan <i>An NaaziÂ´aat</i> yang terdapat pada ayat pertama surat ini. Dinamai pula <i>as Saahirah</i> yang diambil dari ayat 14, dinamai juga <i>Ath Thaammah</i> diambil dari ayat 34.",
-  "audio": "https://santrikoding.com/storage/audio/079.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/079.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/079.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/079.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/079.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/079.mp3"
+  },
   "ayat": [
     {
       "id": 5713,
@@ -379,25 +385,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 80,
     "nomor": 80,
     "nama": "عبس",
     "nama_latin": "'Abasa",
-    "jumlah_ayat": 42,
-    "tempat_turun": "mekah",
-    "arti": "Bermuka Masam",
-    "deskripsi": "Surat 'Abasa terdiri atas 42 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Najm. Dinamai <i>'Abasa</i>  diambil dari perkataan <i>'Abasa</i> yang terdapat pada ayat pertama surat ini.<br> Menurut riwayat, pada suatu ketika Rasulullah s.a.w. menerima dan berbicara dengan pemuka-pemuka Quraisy yang beliau harapkan agar mereka masuk Islam. Dalam pada itu datanglah Ibnu Ummi Maktum, seorang sahabat yang buta yang mengharap agar Rasulullah s.a.w. membacakan kepadanya ayat- ayat Al Quran yang telah diturunkan Allah. tetapi Rasulullah s.a.w. bermuka masam dan memalingkan muka dari Ibnu Ummi Maktum yang buta itu, lalu Allah menurunkan surat ini sebagai teguran atas sikap Rasulullah terhadap ibnu Ummi Maktum itu.",
-    "audio": "https://santrikoding.com/storage/audio/080.mp3"
+    "jumlah_ayat": 42
   },
   "surat_sebelumnya": {
-    "id": 78,
     "nomor": 78,
     "nama": "النبأ",
     "nama_latin": "An-Naba'",
-    "jumlah_ayat": 40,
-    "tempat_turun": "mekah",
-    "arti": "Berita Besar",
-    "deskripsi": "Surat An NabaÂ´ terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al MaÂ´aarij. <br>Dinamai <i>An NabaÂ´</i> (berita besar) diambil dari perkataan <i>An NabaÂ´</i> yang terdapat pada ayat 2 surat ini. Dinamai juga <i>Amma yatasaa aluun</i> diambil dari perkataan <i>Amma yatasaa aluun</i> yang terdapat pada ayat 1 surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/078.mp3"
+    "jumlah_ayat": 40
   }
 }

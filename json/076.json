@@ -4,10 +4,16 @@
   "nama": "الانسان",
   "nama_latin": "Al-Insan",
   "jumlah_ayat": 31,
-  "tempat_turun": "madinah",
+  "tempat_turun": "Madinah",
   "arti": "Manusia",
   "deskripsi": "Surat Al Insaan terdiri atas 31 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ar Rahmaan. Dinamai <i>al Insaan</i> (manusia) diambil dari perkataan <i>Al Insaan</i> yang terdapat pada ayat pertama surat ini.",
-  "audio": "https://santrikoding.com/storage/audio/076.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/076.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/076.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/076.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/076.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/076.mp3"
+  },
   "ayat": [
     {
       "id": 5592,
@@ -259,25 +265,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 77,
     "nomor": 77,
     "nama": "المرسلٰت",
     "nama_latin": "Al-Mursalat",
-    "jumlah_ayat": 50,
-    "tempat_turun": "mekah",
-    "arti": "Malaikat Yang Diutus",
-    "deskripsi": "Surat Al Mursalaat terdiri atas 50 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Humazah. Dinamai <i>Al Mursalaat</i> (Malaikat-Malaikat yang diutus), diambil dari perkataan <i>Al Mursalaat</i> yang terdapat pada ayat pertama surat ini. Dinamai juga <i>Amma yatasaa aluun</i> diambil dari perkataan <i>Amma yatasaa aluun</i> yang terdapat pada ayat 1 surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/077.mp3"
+    "jumlah_ayat": 50
   },
   "surat_sebelumnya": {
-    "id": 75,
     "nomor": 75,
     "nama": "القيٰمة",
     "nama_latin": "Al-Qiyamah",
-    "jumlah_ayat": 40,
-    "tempat_turun": "mekah",
-    "arti": "Hari Kiamat",
-    "deskripsi": "Surat Al Qiyaamah terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qaari'ah. Dinamai <i>Al Qiyaamah</i> (hari kiamat) diambil dari perkataan <i>Al Qiyaamah</i> yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/075.mp3"
+    "jumlah_ayat": 40
   }
 }

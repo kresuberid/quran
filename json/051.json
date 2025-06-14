@@ -4,10 +4,16 @@
   "nama": "الذّٰريٰت",
   "nama_latin": "Az-Zariyat",
   "jumlah_ayat": 60,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Angin yang Menerbangkan",
   "deskripsi": "Surat Adz Dzaariyaat terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Ahqaaf. Dinamai <i>Adz Dzaariyaat</i> (angin yang menerbangkan), diambil dari perkataan <i>Adz Dzaariyaat</i> yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan angin, mega, bahtera, dan malaikat yang menjadi sumber kesejahteraan dan pembawa kemakmuran. Hal ini meng- isyaratkan inayat Allah kepada hamba-hamba-Nya.",
-  "audio": "https://santrikoding.com/storage/audio/051.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/051.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/051.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/051.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/051.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/051.mp3"
+  },
   "ayat": [
     {
       "id": 4676,
@@ -491,25 +497,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 52,
     "nomor": 52,
     "nama": "الطور",
     "nama_latin": "At-Tur",
-    "jumlah_ayat": 49,
-    "tempat_turun": "mekah",
-    "arti": "Bukit Tursina",
-    "deskripsi": "Surat Ath Thuur terdiri atas 49 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat As Sajdah. Dinamai <i>Ath Thuur</i> (Bukit) diambil dari perkataan <i>Ath Thuur</i> yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan <i>bukit</i> di sini ialah bukit Thursina yang terletak di semenanjung Sinai, tempat Nabi Musa menerima wahyu dari Tuhannya.",
-    "audio": "https://santrikoding.com/storage/audio/052.mp3"
+    "jumlah_ayat": 49
   },
   "surat_sebelumnya": {
-    "id": 50,
     "nomor": 50,
     "nama": "ق",
     "nama_latin": "Qaf",
-    "jumlah_ayat": 45,
-    "tempat_turun": "mekah",
-    "arti": "Qaf",
-    "deskripsi": "Surat Qaaf terdiri atas 45 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah surat Al Murssalaat. Dinamai <i>Qaaf</i> karena surat ini dimulai dengan huruf <i>Qaaf</i>. Menurut hadits yang diriwayatkan Imam Muslim, bahwa Rasulullah SAW senang membaca surat ini pada rakaat pertama sembahyang subuh dan pada shalat hari raya. Sedang menurut riwayat Abu Daud, Al Baihaqy dan Ibnu Majah bahwa Rasulullah SAW membaca surat ini pada tiap-tiap membaca Khutbah pada hari Jum'at. Kedua riwayat ini menunjukkan bahwa surat QAAF sering dibaca Nabi Muhammad SAW di tempat-tempat umum, untuk memperingatkan manusia tentang kejadian mereka dan nikmat-nikmat yang diberikan kepadanya, begitu pula tentang hari berbangkit, hari berhisab, syurga, neraka, pahala, dosa, dsb. Surat ini dinamai juga <i>Al Baasiqaat</i>, diambil dari perkataan <i>Al- Baasiqaat</i> yang terdapat pada ayat 10 surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/050.mp3"
+    "jumlah_ayat": 45
   }
 }

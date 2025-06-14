@@ -4,10 +4,16 @@
   "nama": "الحاۤقّة",
   "nama_latin": "Al-Haqqah",
   "jumlah_ayat": 52,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Hari Kiamat",
   "deskripsi": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Mulk. <br> Nama <i>Al Haaqqah</i> diambil dari kata <i>Al Haaqqah</i> yang terdapat pada ayat pertama surat ini yang artinya <i>hari kiamat</i>",
-  "audio": "https://santrikoding.com/storage/audio/069.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/069.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/069.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/069.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/069.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/069.mp3"
+  },
   "ayat": [
     {
       "id": 5324,
@@ -427,25 +433,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 70,
     "nomor": 70,
     "nama": "المعارج",
     "nama_latin": "Al-Ma'arij",
-    "jumlah_ayat": 44,
-    "tempat_turun": "mekah",
-    "arti": "Tempat Naik",
-    "deskripsi": "Surat ini terdiri atas 44 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Haaqqah.<br>Perkataan <i>Al Ma'arij</i> yang menjadi nama bagi surat ini adalah kata jamak dari <i>Mi'raj</i>, diambil dari perkataan Al Ma'arij yang terdapat pada ayat 3, yang artinya menurut bahasa <i>tempat naik</i>. Sedang para ahli  tafsir memberi arti bermacam-macam, di antaranya <i>langit</i>, nikmat karunia dan derajat atau tingkatan yang diberikan Allah s.w.t kepada ahli surga.",
-    "audio": "https://santrikoding.com/storage/audio/070.mp3"
+    "jumlah_ayat": 44
   },
   "surat_sebelumnya": {
-    "id": 68,
     "nomor": 68,
     "nama": "القلم",
     "nama_latin": "Al-Qalam",
-    "jumlah_ayat": 52,
-    "tempat_turun": "mekah",
-    "arti": "Pena",
-    "deskripsi": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Alaq. <br>Nama <i>Al Qalam</i> diambil dari kata Al Qalam yang terdapat pada ayat pertama surat iniyang artinya <i>pena</i>. Surat ini dinamai pula dengan surat <i>Nun</i> (huruf <i>nun</i>).",
-    "audio": "https://santrikoding.com/storage/audio/068.mp3"
+    "jumlah_ayat": 52
   }
 }

@@ -4,10 +4,16 @@
   "nama": "الرّوم",
   "nama_latin": "Ar-Rum",
   "jumlah_ayat": 60,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Romawi",
   "deskripsi": "Surat Ar Ruum terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah ayat Al Insyiqaq. Dinamakan <i>Ar Ruum</i> karena pada permulaan surat ini, yaitu ayat 2, 3 dan 4 terdapat pemberitaan bangsa Rumawi yang pada mulanya dikalahkan oleh bangsa Persia, tetapi setelah beberapa tahun kemudian kerajaan Ruum dapat menuntut balas dan mengalahkan kerajaan Persia kembali. Ini adalah suatu mukjizat Al Quran, yaitu memberitakan hal-hal yang akan terjadi di masa yang akan datang. Dan juga suatu isyarat bahwa kaum muslimin yang demikian lemahnya di waktu itu akan menang dan dapat menghancurkan kaum musyrikin. Isyarat ini terbukti pertama kali pada perang Badar.",
-  "audio": "https://santrikoding.com/storage/audio/030.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/030.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/030.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/030.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/030.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/030.mp3"
+  },
   "ayat": [
     {
       "id": 3410,
@@ -491,25 +497,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 31,
     "nomor": 31,
     "nama": "لقمٰن",
     "nama_latin": "Luqman",
-    "jumlah_ayat": 34,
-    "tempat_turun": "mekah",
-    "arti": "Luqman",
-    "deskripsi": "Surat  Luqman  terdiri   dari   34   ayat,   termasuk   golongan   surat-surat Makkiyyah, diturunkan sesudah surat Ash Shaffaat. <br>Dinamai <i>Luqman</i> karena pada  ayat  12   disebutkan   bahwa   <i>Luqman</i>   telah diberi   oleh   Allah   nikmat   dan   ilmu   pengetahuan,  oleh sebab itu dia bersyukur kepadaNya atas nikmat yang  diberikan  itu.   Dan   pada   ayat   13 sampai 19 terdapat nasihat-nasihat Luqman kepada anaknya.<br>Ini adalah sebagai  isyarat   daripada   Allah   supaya   setiap   ibu   bapak melaksanakan  pula terhadap anak-anak mereka sebagai yang telah dilakukan oleh Luqman.",
-    "audio": "https://santrikoding.com/storage/audio/031.mp3"
+    "jumlah_ayat": 34
   },
   "surat_sebelumnya": {
-    "id": 29,
     "nomor": 29,
     "nama": "العنكبوت",
     "nama_latin": "Al-'Ankabut",
-    "jumlah_ayat": 69,
-    "tempat_turun": "mekah",
-    "arti": "Laba-Laba",
-    "deskripsi": "Surat Al 'Ankabuut terdiri atas 69 ayat, termasuk golongan surat-surrat Makkiyah. Dinamai <i>Al 'Ankabuut</i> berhubung terdapatnya perkataan <i>Al 'Ankabuut</i> yang berarti <i>laba-laba</i> pada ayat 41 surat ini, dimana Allah mengumpamakan penyembah-penyembah berhala-berhala itu, dengan laba-laba yang percaya kepada kekuatan rumahnya sebagai tempat ia berlindung dan tempat ia menjerat mangsanya, padahal kalau dihembus angin atau ditimpa oleh suatu barang yang kecil saja, rumah itu akan hancur. Begitu pula halnya dengan kaum musyrikin yang percaya kepada kekuatan sembahan-sembahan mereka sebagai tempat berlindung dan tempat meminta sesuatu yang mereka ingini, padahal sembahan-sembahan mereka itu tidak mampu sedikit juga menolong mereka dari azab Allah waktu di dunia, seperti yang terjadi pada kaum Nuh, kaum Ibrahim, kaum Luth, kaum Syu'aib, kaum Saleh, dan lain-lain. Apalagi menghadapi azab Allah di akhirat nanti, sembahan-sembahan mereka itu lebih tidak mampu menghindarkan dan melindungi mereka.",
-    "audio": "https://santrikoding.com/storage/audio/029.mp3"
+    "jumlah_ayat": 69
   }
 }

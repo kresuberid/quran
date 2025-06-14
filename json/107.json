@@ -4,10 +4,16 @@
   "nama": "الماعون",
   "nama_latin": "Al-Ma'un",
   "jumlah_ayat": 7,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Barang Yang Berguna",
   "deskripsi": "Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama <i>Al Maa'uun</i> diambil dari kata <i>Al Maa'uun</i> yang terdapat pada ayat 7, artinya barang-barang yang berguna.",
-  "audio": "https://santrikoding.com/storage/audio/107.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/107.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/107.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/107.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/107.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/107.mp3"
+  },
   "ayat": [
     {
       "id": 6198,
@@ -67,25 +73,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 108,
     "nomor": 108,
     "nama": "الكوثر",
     "nama_latin": "Al-Kausar",
-    "jumlah_ayat": 3,
-    "tempat_turun": "mekah",
-    "arti": "Pemberian Yang Banyak",
-    "deskripsi": "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai <i>Al Kautsar</i> (nikmat yang banyak) diambil dari perkataan <i>Al Kautsar</i> yang terdapat pada ayat pertama surat ini.<br>Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
-    "audio": "https://santrikoding.com/storage/audio/108.mp3"
+    "jumlah_ayat": 3
   },
   "surat_sebelumnya": {
-    "id": 106,
     "nomor": 106,
     "nama": "قريش",
     "nama_latin": "Quraisy",
-    "jumlah_ayat": 4,
-    "tempat_turun": "mekah",
-    "arti": "Quraisy",
-    "deskripsi": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama <i>Quraisy</i> diambil dari kata <i>Quraisy</i> yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah.",
-    "audio": "https://santrikoding.com/storage/audio/106.mp3"
+    "jumlah_ayat": 4
   }
 }

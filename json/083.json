@@ -4,10 +4,16 @@
   "nama": "المطفّفين",
   "nama_latin": "Al-Mutaffifin",
   "jumlah_ayat": 36,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Orang-Orang Curang",
   "deskripsi": "Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al 'Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. <i>Al Muthaffifiin</i>  yang dijadikan nama bagi surat ini diambil dari kata  <i>Al Muthaffifiin</i> yang terdapat pada ayat pertama.",
-  "audio": "https://santrikoding.com/storage/audio/083.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/083.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/083.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/083.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/083.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/083.mp3"
+  },
   "ayat": [
     {
       "id": 5849,
@@ -299,25 +305,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 84,
     "nomor": 84,
     "nama": "الانشقاق",
     "nama_latin": "Al-Insyiqaq",
-    "jumlah_ayat": 25,
-    "tempat_turun": "mekah",
-    "arti": "Terbelah",
-    "deskripsi": "Surat Al Insyiqaaq, terdiri atas 25 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Infithaarr. Dinamai <i>Al Insyiqaaq</i> (terbelah), diambil dari perkataan <i>Insyaqqat</i> yang terdapat pada permulaan surat ini, yang pokok katanya ialah <i>insyiqaaq</i>.",
-    "audio": "https://santrikoding.com/storage/audio/084.mp3"
+    "jumlah_ayat": 25
   },
   "surat_sebelumnya": {
-    "id": 82,
     "nomor": 82,
     "nama": "الانفطار",
     "nama_latin": "Al-Infitar",
-    "jumlah_ayat": 19,
-    "tempat_turun": "mekah",
-    "arti": "Terbelah",
-    "deskripsi": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat An Naazi'aat. Al Infithaar yang dijadikan  nama untuk surat ini adalah kata asal dari kata <i>Infatharat</i> (terbelah)  yang terdapat pada ayat pertama.",
-    "audio": "https://santrikoding.com/storage/audio/082.mp3"
+    "jumlah_ayat": 19
   }
 }

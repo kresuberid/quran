@@ -4,10 +4,16 @@
   "nama": "ص",
   "nama_latin": "Sad",
   "jumlah_ayat": 88,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Sad",
   "deskripsi": "Surat Shaad  terdiri atas  88 ayat  termasuk golongan  surat Makkiyyah, diturunkan sesudah surat Al Qamar. Dinamai  dengan  <i>Shaad</i>  karena surat  ini  dimulai  dengan <i>Shaad</i> (selanjutnya lihat no. <a href=\"s002a001.htm\">[10)</a>). Dalam surat  ini Allah  bersumpah dengan  Al Quran,   untuk menunjukkan bahwa Al Quran itu suatu  kitab yang  agung dan bahwa siapa saja yang  mengikutinya  akan mendapat  kebahagiaan  dunia  dan akhirat dan untuk menunjukkan bahwa Al Quran ini adalah mukjizat Nabi Muhammad s.a.w. yang  menyatakan kebenarannya dan ketinggian akhlaknya.",
-  "audio": "https://santrikoding.com/storage/audio/038.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/038.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/038.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/038.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/038.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/038.mp3"
+  },
   "ayat": [
     {
       "id": 3971,
@@ -715,25 +721,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 39,
     "nomor": 39,
     "nama": "الزمر",
     "nama_latin": "Az-Zumar",
-    "jumlah_ayat": 75,
-    "tempat_turun": "mekah",
-    "arti": "Rombongan",
-    "deskripsi": "Surat Az Zumar terdiri ataz 75 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Saba'. Dinamakan <i>Az Zumar</i> (Rombongan-rombongan) karena perkataan <i>Az Zumar</i> yang terdapat pada ayat 71 dan 73 ini. Dalam ayat-ayat tersebut diterangkan keadaan manusia di hari kiamat setelah mereka dihisab, di waktu itu mereka terbagi atas dua rombongan; satu rombongan dibawa ke neraka dan satu rombongan lagi dibawa ke syurga. Masing- masing rombongan memperoleh balasan dari apa yang mereka kerjakan di dunia dahulu. Surat ini dinamakan juga <i>Al Ghuraf</i> (kamar-kamar) berhubung perkataan <i>ghuraf</i> yang terdapat pada ayat 20, dimana diterangkan keadaan kamar-kamar dalam syurga yang diperoleh orang-orang yang bertakwa.",
-    "audio": "https://santrikoding.com/storage/audio/039.mp3"
+    "jumlah_ayat": 75
   },
   "surat_sebelumnya": {
-    "id": 37,
     "nomor": 37,
     "nama": "الصّٰۤفّٰت",
     "nama_latin": "As-Saffat",
-    "jumlah_ayat": 182,
-    "tempat_turun": "mekah",
-    "arti": "Barisan-Barisan",
-    "deskripsi": "Surat Ash Shaaffaat terdiri atas 182 ayat termasuk golongan surat Makkiyyah diturunkan sesudah surat Al An'aam. Dinamai dengan <i>Ash Shaaffaat</i> (yang bershaf-shaf) ada hubungannya dengan perkataan <i>Ash Shaaffaat</i> yang terletak pada ayat permulaan surat ini yang mengemukakan bagaimana para malaikat yang berbaris di hadapan Tuhannya yang bersih jiwanya, tidak dapat digoda oleh syaitan. Hal ini hendaklah menjadi i'tibar bagi manusia dalam menghambakan dirinya kepada Allah.",
-    "audio": "https://santrikoding.com/storage/audio/037.mp3"
+    "jumlah_ayat": 182
   }
 }

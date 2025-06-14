@@ -4,10 +4,16 @@
   "nama": "يوسف",
   "nama_latin": "Yusuf",
   "jumlah_ayat": 111,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Yusuf",
   "deskripsi": " Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan <i>surat Yusuf</i> adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab <i>Ad Dalail</i> bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.",
-  "audio": "https://santrikoding.com/storage/audio/012.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/012.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/012.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/012.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/012.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/012.mp3"
+  },
   "ayat": [
     {
       "id": 1597,
@@ -899,25 +905,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 13,
     "nomor": 13,
     "nama": "الرّعد",
     "nama_latin": "Ar-Ra'd",
-    "jumlah_ayat": 43,
-    "tempat_turun": "madinah",
-    "arti": "Guruh",
-    "deskripsi": "Surat Ar Ra'd ini terdiri atas 43 ayat termasuk golongan surat-surat Makkiyyah. Surat ini dinamakan <i>Ar Ra'd</i> yang berarti <i>guruh</i> karena dalam ayat 13 Allah berfirman yang artinya <i>Dan guruh itu bertasbih sambil memuji-Nya</i>, menunjukkan sifat kesucian dan kesempurnaan Allah s.w.t.  Dan lagi sesuai dengan sifat Al Quran yang mengandung ancaman dan harapan, maka demikian pulalah halnya bunyi guruh itu menimbulkan kecemasan dan harapan kepada manusia. Isi yang terpenting dari surat ini ialah bahwa bimbingan Allah kepada makhluk-Nya bertalian erat dengan hukum sebab dan akibat. Bagi Allah s.w.t. tidak ada pilih kasih dalam menetapkan hukuman. Balasan atau hukuman adalah akibat dan ketaatan atau keingkaran terhadap hukum Allah.",
-    "audio": "https://santrikoding.com/storage/audio/013.mp3"
+    "jumlah_ayat": 43
   },
   "surat_sebelumnya": {
-    "id": 11,
     "nomor": 11,
     "nama": "هود",
     "nama_latin": "Hud",
-    "jumlah_ayat": 123,
-    "tempat_turun": "mekah",
-    "arti": "Hud",
-    "deskripsi": "Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai <i>surat Huud</i> karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.",
-    "audio": "https://santrikoding.com/storage/audio/011.mp3"
+    "jumlah_ayat": 123
   }
 }

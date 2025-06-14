@@ -4,10 +4,16 @@
   "nama": "المنٰفقون",
   "nama_latin": "Al-Munafiqun",
   "jumlah_ayat": 11,
-  "tempat_turun": "madinah",
+  "tempat_turun": "Madinah",
   "arti": "Orang-Orang Munafik",
   "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hajj. Surat ini dinamai <i>Al-Munaafiquun</i>  yang artinya orang-orang munafik, karena surat ini mengungkapkan  sifat-sifat orang-orang munafik.",
-  "audio": "https://santrikoding.com/storage/audio/063.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/063.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/063.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/063.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/063.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/063.mp3"
+  },
   "ayat": [
     {
       "id": 5189,
@@ -99,25 +105,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 64,
     "nomor": 64,
     "nama": "التغابن",
     "nama_latin": "At-Tagabun",
-    "jumlah_ayat": 18,
-    "tempat_turun": "madinah",
-    "arti": "Pengungkapan Kesalahan",
-    "deskripsi": "Surat ini terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah dan diturunkan sesudah surat At Tahrim. Nama <i>At Taghaabun</i> diambil dari kata <i>At Taghaabun</i> yang terdapat pada ayat ke 9 yang artinya <i>hari dinampakkan kesalahan-kesalahan</i>.",
-    "audio": "https://santrikoding.com/storage/audio/064.mp3"
+    "jumlah_ayat": 18
   },
   "surat_sebelumnya": {
-    "id": 62,
     "nomor": 62,
     "nama": "الجمعة",
     "nama_latin": "Al-Jumu'ah",
-    "jumlah_ayat": 11,
-    "tempat_turun": "madinah",
-    "arti": "Jumat",
-    "deskripsi": "Surat Al Jumu'ah ini terdiri atas 11 ayat, termasuk golongan-golongan surat-surat Madaniyyah dan diturunkan sesudah surat Ash Shaf. Nama surat Al Jumu'ah diambil dari kata <i>Al Jumu'ah</i> yang terdapat pada ayat 9 surat ini yang artinya: <i>hari Jum'at</i>.",
-    "audio": "https://santrikoding.com/storage/audio/062.mp3"
+    "jumlah_ayat": 11
   }
 }

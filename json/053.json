@@ -4,10 +4,16 @@
   "nama": "النجم",
   "nama_latin": "An-Najm",
   "jumlah_ayat": 62,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Bintang",
   "deskripsi": "Surat An Najm terdiri atas 62 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Ikhlash. Nama <i>An Najm</i> (bintang), diambil dari perkataan  <i>An Najm</i> yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan <i>An Najm</i> (bintang) adalah karena bintang-bintang yang timbul dan tenggelam, amat besar manfaatnya bagi manusia, sebagai pedoman bagi manusia dalam melakukan pelayaran di lautan, dalam perjalanan di padang pasir, untuk menentukan peredaran musim dan sebagainya.",
-  "audio": "https://santrikoding.com/storage/audio/053.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/053.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/053.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/053.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/053.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/053.mp3"
+  },
   "ayat": [
     {
       "id": 4785,
@@ -507,25 +513,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 54,
     "nomor": 54,
     "nama": "القمر",
     "nama_latin": "Al-Qamar",
-    "jumlah_ayat": 55,
-    "tempat_turun": "mekah",
-    "arti": "Bulan",
-    "deskripsi": "Surat Al Qamar terdiri atas 55 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesedah surat Ath Thaariq. Nama <i>Al Qamar</i> (bulan) diambil dari perkataan <i>Al Qamar</i> yang terdapat pada ayat pertama surat ini. Pada ayat ini diterangkan tentang terbelahnya bulan sebagai mukjizat Nabi Muhammad s.a.w.",
-    "audio": "https://santrikoding.com/storage/audio/054.mp3"
+    "jumlah_ayat": 55
   },
   "surat_sebelumnya": {
-    "id": 52,
     "nomor": 52,
     "nama": "الطور",
     "nama_latin": "At-Tur",
-    "jumlah_ayat": 49,
-    "tempat_turun": "mekah",
-    "arti": "Bukit Tursina",
-    "deskripsi": "Surat Ath Thuur terdiri atas 49 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat As Sajdah. Dinamai <i>Ath Thuur</i> (Bukit) diambil dari perkataan <i>Ath Thuur</i> yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan <i>bukit</i> di sini ialah bukit Thursina yang terletak di semenanjung Sinai, tempat Nabi Musa menerima wahyu dari Tuhannya.",
-    "audio": "https://santrikoding.com/storage/audio/052.mp3"
+    "jumlah_ayat": 49
   }
 }

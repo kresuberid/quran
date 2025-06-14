@@ -4,10 +4,16 @@
   "nama": "الكوثر",
   "nama_latin": "Al-Kausar",
   "jumlah_ayat": 3,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Pemberian Yang Banyak",
   "deskripsi": "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai <i>Al Kautsar</i> (nikmat yang banyak) diambil dari perkataan <i>Al Kautsar</i> yang terdapat pada ayat pertama surat ini.<br>Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
-  "audio": "https://santrikoding.com/storage/audio/108.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/108.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/108.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/108.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/108.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/108.mp3"
+  },
   "ayat": [
     {
       "id": 6205,
@@ -35,25 +41,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 109,
     "nomor": 109,
     "nama": "الكٰفرون",
     "nama_latin": "Al-Kafirun",
-    "jumlah_ayat": 6,
-    "tempat_turun": "mekah",
-    "arti": "Orang-Orang kafir",
-    "deskripsi": "Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa'uun. Dinamai <i>Al Kaafiruun</i> (orang-orang kafir), diambil dari perkataan  <i>Al Kaafiruun</i> yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/109.mp3"
+    "jumlah_ayat": 6
   },
   "surat_sebelumnya": {
-    "id": 107,
     "nomor": 107,
     "nama": "الماعون",
     "nama_latin": "Al-Ma'un",
-    "jumlah_ayat": 7,
-    "tempat_turun": "mekah",
-    "arti": "Barang Yang Berguna",
-    "deskripsi": "Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama <i>Al Maa'uun</i> diambil dari kata <i>Al Maa'uun</i> yang terdapat pada ayat 7, artinya barang-barang yang berguna.",
-    "audio": "https://santrikoding.com/storage/audio/107.mp3"
+    "jumlah_ayat": 7
   }
 }

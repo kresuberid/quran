@@ -4,10 +4,16 @@
   "nama": "الانفال",
   "nama_latin": "Al-Anfal",
   "jumlah_ayat": 75,
-  "tempat_turun": "madinah",
+  "tempat_turun": "Madinah",
   "arti": "Rampasan Perang",
   "deskripsi": "Surat Al Anfaal terdiri atas 75 ayat dan termasuk golongan surat-surat Madaniyyah, karena seluruh ayat-ayatnya diturunkan di Madinah. Surat ini dinamakan <i>Al Anfaal</i> yang berarti harta rampasan perang berhubung kata <i>Al Anfaal</i> terdapat pada permulaan surat ini dan juga persoalan yang menonjol dalam surat ini ialah tentang harta rampasan perang, hukum perang dan hal-hal yang berhubungan dengan peperangan pada umumnya. Menurut riwayat Ibnu Abbas r.a. surat ini diturunkan berkenaan dengan perang Badar Kubra yang terjadi pada tahun kedua hijrah. Peperangan ini sangat penting artinya, karena dialah yang menentukan jalan sejarah Perkembangan Islam. Pada waktu itu umat Islam dengan berkekuatan kecil untuk pertama kali dapat mengalahkan kaum musyrikin yang berjumlah besar, dan berperlengkapan yang cukup, dan mereka dalam peperangan ini memperoleh harta rampasan perang yang tidak sedikit. Oleh sebab itu timbullah masalah bagaimana membagi harta-harta rampasan perang itu, maka kemudian Allah menurunkan ayat pertama dari surat ini.",
-  "audio": "https://santrikoding.com/storage/audio/008.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/008.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/008.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/008.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/008.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/008.mp3"
+  },
   "ayat": [
     {
       "id": 1161,
@@ -611,25 +617,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 9,
     "nomor": 9,
     "nama": "التوبة",
     "nama_latin": "At-Taubah",
-    "jumlah_ayat": 129,
-    "tempat_turun": "madinah",
-    "arti": "Pengampunan",
-    "deskripsi": "Surat At Taubah terdiri atas 129 ayat termasuk golongan surat-surat Madaniyyah. Surat ini dinamakan <i>At Taubah</i> yang berarti pengampunan berhubung kata <i>At Taubah</i> berulang kali disebut dalam surat ini. Dinamakan juga dengan <i>Baraah</i> yang berarti berlepas diri yang di sini maksudnya pernyataan pemutusan perhubungan, disebabkan kebanyakan pokok pembicaraannya tentang pernyataan pemutusan perjanjian damai dengan kaum musyrikin. <br> Di samping kedua nama yang masyhur itu ada lagi beberapa nama yang lain yang merupakan sifat dari surat ini. <br> Berlainan dengan surat-surat yang lain, maka pada permulaan surat ini tidak terdapat basmalah, karena surat ini adalah pernyataan perang dengan arti bahwa segenap kaum muslimin dikerahkan untuk memerangi seluruh kaum musyrikin, sedangkan basmalah bernafaskan perdamaian dan cinta kasih Allah. <br> Surat ini diturunkan sesudah Nabi Muhammad s.a.w. kembali dari peperangan Tabuk yang terjadi pada tahun 9 H. Pengumuman ini disampaikan oleh Saidina 'Ali r.a. pada musim haji tahun itu juga.",
-    "audio": "https://santrikoding.com/storage/audio/009.mp3"
+    "jumlah_ayat": 129
   },
   "surat_sebelumnya": {
-    "id": 7,
     "nomor": 7,
     "nama": "الاعراف",
     "nama_latin": "Al-A'raf",
-    "jumlah_ayat": 206,
-    "tempat_turun": "mekah",
-    "arti": "Tempat Tertinggi",
-    "deskripsi": "Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat <i>Assab 'uththiwaal</i> (tujuh surat yang panjang). Dinamakan <i>Al A'raaf</i> karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.",
-    "audio": "https://santrikoding.com/storage/audio/007.mp3"
+    "jumlah_ayat": 206
   }
 }

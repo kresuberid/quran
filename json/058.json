@@ -4,10 +4,16 @@
   "nama": "المجادلة",
   "nama_latin": "Al-Mujadalah",
   "jumlah_ayat": 22,
-  "tempat_turun": "madinah",
+  "tempat_turun": "Madinah",
   "arti": "Gugatan",
   "deskripsi": "Surat Al Mujaadilah terdiri atas 22 ayat, termasuk golongan surat Madaniyyah, diturunkan sesudah surat Al Munaafiquun. Surat ini dinamai dengan <i>Al Mujaadilah</i> (wanita yang mengajukan gugatan) karena pada awal surat ini disebutkan bantahan seorang perempuan, menurut riwayat bernama Khaulah binti Tsa'labah terhadap sikap suaminya yang telah menzhiharnya. Hal ini diadukan kepada Rasulullah s.a.w. dan ia menuntut supaya beliau memberikan putusan yang adil dalam persoalan itu. Dinamai juga <i>Al Mujaadalah</i> yang berarti <i>perbantahan</i>.",
-  "audio": "https://santrikoding.com/storage/audio/058.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/058.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/058.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/058.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/058.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/058.mp3"
+  },
   "ayat": [
     {
       "id": 5105,
@@ -187,25 +193,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 59,
     "nomor": 59,
     "nama": "الحشر",
     "nama_latin": "Al-Hasyr",
-    "jumlah_ayat": 24,
-    "tempat_turun": "madinah",
-    "arti": "Pengusiran",
-    "deskripsi": "Surat Al Hasyr terdiri atas 24 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Bayyinah.<br> \tDinamai surat <i>Al Hasyr</i> (pengusiran) diambil dari perkataan <i>Al-Hasyr</i> yang terdapat pada ayat 2 surat ini. Di dalam surat ini disebutkan  kisah pengusiran suatu suku Yahudi yang bernama Bani Nadhir yang berdiam  di sekitar kota Madinah.",
-    "audio": "https://santrikoding.com/storage/audio/059.mp3"
+    "jumlah_ayat": 24
   },
   "surat_sebelumnya": {
-    "id": 57,
     "nomor": 57,
     "nama": "الحديد",
     "nama_latin": "Al-Hadid",
-    "jumlah_ayat": 29,
-    "tempat_turun": "madinah",
-    "arti": "Besi",
-    "deskripsi": "Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai <i>Al Hadiid</i> (Besi), diambil dari perkataan <i>Al Hadiid</i> yang terdapat pada ayat 25 surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/057.mp3"
+    "jumlah_ayat": 29
   }
 }

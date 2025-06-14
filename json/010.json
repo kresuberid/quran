@@ -4,10 +4,16 @@
   "nama": "يونس",
   "nama_latin": "Yunus",
   "jumlah_ayat": 109,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Yunus",
   "deskripsi": "Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai <i>surat Yunus</i> karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.",
-  "audio": "https://santrikoding.com/storage/audio/010.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/010.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/010.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/010.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/010.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/010.mp3"
+  },
   "ayat": [
     {
       "id": 1365,
@@ -883,25 +889,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 11,
     "nomor": 11,
     "nama": "هود",
     "nama_latin": "Hud",
-    "jumlah_ayat": 123,
-    "tempat_turun": "mekah",
-    "arti": "Hud",
-    "deskripsi": "Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai <i>surat Huud</i> karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.",
-    "audio": "https://santrikoding.com/storage/audio/011.mp3"
+    "jumlah_ayat": 123
   },
   "surat_sebelumnya": {
-    "id": 9,
     "nomor": 9,
     "nama": "التوبة",
     "nama_latin": "At-Taubah",
-    "jumlah_ayat": 129,
-    "tempat_turun": "madinah",
-    "arti": "Pengampunan",
-    "deskripsi": "Surat At Taubah terdiri atas 129 ayat termasuk golongan surat-surat Madaniyyah. Surat ini dinamakan <i>At Taubah</i> yang berarti pengampunan berhubung kata <i>At Taubah</i> berulang kali disebut dalam surat ini. Dinamakan juga dengan <i>Baraah</i> yang berarti berlepas diri yang di sini maksudnya pernyataan pemutusan perhubungan, disebabkan kebanyakan pokok pembicaraannya tentang pernyataan pemutusan perjanjian damai dengan kaum musyrikin. <br> Di samping kedua nama yang masyhur itu ada lagi beberapa nama yang lain yang merupakan sifat dari surat ini. <br> Berlainan dengan surat-surat yang lain, maka pada permulaan surat ini tidak terdapat basmalah, karena surat ini adalah pernyataan perang dengan arti bahwa segenap kaum muslimin dikerahkan untuk memerangi seluruh kaum musyrikin, sedangkan basmalah bernafaskan perdamaian dan cinta kasih Allah. <br> Surat ini diturunkan sesudah Nabi Muhammad s.a.w. kembali dari peperangan Tabuk yang terjadi pada tahun 9 H. Pengumuman ini disampaikan oleh Saidina 'Ali r.a. pada musim haji tahun itu juga.",
-    "audio": "https://santrikoding.com/storage/audio/009.mp3"
+    "jumlah_ayat": 129
   }
 }

@@ -4,10 +4,16 @@
   "nama": "الفيل",
   "nama_latin": "Al-Fil",
   "jumlah_ayat": 5,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Gajah",
   "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kaafirun. Nama <i>Al Fiil</i> diambil dari kata <i>Al Fiil</i> yang terdapat pada ayat pertama surat ini, artinya <i>gajah</i>. Surat Al Fiil mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka'bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad s.a.w. dilahirkan.",
-  "audio": "https://santrikoding.com/storage/audio/105.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/105.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/105.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/105.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/105.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/105.mp3"
+  },
   "ayat": [
     {
       "id": 6189,
@@ -51,25 +57,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 106,
     "nomor": 106,
     "nama": "قريش",
     "nama_latin": "Quraisy",
-    "jumlah_ayat": 4,
-    "tempat_turun": "mekah",
-    "arti": "Quraisy",
-    "deskripsi": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama <i>Quraisy</i> diambil dari kata <i>Quraisy</i> yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah.",
-    "audio": "https://santrikoding.com/storage/audio/106.mp3"
+    "jumlah_ayat": 4
   },
   "surat_sebelumnya": {
-    "id": 104,
     "nomor": 104,
     "nama": "الهمزة",
     "nama_latin": "Al-Humazah",
-    "jumlah_ayat": 9,
-    "tempat_turun": "mekah",
-    "arti": "Pengumpat",
-    "deskripsi": "Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai <i>Al Humazah</i> (pengumpat) diambil dari perkataan <i>Humazah</i> yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/104.mp3"
+    "jumlah_ayat": 9
   }
 }

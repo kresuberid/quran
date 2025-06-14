@@ -4,10 +4,16 @@
   "nama": "الرحمن",
   "nama_latin": "Ar-Rahman",
   "jumlah_ayat": 78,
-  "tempat_turun": "madinah",
+  "tempat_turun": "Madinah",
   "arti": "Maha Pengasih",
   "deskripsi": "Surat Ar Rahmaan terdiri atas 78 ayat, termasuk golongan surat- surat Makkiyyah, diturunkan sesudah surat Ar Ra'du. Dinamai <i>Ar Rahmaan</i> (Yang Maha Pemurah), diambil dari perkataan <i>Ar Rahmaan</i> yang terdapat pada ayat pertama surat ini. Ar Rahmaan adalah salah satu dari nama-nama Allah. Sebagian besar dari surat ini menerangkan kepemurahan Allah s.w.t. kepada hamba-hamba-Nya, yaitu dengan memberikan nikmat-nikmat yang tidak terhingga baik di dunia maupun di akhirat nanti.",
-  "audio": "https://santrikoding.com/storage/audio/055.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/055.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/055.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/055.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/055.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/055.mp3"
+  },
   "ayat": [
     {
       "id": 4902,
@@ -635,25 +641,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 56,
     "nomor": 56,
     "nama": "الواقعة",
     "nama_latin": "Al-Waqi'ah",
-    "jumlah_ayat": 96,
-    "tempat_turun": "mekah",
-    "arti": "Hari Kiamat",
-    "deskripsi": "Surat Al Waaqi'ah terdiri atas 96 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Thaa Haa. \tDinamai dengan <i>Al Waaqi'ah</i> (Hari Kiamat), diambil dari perkataan <i>Al Waaqi'ah</i> yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/056.mp3"
+    "jumlah_ayat": 96
   },
   "surat_sebelumnya": {
-    "id": 54,
     "nomor": 54,
     "nama": "القمر",
     "nama_latin": "Al-Qamar",
-    "jumlah_ayat": 55,
-    "tempat_turun": "mekah",
-    "arti": "Bulan",
-    "deskripsi": "Surat Al Qamar terdiri atas 55 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesedah surat Ath Thaariq. Nama <i>Al Qamar</i> (bulan) diambil dari perkataan <i>Al Qamar</i> yang terdapat pada ayat pertama surat ini. Pada ayat ini diterangkan tentang terbelahnya bulan sebagai mukjizat Nabi Muhammad s.a.w.",
-    "audio": "https://santrikoding.com/storage/audio/054.mp3"
+    "jumlah_ayat": 55
   }
 }

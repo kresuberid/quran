@@ -4,10 +4,16 @@
   "nama": "الانفطار",
   "nama_latin": "Al-Infitar",
   "jumlah_ayat": 19,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Terbelah",
   "deskripsi": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat An Naazi'aat. Al Infithaar yang dijadikan  nama untuk surat ini adalah kata asal dari kata <i>Infatharat</i> (terbelah)  yang terdapat pada ayat pertama.",
-  "audio": "https://santrikoding.com/storage/audio/082.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/082.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/082.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/082.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/082.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/082.mp3"
+  },
   "ayat": [
     {
       "id": 5830,
@@ -163,25 +169,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 83,
     "nomor": 83,
     "nama": "المطفّفين",
     "nama_latin": "Al-Mutaffifin",
-    "jumlah_ayat": 36,
-    "tempat_turun": "mekah",
-    "arti": "Orang-Orang Curang",
-    "deskripsi": "Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al 'Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. <i>Al Muthaffifiin</i>  yang dijadikan nama bagi surat ini diambil dari kata  <i>Al Muthaffifiin</i> yang terdapat pada ayat pertama.",
-    "audio": "https://santrikoding.com/storage/audio/083.mp3"
+    "jumlah_ayat": 36
   },
   "surat_sebelumnya": {
-    "id": 81,
     "nomor": 81,
     "nama": "التكوير",
     "nama_latin": "At-Takwir",
-    "jumlah_ayat": 29,
-    "tempat_turun": "mekah",
-    "arti": "Penggulungan",
-    "deskripsi": "Surat At Takwir terdiri atas 29 ayat dan termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Masadd. Kata <i>At Takwir</i> (terbelah) yang menjadi nama bagi surat ini adalah dari kata asal (mashdar) dari kata kerja <i>kuwwirat</i> (digulung) yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/081.mp3"
+    "jumlah_ayat": 29
   }
 }

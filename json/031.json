@@ -4,10 +4,16 @@
   "nama": "لقمٰن",
   "nama_latin": "Luqman",
   "jumlah_ayat": 34,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Luqman",
   "deskripsi": "Surat  Luqman  terdiri   dari   34   ayat,   termasuk   golongan   surat-surat Makkiyyah, diturunkan sesudah surat Ash Shaffaat. <br>Dinamai <i>Luqman</i> karena pada  ayat  12   disebutkan   bahwa   <i>Luqman</i>   telah diberi   oleh   Allah   nikmat   dan   ilmu   pengetahuan,  oleh sebab itu dia bersyukur kepadaNya atas nikmat yang  diberikan  itu.   Dan   pada   ayat   13 sampai 19 terdapat nasihat-nasihat Luqman kepada anaknya.<br>Ini adalah sebagai  isyarat   daripada   Allah   supaya   setiap   ibu   bapak melaksanakan  pula terhadap anak-anak mereka sebagai yang telah dilakukan oleh Luqman.",
-  "audio": "https://santrikoding.com/storage/audio/031.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/031.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/031.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/031.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/031.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/031.mp3"
+  },
   "ayat": [
     {
       "id": 3470,
@@ -283,25 +289,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 32,
     "nomor": 32,
     "nama": "السّجدة",
     "nama_latin": "As-Sajdah",
-    "jumlah_ayat": 30,
-    "tempat_turun": "mekah",
-    "arti": "Sajdah",
-    "deskripsi": "Surat As Sajdah terdiri atas 30 ayat termasuk golongan surat Makkiyah diturunkan sesudah surat Al Mu'minuun. Dinamakan <i>As Sajdah</i> berhubung pada surat ini terdapat ayat sajdah, yaitu ayat yang kelima belas.",
-    "audio": "https://santrikoding.com/storage/audio/032.mp3"
+    "jumlah_ayat": 30
   },
   "surat_sebelumnya": {
-    "id": 30,
     "nomor": 30,
     "nama": "الرّوم",
     "nama_latin": "Ar-Rum",
-    "jumlah_ayat": 60,
-    "tempat_turun": "mekah",
-    "arti": "Romawi",
-    "deskripsi": "Surat Ar Ruum terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah ayat Al Insyiqaq. Dinamakan <i>Ar Ruum</i> karena pada permulaan surat ini, yaitu ayat 2, 3 dan 4 terdapat pemberitaan bangsa Rumawi yang pada mulanya dikalahkan oleh bangsa Persia, tetapi setelah beberapa tahun kemudian kerajaan Ruum dapat menuntut balas dan mengalahkan kerajaan Persia kembali. Ini adalah suatu mukjizat Al Quran, yaitu memberitakan hal-hal yang akan terjadi di masa yang akan datang. Dan juga suatu isyarat bahwa kaum muslimin yang demikian lemahnya di waktu itu akan menang dan dapat menghancurkan kaum musyrikin. Isyarat ini terbukti pertama kali pada perang Badar.",
-    "audio": "https://santrikoding.com/storage/audio/030.mp3"
+    "jumlah_ayat": 60
   }
 }

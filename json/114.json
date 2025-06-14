@@ -4,10 +4,16 @@
   "nama": "الناس",
   "nama_latin": "An-Nas",
   "jumlah_ayat": 6,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Manusia",
   "deskripsi": "Surat ini terdiri atas 6 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Falaq. Nama <i>An Naas</i> diambil dari <i>An Naas</i> yang berulang kali disebut dalam surat ini yang artinya manusia.",
-  "audio": "https://santrikoding.com/storage/audio/114.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/114.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/114.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/114.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/114.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/114.mp3"
+  },
   "ayat": [
     {
       "id": 6231,
@@ -60,14 +66,9 @@
   ],
   "surat_selanjutnya": false,
   "surat_sebelumnya": {
-    "id": 113,
     "nomor": 113,
     "nama": "الفلق",
     "nama_latin": "Al-Falaq",
-    "jumlah_ayat": 5,
-    "tempat_turun": "mekah",
-    "arti": "Subuh",
-    "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Fiil. Nama <i>Al Falaq</i> diambil dari kata <i>Al Falaq</i> yang terdapat pada ayat pertama surat ini yang artinya waktu subuh. Diriwayatkan oleh Abu Daud, At Tirmizi dan An Nasa-i dari 'Uqbah bin 'Aamir bahwa Rasulullah s.a.w. bersembahyang dengan membaca surat Al Falaq  dan surat An Naas dalam perjalanan.",
-    "audio": "https://santrikoding.com/storage/audio/113.mp3"
+    "jumlah_ayat": 5
   }
 }

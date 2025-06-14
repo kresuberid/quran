@@ -4,10 +4,16 @@
   "nama": "المزّمّل",
   "nama_latin": "Al-Muzzammil",
   "jumlah_ayat": 20,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Orang Yang Berselimut",
   "deskripsi": "Surat Al Muzzammil terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qalam.<br>Dinamai <i>Al Muzzammil</i> (orang yang berselimut) diambil dari perkataan <i>Al Muzzammil</i> yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan <i>orang yang berkemul</i> ialah Nabi Muhammad s.a.w.",
-  "audio": "https://santrikoding.com/storage/audio/073.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/073.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/073.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/073.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/073.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/073.mp3"
+  },
   "ayat": [
     {
       "id": 5476,
@@ -171,25 +177,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 74,
     "nomor": 74,
     "nama": "المدّثّر",
     "nama_latin": "Al-Muddassir",
-    "jumlah_ayat": 56,
-    "tempat_turun": "mekah",
-    "arti": "Orang Yang Berkemul",
-    "deskripsi": "Surat Al Muddatstsir terdiri atas 56 ayat, termasuk golongan  surat-surat Makkiyah, diturunkan sesudah surat Al Muzzammil. \tDinamai <i>Al Muddatstsir</i> (orang yang berkemul) diambil dari perkataan <i>Al Muddatstsir</i> yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/074.mp3"
+    "jumlah_ayat": 56
   },
   "surat_sebelumnya": {
-    "id": 72,
     "nomor": 72,
     "nama": "الجن",
     "nama_latin": "Al-Jinn",
-    "jumlah_ayat": 28,
-    "tempat_turun": "mekah",
-    "arti": "Jin",
-    "deskripsi": "Surat Al Jin terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al A'raaf. Dinamai <i>Al Jin</i> diambil dari perkataan <i>Al Jin</i> yang terdapat  pada ayat pertama surat ini. Pada ayat tersebut dan ayat-ayat berikutnya  diterangkan bahwa Jin sebagai makhluk halus telah mendengar pembacaan  Al Quran dan mereka mengikuti ajaran Al Quran tersebut.",
-    "audio": "https://santrikoding.com/storage/audio/072.mp3"
+    "jumlah_ayat": 28
   }
 }

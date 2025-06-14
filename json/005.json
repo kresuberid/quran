@@ -4,10 +4,16 @@
   "nama": "الماۤئدة",
   "nama_latin": "Al-Ma'idah",
   "jumlah_ayat": 120,
-  "tempat_turun": "madinah",
+  "tempat_turun": "Madinah",
   "arti": "Hidangan",
   "deskripsi": "Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan <i>Al Maa'idah</i> (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan <i>Al Uqud</i> (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga <i>Al Munqidz</i> (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.",
-  "audio": "https://santrikoding.com/storage/audio/005.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/005.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/005.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/005.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/005.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/005.mp3"
+  },
   "ayat": [
     {
       "id": 670,
@@ -971,25 +977,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 6,
     "nomor": 6,
     "nama": "الانعام",
     "nama_latin": "Al-An'am",
-    "jumlah_ayat": 165,
-    "tempat_turun": "mekah",
-    "arti": "Binatang Ternak",
-    "deskripsi": "Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan <i>Al An'aam</i> karena di dalamnya disebut kata <i>An'aam</i> dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.",
-    "audio": "https://santrikoding.com/storage/audio/006.mp3"
+    "jumlah_ayat": 165
   },
   "surat_sebelumnya": {
-    "id": 4,
     "nomor": 4,
     "nama": "النساۤء",
     "nama_latin": "An-Nisa'",
-    "jumlah_ayat": 176,
-    "tempat_turun": "madinah",
-    "arti": "Wanita",
-    "deskripsi": "Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan <i>An Nisaa'</i> karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: <i>Surat An Nisaa' Al Kubraa</i> (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: <i>Surat An Nisaa' Ash Shughraa</i> (surat An Nisaa' yang kecil).",
-    "audio": "https://santrikoding.com/storage/audio/004.mp3"
+    "jumlah_ayat": 176
   }
 }

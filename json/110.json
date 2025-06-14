@@ -4,10 +4,16 @@
   "nama": "النصر",
   "nama_latin": "An-Nasr",
   "jumlah_ayat": 3,
-  "tempat_turun": "madinah",
+  "tempat_turun": "Madinah",
   "arti": "Pertolongan",
   "deskripsi": "Surat An Nashr terdiri atas 3 ayat, termasuk golongan surat-surat  Madaniyyah yang diturunkan di Mekah sesudah surat At Taubah.  Dinamai <i>An Nashr</i> (pertolongan) diambil dari perkataan <i>Nashr</i> yang  terdapat pada ayat pertama surat ini.",
-  "audio": "https://santrikoding.com/storage/audio/110.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/110.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/110.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/110.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/110.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/110.mp3"
+  },
   "ayat": [
     {
       "id": 6214,
@@ -35,25 +41,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 111,
     "nomor": 111,
     "nama": "اللهب",
     "nama_latin": "Al-Lahab",
-    "jumlah_ayat": 5,
-    "tempat_turun": "mekah",
-    "arti": "Api Yang Bergejolak",
-    "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Al Fath. Nama <i>Al Lahab</i> diambil dari kata  <i>Al Lahab</i> yang terdapat pada ayat ketiga surat ini yang artinya gejolak  api. Surat ini juga dinamakan surat <i>Al Masad</i>.",
-    "audio": "https://santrikoding.com/storage/audio/111.mp3"
+    "jumlah_ayat": 5
   },
   "surat_sebelumnya": {
-    "id": 109,
     "nomor": 109,
     "nama": "الكٰفرون",
     "nama_latin": "Al-Kafirun",
-    "jumlah_ayat": 6,
-    "tempat_turun": "mekah",
-    "arti": "Orang-Orang kafir",
-    "deskripsi": "Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa'uun. Dinamai <i>Al Kaafiruun</i> (orang-orang kafir), diambil dari perkataan  <i>Al Kaafiruun</i> yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/109.mp3"
+    "jumlah_ayat": 6
   }
 }

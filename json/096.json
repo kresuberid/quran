@@ -4,10 +4,16 @@
   "nama": "العلق",
   "nama_latin": "Al-'Alaq",
   "jumlah_ayat": 19,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Segumpal Darah",
   "deskripsi": "Surat Al 'Alaq terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah. Ayat 1 sampai dengan 5 dari surat ini adalah ayat-ayat Al Quran yang pertama sekali diturunkan, yaitu di waktu Nabi Muhammad s.a.w. berkhalwat di gua Hira'. Surat ini dinamai <i>Al 'Alaq</i> (segumpal darah), diambil dari perkataan <i>Alaq</i> yang terdapat pada ayat 2 surat ini. Surat ini dinamai juga dengan <i>Iqra</i> atau <i>Al Qalam</i>.",
-  "audio": "https://santrikoding.com/storage/audio/096.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/096.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/096.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/096.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/096.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/096.mp3"
+  },
   "ayat": [
     {
       "id": 6107,
@@ -163,25 +169,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 97,
     "nomor": 97,
     "nama": "القدر",
     "nama_latin": "Al-Qadr",
-    "jumlah_ayat": 5,
-    "tempat_turun": "mekah",
-    "arti": "Kemuliaan",
-    "deskripsi": "Surat Al Qadr terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat 'Abasa. Surat ini dinamai <i>Al Qadr</i> (kemuliaan), diambil dari perkataan <i>Al Qadr</i> yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/097.mp3"
+    "jumlah_ayat": 5
   },
   "surat_sebelumnya": {
-    "id": 95,
     "nomor": 95,
     "nama": "التين",
     "nama_latin": "At-Tin",
-    "jumlah_ayat": 8,
-    "tempat_turun": "mekah",
-    "arti": "Buah Tin",
-    "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata <i>At Tiin</i> yang terdapat pada ayat pertama surat ini yang artinya buah Tin.",
-    "audio": "https://santrikoding.com/storage/audio/095.mp3"
+    "jumlah_ayat": 8
   }
 }

@@ -4,10 +4,16 @@
   "nama": "فصّلت",
   "nama_latin": "Fussilat",
   "jumlah_ayat": 54,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Yang Dijelaskan",
   "deskripsi": "Surat Fushshilat terdiri atas 54 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Mu'min. Dinamai <i>Fushshilat</i> (yang dijelaskan) karena ada hubungannya dengan perkataan <i>Fushshilat</i> yang terdapat pada permulaan surat ini yang berarti <i>yang dijelaskan</i>. Maksudnya ayat-ayatnya diperinci dengan jelas tentang hukum-hukum, keimanan, janji dan ancaman, budi pekerti, kisah, dan sebagainya. Dinamai juga dengan <i>Haa Miim dan As Sajdah</i> karena surat ini dimulai dengan <i>Haa Miim</i> dan dalam surat ini terdapat ayat Sajdah.",
-  "audio": "https://santrikoding.com/storage/audio/041.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/041.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/041.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/041.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/041.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/041.mp3"
+  },
   "ayat": [
     {
       "id": 4219,
@@ -443,25 +449,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 42,
     "nomor": 42,
     "nama": "الشورى",
     "nama_latin": "Asy-Syura",
-    "jumlah_ayat": 53,
-    "tempat_turun": "mekah",
-    "arti": "Musyawarah",
-    "deskripsi": "Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan <i>Asy Syuura</i> (musyawarat) diambil dari perkataan <i>Syuura</i> yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga <i>Haa Miim 'Ain Siin Qaaf</i> karena surat ini dimulai dengan huruf-huruf hijaiyah itu.",
-    "audio": "https://santrikoding.com/storage/audio/042.mp3"
+    "jumlah_ayat": 53
   },
   "surat_sebelumnya": {
-    "id": 40,
     "nomor": 40,
     "nama": "غافر",
     "nama_latin": "Gafir",
-    "jumlah_ayat": 85,
-    "tempat_turun": "mekah",
-    "arti": "Maha Pengampun",
-    "deskripsi": "Surat Al Mu'min terdiri atas 85 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Az Zumar. Dinamai <i>Al Mu'min</i> (Orang yang beriman), berhubung dengan perkataan <i>mukmin</i> yang terdapat pada ayat 28 surat ini. Pada ayat 28 diterangkan bahwa salah seorang dari kaum Fir'aun telah beriman kepada Nabi Musa a.s. dengan menyembunyikan imannya kepada kaumnya, setelah mendengar keterangan dan melihat mukjizat yang dikemukakan oleh Nabi Musa a.s. Hati kecil orang ini mencela Fir'aun dan kaumnya yang tidak mau beriman kepada Nabi Musa a.s., sekalipun telah dikemukakan keterangan dan mukjizat yang diminta mereka.<br>Dinamakan pula <i>Ghafir</i> (yang mengampuni), karena ada hubungannya dengan kalimat <i>Ghafir</i> yang terdapat pada ayat 3 surat ini. Ayat ini mengingatkan bahwa <i>Maha Pengampun</i> dan <i>Maha Penerima Taubat</i> adalah sebagian dari sifat-sifat Allah, karena itu hamba-hamba Allah tidak usah khawatir terhadap  perbuatan-perbuatan dosa yang telah terlanjur mereka lakukan, semuanya itu akan diampuni Allah asal benar-benar memohon ampun dan bertaubat kepada-Nya dan berjanji tidak akan mengerjakan  perbuatan-perbuatan dosa itu lagi. Dan surat ini dinamai <i>Dzit Thaul</i> (Yang Mempunyai Kurnia) karena perkataan tersebut terdapat pada ayat 3.",
-    "audio": "https://santrikoding.com/storage/audio/040.mp3"
+    "jumlah_ayat": 85
   }
 }

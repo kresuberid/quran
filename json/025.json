@@ -4,10 +4,16 @@
   "nama": "الفرقان",
   "nama_latin": "Al-Furqan",
   "jumlah_ayat": 77,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Pembeda",
   "deskripsi": "Surat ini terdiri atas 77 ayat, termasuk golongan surat-surat Makkiyah. Dinamai <i>Al Furqaan</i> yang artinya <i>pembeda</i>, diambil dari kata <i>Al Furqaan</i> yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan Al Furqaan dalam ayat ini ialah Al Quran.<br> Al Quran dinamakan Al Furqaan karena dia membedakan antara yang haq dengan yang batil. MAka pada surat ini pun terdapat ayat-ayat yang membedakan antara kebenaran ke-esaan Allah s.w.t. dengan kebatilan kepercayaan syirik.",
-  "audio": "https://santrikoding.com/storage/audio/025.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/025.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/025.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/025.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/025.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/025.mp3"
+  },
   "ayat": [
     {
       "id": 2856,
@@ -627,25 +633,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 26,
     "nomor": 26,
     "nama": "الشعراۤء",
     "nama_latin": "Asy-Syu'ara'",
-    "jumlah_ayat": 227,
-    "tempat_turun": "mekah",
-    "arti": "Para Penyair",
-    "deskripsi": "Surat ini terdiri dari 227 ayat termasuk golongan surat-surat Makkiyyah. Dinamakan <i>Asy Syu'araa'</i> (kata jamak dari <i>Asy Syaa'ir</i> yang berarti penyair) diambil dari kata <i>Asy Syuaraa'</i> yang terdapat pada ayat 224, yaitu pada bagian terakhir surat ini, di kala Allah s.w.t. secara khusus menyebutkan kedudukan penyair- penyair. Para penyair-penyair itu mempunyai sifat-sifat yang jauh berbeda dengan para rasul-rasul; mereka diikuti oleh orang-orang yang sesat dan mereka suka memutar balikkan lidah dan mereka tidak mempunyai pendirian, perbuatan mereka tidak sesuai dengan tidak mempunyai pendirian, perbuatan mereka tidak sesuai dengan apa yang mereka ucapkan. Sifat-sifat yang demikian tidaklah sekali-kali terdapat pada rasul-rasul. Oleh karena demikian tidak patut bila Nabi Muhammad s.a.w. dituduh sebagai penyair, dan Al Quran dituduh sebagai syair, Al Quran adalah wahyu Allah, bukan buatan manusia.",
-    "audio": "https://santrikoding.com/storage/audio/026.mp3"
+    "jumlah_ayat": 227
   },
   "surat_sebelumnya": {
-    "id": 24,
     "nomor": 24,
     "nama": "النّور",
     "nama_latin": "An-Nur",
-    "jumlah_ayat": 64,
-    "tempat_turun": "madinah",
-    "arti": "Cahaya",
-    "deskripsi": "Surat An Nuur terdiri atas 64 ayat, dan termasuk golongan surat-surat Madaniyah. Dinamai <i>An Nuur</i> yang berarti <i>Cahaya</i>, diambil dari kata An Nuur yang terdapat pada ayat ke 35. Dalam ayat ini, Allah s.w.t. menjelaskan tentang Nuur Ilahi, yakni Al Quran yang mengandung petunjuk-petunjuk. Petunjuk-petunjuk Allah itu, merupakan cahaya yang terang benderang menerangi alam semesta. Surat ini sebagian besar isinya memuat petunjuk- petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.",
-    "audio": "https://santrikoding.com/storage/audio/024.mp3"
+    "jumlah_ayat": 64
   }
 }

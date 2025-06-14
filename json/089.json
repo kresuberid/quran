@@ -4,10 +4,16 @@
   "nama": "الفجر",
   "nama_latin": "Al-Fajr",
   "jumlah_ayat": 30,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Fajar",
   "deskripsi": "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Lail. Nama <i>Al Fajr</i> diambil dari kata <i>Al Fajr</i> yang terdapat pada ayat pertama surat ini yang artinya <i>fajar</i>.",
-  "audio": "https://santrikoding.com/storage/audio/089.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/089.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/089.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/089.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/089.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/089.mp3"
+  },
   "ayat": [
     {
       "id": 5994,
@@ -251,25 +257,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 90,
     "nomor": 90,
     "nama": "البلد",
     "nama_latin": "Al-Balad",
-    "jumlah_ayat": 20,
-    "tempat_turun": "mekah",
-    "arti": "Negeri",
-    "deskripsi": "Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai <i>Al Balad</i>, diambil dari perkataan <i>Al Balad</i> yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.",
-    "audio": "https://santrikoding.com/storage/audio/090.mp3"
+    "jumlah_ayat": 20
   },
   "surat_sebelumnya": {
-    "id": 88,
     "nomor": 88,
     "nama": "الغاشية",
     "nama_latin": "Al-Gasyiyah",
-    "jumlah_ayat": 26,
-    "tempat_turun": "mekah",
-    "arti": "Hari Kiamat",
-    "deskripsi": "Surat ini terdiri atas 26 ayat, termasuk surat-surat Makkiyah, diturunkan sesudah surat Adz Dzaariat. Nama <i>Ghaasyiyah</i> diambil dari kata <i>Al Ghaasyiyah</i> yang terdapat pada ayat pertama surat ini yang  artinya peristiwa yang dahsyat, tapi yang dimaksud adalah hari kiamat. Surat ini adalah surat yang kerap kali dibaca Nabi pada rakaat kedua  pada shalat hari-hari Raya dan shalat Jum'at",
-    "audio": "https://santrikoding.com/storage/audio/088.mp3"
+    "jumlah_ayat": 26
   }
 }

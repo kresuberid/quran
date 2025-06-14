@@ -4,10 +4,16 @@
   "nama": "البلد",
   "nama_latin": "Al-Balad",
   "jumlah_ayat": 20,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Negeri",
   "deskripsi": "Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai <i>Al Balad</i>, diambil dari perkataan <i>Al Balad</i> yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.",
-  "audio": "https://santrikoding.com/storage/audio/090.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/090.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/090.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/090.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/090.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/090.mp3"
+  },
   "ayat": [
     {
       "id": 6024,
@@ -171,25 +177,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 91,
     "nomor": 91,
     "nama": "الشمس",
     "nama_latin": "Asy-Syams",
-    "jumlah_ayat": 15,
-    "tempat_turun": "mekah",
-    "arti": "Matahari",
-    "deskripsi": "Surat Asy Syams terdiri atas 15 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qadar.  Dinamai <i>Asy Syams</i> (matahari) diambil dari perkataan <i>Asy Syams</i> yang terdapat pada ayat permulaan surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/091.mp3"
+    "jumlah_ayat": 15
   },
   "surat_sebelumnya": {
-    "id": 89,
     "nomor": 89,
     "nama": "الفجر",
     "nama_latin": "Al-Fajr",
-    "jumlah_ayat": 30,
-    "tempat_turun": "mekah",
-    "arti": "Fajar",
-    "deskripsi": "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Lail. Nama <i>Al Fajr</i> diambil dari kata <i>Al Fajr</i> yang terdapat pada ayat pertama surat ini yang artinya <i>fajar</i>.",
-    "audio": "https://santrikoding.com/storage/audio/089.mp3"
+    "jumlah_ayat": 30
   }
 }

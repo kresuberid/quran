@@ -4,10 +4,16 @@
   "nama": "فاطر",
   "nama_latin": "Fatir",
   "jumlah_ayat": 45,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Maha Pencipta",
   "deskripsi": "Surat Faathir terdiri atas 45 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Furqaan dan merupakan surat akhir dari urutan surat-surat dalam Al Quran yang dimulai dengan <i>Alhamdulillah</i>. Dinamakan <i>Faathir</i> (pencipta) ada hubungannya dengan perkataan <i>Faathir</i> yang terdapat pada ayat pertama pada surat ini. Pada ayat tersebut diterangkan bahwa Allah adalah Pencipta langit dan bumi, Pencipta malaikat-malaikat, Pencipta semesta alam yang semuanya itu adalah sebagai bukti atas kekuasaan dan kebesaran-Nya. Surat ini dinamai juga dengan <i>surat Malaikat</i> karena pada ayat pertama disebutkan bahwa Allah telah menjadikan malaikat-malaikat sebagai utusan-Nya  yang mempunyai beberapa sayap.",
-  "audio": "https://santrikoding.com/storage/audio/035.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/035.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/035.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/035.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/035.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/035.mp3"
+  },
   "ayat": [
     {
       "id": 3661,
@@ -371,25 +377,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 36,
     "nomor": 36,
     "nama": "يٰسۤ",
     "nama_latin": "Yasin",
-    "jumlah_ayat": 83,
-    "tempat_turun": "mekah",
-    "arti": "Yasin",
-    "deskripsi": "Surat <i>Yaasiin</i> terdiri atas 83 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Jin. Dinamai <i>Yaasiin</i> karena dimulai dengan huruf <i>Yaasiin</i>. Sebagaimana halnya arti huruf-huruf abjad yang terletak pada permulaan beberapa surat Al Quran, maka demikian pula arti <i>Yaasiin</i> yang terdapat pada ayat permulaan surat ini, yaitu Allah mengisyaratkan bahwa sesudah huruf tersebut akan dikemukakan hal-hal yang penting antara lain: Allah bersumpah dengan Al Quran bahwa Muhammad s.a.w. benar-benar seorang rasul yang diutus-Nya kepada kaum yang belum pernah diutus kepada mereka rasul-rasul.",
-    "audio": "https://santrikoding.com/storage/audio/036.mp3"
+    "jumlah_ayat": 83
   },
   "surat_sebelumnya": {
-    "id": 34,
     "nomor": 34,
     "nama": "سبأ",
     "nama_latin": "Saba'",
-    "jumlah_ayat": 54,
-    "tempat_turun": "mekah",
-    "arti": "Saba'",
-    "deskripsi": "Surat Saba' terdiri atas 54 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Luqman. Dinamakan <i>Saba'</i> karena didalamnya terdapat kisah kaum Saba'. Saba' adalah nama suatu kabilah dari kabilah-kabilah Arab yang tinggal di daerah Yaman sekarang ini. Mereka mendirikan kerajaan yang terkenal dengan nama kerajaan Sabaiyyah, ibukotanya Ma'rib; telah dapat membangun suatu bendungan raksasa, yang bernama <i>Bendungan Ma'rib</i>, sehingga negeri meka subur dan makmur. Kemewahan dan kemakmuran ini menyebabkan kaum Saba' lupa dan ingkar kepada Allah yang telah melimpahkan nikmatnya kepada mereka, serta mereka mengingkari pula seruan para rasul. Karena keingkaran mereka ini, Allah menimpahkan kepada mereka azab berupa <i>sailul 'arim</i> (banjir yang besar) yang ditimbulkan oleh bobolnya bendungan Ma'rib. Setelah bendungan ma'rib bobol negeri Saba' menjadi kering dan kerajaan mereka hancur.",
-    "audio": "https://santrikoding.com/storage/audio/034.mp3"
+    "jumlah_ayat": 54
   }
 }

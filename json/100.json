@@ -4,10 +4,16 @@
   "nama": "العٰديٰت",
   "nama_latin": "Al-'Adiyat",
   "jumlah_ayat": 11,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Kuda Yang Berlari Kencang",
   "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al'Ashr. Nama <i>Al 'Aadiyaat</i> diambil dari kata <i>Al 'Aadiyaat</i> yang terdapat pada ayat pertama surat ini, artinya yang berlari kencang.",
-  "audio": "https://santrikoding.com/storage/audio/100.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/100.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/100.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/100.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/100.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/100.mp3"
+  },
   "ayat": [
     {
       "id": 6147,
@@ -99,25 +105,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 101,
     "nomor": 101,
     "nama": "القارعة",
     "nama_latin": "Al-Qari'ah",
-    "jumlah_ayat": 11,
-    "tempat_turun": "mekah",
-    "arti": "Hari Kiamat",
-    "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Quraisy. Nama <i>Al Qaari'ah</i> diambil dari kata <i>Al Qaari'ah</i> yang terdapat pada ayat pertama, artinya mengetok dengan keras, kemudian kata ini dipakai untuk nama hari kiamat.",
-    "audio": "https://santrikoding.com/storage/audio/101.mp3"
+    "jumlah_ayat": 11
   },
   "surat_sebelumnya": {
-    "id": 99,
     "nomor": 99,
     "nama": "الزلزلة",
     "nama_latin": "Az-Zalzalah",
-    "jumlah_ayat": 8,
-    "tempat_turun": "madinah",
-    "arti": "Guncangan",
-    "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama <i>Al Zalzalah</i> diambil dari kata: <i>Zilzaal</i> yang terdapat pada ayat pertama surat ini yang berarti goncangan.",
-    "audio": "https://santrikoding.com/storage/audio/099.mp3"
+    "jumlah_ayat": 8
   }
 }

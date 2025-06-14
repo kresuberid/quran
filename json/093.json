@@ -4,10 +4,16 @@
   "nama": "الضحى",
   "nama_latin": "Ad-Duha",
   "jumlah_ayat": 11,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Duha",
   "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama <i>Adh Dhuhaa</i> diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik.",
-  "audio": "https://santrikoding.com/storage/audio/093.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/093.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/093.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/093.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/093.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/093.mp3"
+  },
   "ayat": [
     {
       "id": 6080,
@@ -99,25 +105,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 94,
     "nomor": 94,
     "nama": "الشرح",
     "nama_latin": "Asy-Syarh",
-    "jumlah_ayat": 8,
-    "tempat_turun": "mekah",
-    "arti": "Lapang",
-    "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat Adh Dhuhaa. Nama <i>Alam Nasyrah</i> diambil dari kata <i>Alam Nasyrah</i> yang terdapat pada ayat pertama, yang berarti: bukankah Kami telah melapangkan.",
-    "audio": "https://santrikoding.com/storage/audio/094.mp3"
+    "jumlah_ayat": 8
   },
   "surat_sebelumnya": {
-    "id": 92,
     "nomor": 92,
     "nama": "الّيل",
     "nama_latin": "Al-Lail",
-    "jumlah_ayat": 21,
-    "tempat_turun": "mekah",
-    "arti": "Malam",
-    "deskripsi": "Surat ini terdiri atas 21 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al A'laa. Surat ini dinamai <i>Al Lail</i> (malam), diambil dari perkataan <i>Al Lail</i> yang terdapat pada ayat pertama surat ini",
-    "audio": "https://santrikoding.com/storage/audio/092.mp3"
+    "jumlah_ayat": 21
   }
 }

@@ -4,10 +4,16 @@
   "nama": "نوح",
   "nama_latin": "Nuh",
   "jumlah_ayat": 28,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Nuh",
   "deskripsi": "Surat ini terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Nahl. <br>Dinamakan dengan surat <i>Nuh</i> karena surat ini seluruhnya menjelaskan da'wah dan doa Nabi Nuh a.s.",
-  "audio": "https://santrikoding.com/storage/audio/071.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/071.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/071.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/071.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/071.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/071.mp3"
+  },
   "ayat": [
     {
       "id": 5420,
@@ -235,25 +241,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 72,
     "nomor": 72,
     "nama": "الجن",
     "nama_latin": "Al-Jinn",
-    "jumlah_ayat": 28,
-    "tempat_turun": "mekah",
-    "arti": "Jin",
-    "deskripsi": "Surat Al Jin terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al A'raaf. Dinamai <i>Al Jin</i> diambil dari perkataan <i>Al Jin</i> yang terdapat  pada ayat pertama surat ini. Pada ayat tersebut dan ayat-ayat berikutnya  diterangkan bahwa Jin sebagai makhluk halus telah mendengar pembacaan  Al Quran dan mereka mengikuti ajaran Al Quran tersebut.",
-    "audio": "https://santrikoding.com/storage/audio/072.mp3"
+    "jumlah_ayat": 28
   },
   "surat_sebelumnya": {
-    "id": 70,
     "nomor": 70,
     "nama": "المعارج",
     "nama_latin": "Al-Ma'arij",
-    "jumlah_ayat": 44,
-    "tempat_turun": "mekah",
-    "arti": "Tempat Naik",
-    "deskripsi": "Surat ini terdiri atas 44 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Haaqqah.<br>Perkataan <i>Al Ma'arij</i> yang menjadi nama bagi surat ini adalah kata jamak dari <i>Mi'raj</i>, diambil dari perkataan Al Ma'arij yang terdapat pada ayat 3, yang artinya menurut bahasa <i>tempat naik</i>. Sedang para ahli  tafsir memberi arti bermacam-macam, di antaranya <i>langit</i>, nikmat karunia dan derajat atau tingkatan yang diberikan Allah s.w.t kepada ahli surga.",
-    "audio": "https://santrikoding.com/storage/audio/070.mp3"
+    "jumlah_ayat": 44
   }
 }

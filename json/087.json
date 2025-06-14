@@ -4,10 +4,16 @@
   "nama": "الاعلى",
   "nama_latin": "Al-A'la",
   "jumlah_ayat": 19,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Maha Tinggi",
   "deskripsi": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyyah, dan diturunkan sesudah surat At Takwiir. Nama <i>Al AÂ´laa</i> diambil dari kata <i>Al AÂ´laa</i> yang terdapat pada ayat pertama, berarti <i>Yang Paling Tinggi</i>. Muslim meriwayatkan dalam kitab Al Jumu'ah, dan diriwayatkan pula oleh Ashhaabus Sunan, dari Nu'man ibnu Basyir bahwa Rasulullah s.a.w. pada shalat dua hari Raya (Fitri dan Adha) dan shalat Jum'at membaca surat Al AÂ´laa pada rakaat pertama, dan surat Al Ghaasyiyah pada rakaat kedua.",
-  "audio": "https://santrikoding.com/storage/audio/087.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/087.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/087.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/087.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/087.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/087.mp3"
+  },
   "ayat": [
     {
       "id": 5949,
@@ -163,25 +169,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 88,
     "nomor": 88,
     "nama": "الغاشية",
     "nama_latin": "Al-Gasyiyah",
-    "jumlah_ayat": 26,
-    "tempat_turun": "mekah",
-    "arti": "Hari Kiamat",
-    "deskripsi": "Surat ini terdiri atas 26 ayat, termasuk surat-surat Makkiyah, diturunkan sesudah surat Adz Dzaariat. Nama <i>Ghaasyiyah</i> diambil dari kata <i>Al Ghaasyiyah</i> yang terdapat pada ayat pertama surat ini yang  artinya peristiwa yang dahsyat, tapi yang dimaksud adalah hari kiamat. Surat ini adalah surat yang kerap kali dibaca Nabi pada rakaat kedua  pada shalat hari-hari Raya dan shalat Jum'at",
-    "audio": "https://santrikoding.com/storage/audio/088.mp3"
+    "jumlah_ayat": 26
   },
   "surat_sebelumnya": {
-    "id": 86,
     "nomor": 86,
     "nama": "الطارق",
     "nama_latin": "At-Tariq",
-    "jumlah_ayat": 17,
-    "tempat_turun": "mekah",
-    "arti": "Yang Datang Di Malam Hari",
-    "deskripsi": "Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai <i>Ath Thaariq</i> (yang datang di malam hari) diambil dari  perkataan <i>Ath Thaariq</i> yang terdapat pada ayat 1 surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/086.mp3"
+    "jumlah_ayat": 17
   }
 }

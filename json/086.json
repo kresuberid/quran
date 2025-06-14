@@ -4,10 +4,16 @@
   "nama": "الطارق",
   "nama_latin": "At-Tariq",
   "jumlah_ayat": 17,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Yang Datang Di Malam Hari",
   "deskripsi": "Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai <i>Ath Thaariq</i> (yang datang di malam hari) diambil dari  perkataan <i>Ath Thaariq</i> yang terdapat pada ayat 1 surat ini.",
-  "audio": "https://santrikoding.com/storage/audio/086.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/086.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/086.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/086.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/086.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/086.mp3"
+  },
   "ayat": [
     {
       "id": 5932,
@@ -147,25 +153,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 87,
     "nomor": 87,
     "nama": "الاعلى",
     "nama_latin": "Al-A'la",
-    "jumlah_ayat": 19,
-    "tempat_turun": "mekah",
-    "arti": "Maha Tinggi",
-    "deskripsi": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyyah, dan diturunkan sesudah surat At Takwiir. Nama <i>Al AÂ´laa</i> diambil dari kata <i>Al AÂ´laa</i> yang terdapat pada ayat pertama, berarti <i>Yang Paling Tinggi</i>. Muslim meriwayatkan dalam kitab Al Jumu'ah, dan diriwayatkan pula oleh Ashhaabus Sunan, dari Nu'man ibnu Basyir bahwa Rasulullah s.a.w. pada shalat dua hari Raya (Fitri dan Adha) dan shalat Jum'at membaca surat Al AÂ´laa pada rakaat pertama, dan surat Al Ghaasyiyah pada rakaat kedua.",
-    "audio": "https://santrikoding.com/storage/audio/087.mp3"
+    "jumlah_ayat": 19
   },
   "surat_sebelumnya": {
-    "id": 85,
     "nomor": 85,
     "nama": "البروج",
     "nama_latin": "Al-Buruj",
-    "jumlah_ayat": 22,
-    "tempat_turun": "mekah",
-    "arti": "Gugusan Bintang",
-    "deskripsi": "Surat Al Buruuj terdiri atas 22 ayat, termasuk golongan surat-surat Makkiyyah diturunkan sesudah surat Asy-Syams.<br>Dinamai <i>Al Buruuj</i> (gugusan bintang) diambil dari perkataan <i>Al Buruuj</i> yang terdapat pada ayat 1 surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/085.mp3"
+    "jumlah_ayat": 22
   }
 }

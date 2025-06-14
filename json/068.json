@@ -4,10 +4,16 @@
   "nama": "القلم",
   "nama_latin": "Al-Qalam",
   "jumlah_ayat": 52,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Pena",
   "deskripsi": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Alaq. <br>Nama <i>Al Qalam</i> diambil dari kata Al Qalam yang terdapat pada ayat pertama surat iniyang artinya <i>pena</i>. Surat ini dinamai pula dengan surat <i>Nun</i> (huruf <i>nun</i>).",
-  "audio": "https://santrikoding.com/storage/audio/068.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/068.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/068.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/068.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/068.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/068.mp3"
+  },
   "ayat": [
     {
       "id": 5272,
@@ -427,25 +433,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 69,
     "nomor": 69,
     "nama": "الحاۤقّة",
     "nama_latin": "Al-Haqqah",
-    "jumlah_ayat": 52,
-    "tempat_turun": "mekah",
-    "arti": "Hari Kiamat",
-    "deskripsi": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Mulk. <br> Nama <i>Al Haaqqah</i> diambil dari kata <i>Al Haaqqah</i> yang terdapat pada ayat pertama surat ini yang artinya <i>hari kiamat</i>",
-    "audio": "https://santrikoding.com/storage/audio/069.mp3"
+    "jumlah_ayat": 52
   },
   "surat_sebelumnya": {
-    "id": 67,
     "nomor": 67,
     "nama": "الملك",
     "nama_latin": "Al-Mulk",
-    "jumlah_ayat": 30,
-    "tempat_turun": "mekah",
-    "arti": "Kerajaan",
-    "deskripsi": "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat  Makkiyah, diturunkan sesudah Ath Thuur.<br> Nama <i>Al Mulk</i> diambil dari kata <i>Al Mulk</i> yang terdapat pada ayat pertama surat ini yang artinya kerajaan atau kekuasaan. Dinamai pula surat ini dengan <i>At Tabaarak</i> (Maha Suci).",
-    "audio": "https://santrikoding.com/storage/audio/067.mp3"
+    "jumlah_ayat": 30
   }
 }

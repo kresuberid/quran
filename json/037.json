@@ -4,10 +4,16 @@
   "nama": "الصّٰۤفّٰت",
   "nama_latin": "As-Saffat",
   "jumlah_ayat": 182,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Barisan-Barisan",
   "deskripsi": "Surat Ash Shaaffaat terdiri atas 182 ayat termasuk golongan surat Makkiyyah diturunkan sesudah surat Al An'aam. Dinamai dengan <i>Ash Shaaffaat</i> (yang bershaf-shaf) ada hubungannya dengan perkataan <i>Ash Shaaffaat</i> yang terletak pada ayat permulaan surat ini yang mengemukakan bagaimana para malaikat yang berbaris di hadapan Tuhannya yang bersih jiwanya, tidak dapat digoda oleh syaitan. Hal ini hendaklah menjadi i'tibar bagi manusia dalam menghambakan dirinya kepada Allah.",
-  "audio": "https://santrikoding.com/storage/audio/037.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/037.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/037.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/037.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/037.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/037.mp3"
+  },
   "ayat": [
     {
       "id": 3789,
@@ -1467,25 +1473,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 38,
     "nomor": 38,
     "nama": "ص",
     "nama_latin": "Sad",
-    "jumlah_ayat": 88,
-    "tempat_turun": "mekah",
-    "arti": "Sad",
-    "deskripsi": "Surat Shaad  terdiri atas  88 ayat  termasuk golongan  surat Makkiyyah, diturunkan sesudah surat Al Qamar. Dinamai  dengan  <i>Shaad</i>  karena surat  ini  dimulai  dengan <i>Shaad</i> (selanjutnya lihat no. <a href=\"s002a001.htm\">[10)</a>). Dalam surat  ini Allah  bersumpah dengan  Al Quran,   untuk menunjukkan bahwa Al Quran itu suatu  kitab yang  agung dan bahwa siapa saja yang  mengikutinya  akan mendapat  kebahagiaan  dunia  dan akhirat dan untuk menunjukkan bahwa Al Quran ini adalah mukjizat Nabi Muhammad s.a.w. yang  menyatakan kebenarannya dan ketinggian akhlaknya.",
-    "audio": "https://santrikoding.com/storage/audio/038.mp3"
+    "jumlah_ayat": 88
   },
   "surat_sebelumnya": {
-    "id": 36,
     "nomor": 36,
     "nama": "يٰسۤ",
     "nama_latin": "Yasin",
-    "jumlah_ayat": 83,
-    "tempat_turun": "mekah",
-    "arti": "Yasin",
-    "deskripsi": "Surat <i>Yaasiin</i> terdiri atas 83 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Jin. Dinamai <i>Yaasiin</i> karena dimulai dengan huruf <i>Yaasiin</i>. Sebagaimana halnya arti huruf-huruf abjad yang terletak pada permulaan beberapa surat Al Quran, maka demikian pula arti <i>Yaasiin</i> yang terdapat pada ayat permulaan surat ini, yaitu Allah mengisyaratkan bahwa sesudah huruf tersebut akan dikemukakan hal-hal yang penting antara lain: Allah bersumpah dengan Al Quran bahwa Muhammad s.a.w. benar-benar seorang rasul yang diutus-Nya kepada kaum yang belum pernah diutus kepada mereka rasul-rasul.",
-    "audio": "https://santrikoding.com/storage/audio/036.mp3"
+    "jumlah_ayat": 83
   }
 }

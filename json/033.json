@@ -4,10 +4,16 @@
   "nama": "الاحزاب",
   "nama_latin": "Al-Ahzab",
   "jumlah_ayat": 73,
-  "tempat_turun": "madinah",
+  "tempat_turun": "Madinah",
   "arti": "Golongan Yang Bersekutu",
   "deskripsi": "Surat Al Ahzab terdiri atas 73 ayat, termasuk golongan surat-surat Madaniyah, diturunkan sesudah surat Ali'Imran. Dinamai <i>Al Ahzab</i> yang berarti <i>golongan-golongan yang bersekutu</i> karena dalam surat ini terdapat beberapa ayat, yaitu ayat 9 sampai dengan ayat 27 yang berhubungan dengan peperangan Al Ahzab, yaitu peperangan yang dilancarkan oleh orang-orang Yahudi, kaum munafik dan orang-orang musyrik terhadap orang-orang mukmin di Medinah. Mereka telah mengepung rapat orang- orang mukmin sehingga sebahagian dari mereka telah berputus asa dan menyangka bahwa mereka akan dihancurkan oleh musuh-musuh mereka itu. Ini adalah suatu ujian yang berat dari Allah untuk menguji sampai dimana teguhnya keimanan mereka. Akhirnya Allah mengirimkan bantuan berupa tentara yang tidak kelihatan dan angin topan, sehingga musuh-musuh itu menjadi kacau balau dan melarikan diri.",
-  "audio": "https://santrikoding.com/storage/audio/033.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/033.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/033.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/033.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/033.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/033.mp3"
+  },
   "ayat": [
     {
       "id": 3534,
@@ -595,25 +601,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 34,
     "nomor": 34,
     "nama": "سبأ",
     "nama_latin": "Saba'",
-    "jumlah_ayat": 54,
-    "tempat_turun": "mekah",
-    "arti": "Saba'",
-    "deskripsi": "Surat Saba' terdiri atas 54 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Luqman. Dinamakan <i>Saba'</i> karena didalamnya terdapat kisah kaum Saba'. Saba' adalah nama suatu kabilah dari kabilah-kabilah Arab yang tinggal di daerah Yaman sekarang ini. Mereka mendirikan kerajaan yang terkenal dengan nama kerajaan Sabaiyyah, ibukotanya Ma'rib; telah dapat membangun suatu bendungan raksasa, yang bernama <i>Bendungan Ma'rib</i>, sehingga negeri meka subur dan makmur. Kemewahan dan kemakmuran ini menyebabkan kaum Saba' lupa dan ingkar kepada Allah yang telah melimpahkan nikmatnya kepada mereka, serta mereka mengingkari pula seruan para rasul. Karena keingkaran mereka ini, Allah menimpahkan kepada mereka azab berupa <i>sailul 'arim</i> (banjir yang besar) yang ditimbulkan oleh bobolnya bendungan Ma'rib. Setelah bendungan ma'rib bobol negeri Saba' menjadi kering dan kerajaan mereka hancur.",
-    "audio": "https://santrikoding.com/storage/audio/034.mp3"
+    "jumlah_ayat": 54
   },
   "surat_sebelumnya": {
-    "id": 32,
     "nomor": 32,
     "nama": "السّجدة",
     "nama_latin": "As-Sajdah",
-    "jumlah_ayat": 30,
-    "tempat_turun": "mekah",
-    "arti": "Sajdah",
-    "deskripsi": "Surat As Sajdah terdiri atas 30 ayat termasuk golongan surat Makkiyah diturunkan sesudah surat Al Mu'minuun. Dinamakan <i>As Sajdah</i> berhubung pada surat ini terdapat ayat sajdah, yaitu ayat yang kelima belas.",
-    "audio": "https://santrikoding.com/storage/audio/032.mp3"
+    "jumlah_ayat": 30
   }
 }

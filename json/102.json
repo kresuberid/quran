@@ -4,10 +4,16 @@
   "nama": "التكاثر",
   "nama_latin": "At-Takasur",
   "jumlah_ayat": 8,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Bermegah-Megahan",
   "deskripsi": "Surat At Takaatsur terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kautsar. Dinamai <i>At Takaatsur</i> (bermegah-megahan) diambil dari perkataan <i>At Takaatsur</i> yang terdapat pada ayat pertama surat ini.",
-  "audio": "https://santrikoding.com/storage/audio/102.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/102.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/102.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/102.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/102.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/102.mp3"
+  },
   "ayat": [
     {
       "id": 6169,
@@ -75,25 +81,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 103,
     "nomor": 103,
     "nama": "العصر",
     "nama_latin": "Al-'Asr",
-    "jumlah_ayat": 3,
-    "tempat_turun": "mekah",
-    "arti": "Asar",
-    "deskripsi": "Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai <i>Al 'Ashr</i> (masa) diambil dari perkataan <i>Al 'Ashr</i> yang terdapat pada ayat pertama surat ini.",
-    "audio": "https://santrikoding.com/storage/audio/103.mp3"
+    "jumlah_ayat": 3
   },
   "surat_sebelumnya": {
-    "id": 101,
     "nomor": 101,
     "nama": "القارعة",
     "nama_latin": "Al-Qari'ah",
-    "jumlah_ayat": 11,
-    "tempat_turun": "mekah",
-    "arti": "Hari Kiamat",
-    "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Quraisy. Nama <i>Al Qaari'ah</i> diambil dari kata <i>Al Qaari'ah</i> yang terdapat pada ayat pertama, artinya mengetok dengan keras, kemudian kata ini dipakai untuk nama hari kiamat.",
-    "audio": "https://santrikoding.com/storage/audio/101.mp3"
+    "jumlah_ayat": 11
   }
 }

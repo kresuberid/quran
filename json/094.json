@@ -4,10 +4,16 @@
   "nama": "الشرح",
   "nama_latin": "Asy-Syarh",
   "jumlah_ayat": 8,
-  "tempat_turun": "mekah",
+  "tempat_turun": "Mekah",
   "arti": "Lapang",
   "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat Adh Dhuhaa. Nama <i>Alam Nasyrah</i> diambil dari kata <i>Alam Nasyrah</i> yang terdapat pada ayat pertama, yang berarti: bukankah Kami telah melapangkan.",
-  "audio": "https://santrikoding.com/storage/audio/094.mp3",
+  "audio": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/094.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/094.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/094.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/094.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/094.mp3"
+  },
   "ayat": [
     {
       "id": 6091,
@@ -75,25 +81,15 @@
     }
   ],
   "surat_selanjutnya": {
-    "id": 95,
     "nomor": 95,
     "nama": "التين",
     "nama_latin": "At-Tin",
-    "jumlah_ayat": 8,
-    "tempat_turun": "mekah",
-    "arti": "Buah Tin",
-    "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata <i>At Tiin</i> yang terdapat pada ayat pertama surat ini yang artinya buah Tin.",
-    "audio": "https://santrikoding.com/storage/audio/095.mp3"
+    "jumlah_ayat": 8
   },
   "surat_sebelumnya": {
-    "id": 93,
     "nomor": 93,
     "nama": "الضحى",
     "nama_latin": "Ad-Duha",
-    "jumlah_ayat": 11,
-    "tempat_turun": "mekah",
-    "arti": "Duha",
-    "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama <i>Adh Dhuhaa</i> diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik.",
-    "audio": "https://santrikoding.com/storage/audio/093.mp3"
+    "jumlah_ayat": 11
   }
 }
