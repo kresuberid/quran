@@ -2,7 +2,7 @@
   "status": true,
   "nomor": 94,
   "nama": "الشرح",
-  "nama_latin": "Asy-Syarh",
+  "nama_latin": "Al-Insyirah",
   "jumlah_ayat": 8,
   "tempat_turun": "Mekah",
   "arti": "Lapang",
@@ -145,7 +145,7 @@
   "surat_sebelumnya": {
     "nomor": 93,
     "nama": "الضحى",
-    "nama_latin": "Ad-Duha",
+    "nama_latin": "Adh-Dhuha",
     "jumlah_ayat": 11
   },
   "audioFull": {

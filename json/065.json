@@ -2,7 +2,7 @@
   "status": true,
   "nomor": 65,
   "nama": "الطلاق",
-  "nama_latin": "At-Talaq",
+  "nama_latin": "At-Thalaq",
   "jumlah_ayat": 12,
   "tempat_turun": "Madinah",
   "arti": "Talak",
@@ -205,7 +205,7 @@
   "surat_sebelumnya": {
     "nomor": 64,
     "nama": "التغابن",
-    "nama_latin": "At-Tagabun",
+    "nama_latin": "At-Taghabun",
     "jumlah_ayat": 18
   },
   "audioFull": {

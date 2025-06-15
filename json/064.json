@@ -2,7 +2,7 @@
   "status": true,
   "nomor": 64,
   "nama": "التغابن",
-  "nama_latin": "At-Tagabun",
+  "nama_latin": "At-Taghabun",
   "jumlah_ayat": 18,
   "tempat_turun": "Madinah",
   "arti": "Pengungkapan Kesalahan",
@@ -289,7 +289,7 @@
   "surat_selanjutnya": {
     "nomor": 65,
     "nama": "الطلاق",
-    "nama_latin": "At-Talaq",
+    "nama_latin": "At-Thalaq",
     "jumlah_ayat": 12
   },
   "surat_sebelumnya": {
