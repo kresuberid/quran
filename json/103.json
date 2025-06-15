@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "وَالْعَصْرِۙ",
       "tr": "wa<strong>a</strong>l'a<u>sh</u>r<strong>i</strong>",
-      "idn": "Demi masa,"
+      "idn": "Demi masa,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/103001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/103001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/103001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/103001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/103001.mp3"
+      }
     },
     {
       "id": 6178,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
       "tr": "inna <strong>a</strong>l-ins<u>aa</u>na lafii khusr<strong>in</strong>",
-      "idn": "sungguh, manusia berada dalam kerugian,"
+      "idn": "sungguh, manusia berada dalam kerugian,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/103002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/103002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/103002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/103002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/103002.mp3"
+      }
     },
     {
       "id": 6179,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
       "tr": "ill<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti wataw<u>aas</u>aw bi<strong>a</strong>l<u>h</u>aqqi wataw<u>aas</u>aw bi<strong>al</strong><u>shsh</u>abr<strong>i</strong>",
-      "idn": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+      "idn": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/103003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/103003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/103003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/103003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/103003.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -51,5 +72,12 @@
     "nama": "التكاثر",
     "nama_latin": "At-Takasur",
     "jumlah_ayat": 8
+  },
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/103.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/103.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/103.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/103.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/103.mp3"
   }
 }

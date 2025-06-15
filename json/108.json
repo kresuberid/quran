@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
       "tr": "inn<u>aa</u> a'<u>th</u>ayn<u>aa</u>ka <strong>a</strong>lkawtsar<strong>a</strong>",
-      "idn": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak."
+      "idn": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/108001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/108001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/108001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/108001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/108001.mp3"
+      }
     },
     {
       "id": 6206,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
       "tr": "fa<u>sh</u>alli lirabbika wa<strong>i</strong>n<u>h</u>ar",
-      "idn": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
+      "idn": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/108002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/108002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/108002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/108002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/108002.mp3"
+      }
     },
     {
       "id": 6207,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
       "tr": "inna sy<u>aa</u>ni-aka huwa <strong>a</strong>l-abtar<strong>u</strong>",
-      "idn": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)."
+      "idn": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah).",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/108003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/108003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/108003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/108003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/108003.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -51,5 +72,12 @@
     "nama": "الماعون",
     "nama_latin": "Al-Ma'un",
     "jumlah_ayat": 7
+  },
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/108.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/108.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/108.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/108.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/108.mp3"
   }
 }

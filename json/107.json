@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ",
       "tr": "ara-ayta <strong>al</strong>la<u>dz</u>ii yuka<u>dzdz</u>ibu bi<strong>al</strong>ddiin<strong>i</strong>",
-      "idn": "Tahukah kamu (orang) yang mendustakan agama?"
+      "idn": "Tahukah kamu (orang) yang mendustakan agama?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/107001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/107001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/107001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/107001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/107001.mp3"
+      }
     },
     {
       "id": 6199,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ",
       "tr": "fa<u>dzaa</u>lika <strong>al</strong>la<u>dz</u>ii yadu''u <strong>a</strong>lyatiim<strong>a</strong>",
-      "idn": "Maka itulah orang yang menghardik anak yatim,"
+      "idn": "Maka itulah orang yang menghardik anak yatim,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/107002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/107002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/107002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/107002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/107002.mp3"
+      }
     },
     {
       "id": 6200,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
       "tr": "wal<u>aa</u> ya<u>h</u>u<u>dhdh</u>u 'al<u>aa</u> <u>th</u>a'<u>aa</u>mi <strong>a</strong>lmiskiin<strong>i</strong>",
-      "idn": "dan tidak mendorong memberi makan orang miskin."
+      "idn": "dan tidak mendorong memberi makan orang miskin.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/107003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/107003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/107003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/107003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/107003.mp3"
+      }
     },
     {
       "id": 6201,
@@ -45,7 +66,14 @@
       "nomor": 4,
       "ar": "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ",
       "tr": "fawaylun lilmu<u>sh</u>alliin<strong>a</strong>",
-      "idn": "Maka celakalah orang yang salat,"
+      "idn": "Maka celakalah orang yang salat,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/107004.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/107004.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/107004.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/107004.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/107004.mp3"
+      }
     },
     {
       "id": 6202,
@@ -53,7 +81,14 @@
       "nomor": 5,
       "ar": "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ",
       "tr": "<strong>al</strong>la<u>dz</u>iina hum 'an <u>sh</u>al<u>aa</u>tihim s<u>aa</u>huun<strong>a</strong>",
-      "idn": "(yaitu) orang-orang yang lalai terhadap salatnya,"
+      "idn": "(yaitu) orang-orang yang lalai terhadap salatnya,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/107005.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/107005.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/107005.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/107005.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/107005.mp3"
+      }
     },
     {
       "id": 6203,
@@ -61,7 +96,14 @@
       "nomor": 6,
       "ar": "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ",
       "tr": "<strong>al</strong>la<u>dz</u>iina hum yur<u>aa</u>uun<strong>a</strong>",
-      "idn": "yang berbuat ria,"
+      "idn": "yang berbuat ria,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/107006.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/107006.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/107006.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/107006.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/107006.mp3"
+      }
     },
     {
       "id": 6204,
@@ -69,7 +111,14 @@
       "nomor": 7,
       "ar": "وَيَمْنَعُوْنَ الْمَاعُوْنَ ࣖ",
       "tr": "wayamna'uuna <strong>a</strong>lm<u>aa</u>'uun<strong>a</strong>",
-      "idn": "dan enggan (memberikan) bantuan."
+      "idn": "dan enggan (memberikan) bantuan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/107007.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/107007.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/107007.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/107007.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/107007.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -83,5 +132,12 @@
     "nama": "قريش",
     "nama_latin": "Quraisy",
     "jumlah_ayat": 4
+  },
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/107.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/107.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/107.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/107.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/107.mp3"
   }
 }

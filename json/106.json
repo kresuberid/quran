@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "لِاِيْلٰفِ قُرَيْشٍۙ",
       "tr": "li-iil<u>aa</u>fi quraysy<strong>in</strong>",
-      "idn": "Karena kebiasaan orang-orang Quraisy,"
+      "idn": "Karena kebiasaan orang-orang Quraisy,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/106001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/106001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/106001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/106001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/106001.mp3"
+      }
     },
     {
       "id": 6195,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
       "tr": "iil<u>aa</u>fihim ri<u>h</u>lata <strong>al</strong>sysyit<u>aa</u>-i wa<strong>al</strong><u>shsh</u>ayf<strong>i</strong>",
-      "idn": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+      "idn": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/106002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/106002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/106002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/106002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/106002.mp3"
+      }
     },
     {
       "id": 6196,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
       "tr": "falya'buduu rabba h<u>aadzaa</u> <strong>a</strong>lbayt<strong>i</strong>",
-      "idn": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
+      "idn": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/106003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/106003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/106003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/106003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/106003.mp3"
+      }
     },
     {
       "id": 6197,
@@ -45,7 +66,14 @@
       "nomor": 4,
       "ar": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
       "tr": "<strong>al</strong>la<u>dz</u>ii a<u>th</u>'amahum min juu'in wa<u>aa</u>manahum min khawf<strong>in</strong>",
-      "idn": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+      "idn": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/106004.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/106004.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/106004.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/106004.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/106004.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -59,5 +87,12 @@
     "nama": "الفيل",
     "nama_latin": "Al-Fil",
     "jumlah_ayat": 5
+  },
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/106.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/106.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/106.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/106.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/106.mp3"
   }
 }

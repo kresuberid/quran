@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
       "tr": "alam nasyra<u>h</u> laka <u>sh</u>adrak<strong>a</strong>",
-      "idn": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
+      "idn": "Bukankah Kami telah melapangkan dadamu (Muhammad)?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/094001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/094001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/094001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/094001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/094001.mp3"
+      }
     },
     {
       "id": 6092,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
       "tr": "wawa<u>dh</u>a'n<u>aa</u> 'anka wizrak<strong>a</strong>",
-      "idn": "dan Kami pun telah menurunkan bebanmu darimu,"
+      "idn": "dan Kami pun telah menurunkan bebanmu darimu,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/094002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/094002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/094002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/094002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/094002.mp3"
+      }
     },
     {
       "id": 6093,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
       "tr": "<strong>al</strong>la<u>dz</u>ii anqa<u>dh</u>a <u>zh</u>ahrak<strong>a</strong>",
-      "idn": "yang memberatkan punggungmu, "
+      "idn": "yang memberatkan punggungmu, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/094003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/094003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/094003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/094003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/094003.mp3"
+      }
     },
     {
       "id": 6094,
@@ -45,7 +66,14 @@
       "nomor": 4,
       "ar": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
       "tr": "warafa'n<u>aa</u> laka <u>dz</u>ikrak<strong>a</strong>",
-      "idn": "dan Kami tinggikan sebutan (nama)mu bagimu."
+      "idn": "dan Kami tinggikan sebutan (nama)mu bagimu.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/094004.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/094004.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/094004.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/094004.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/094004.mp3"
+      }
     },
     {
       "id": 6095,
@@ -53,7 +81,14 @@
       "nomor": 5,
       "ar": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
       "tr": "fa-inna ma'a <strong>a</strong>l'usri yusr<u>aa</u><strong>n</strong>",
-      "idn": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
+      "idn": "Maka sesungguhnya beserta kesulitan ada kemudahan,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/094005.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/094005.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/094005.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/094005.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/094005.mp3"
+      }
     },
     {
       "id": 6096,
@@ -61,7 +96,14 @@
       "nomor": 6,
       "ar": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
       "tr": "inna ma'a <strong>a</strong>l'usri yusr<u>aa</u><strong>n</strong>",
-      "idn": "sesungguhnya beserta kesulitan itu ada kemudahan."
+      "idn": "sesungguhnya beserta kesulitan itu ada kemudahan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/094006.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/094006.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/094006.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/094006.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/094006.mp3"
+      }
     },
     {
       "id": 6097,
@@ -69,7 +111,14 @@
       "nomor": 7,
       "ar": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
       "tr": "fa-i<u>dzaa</u> faraghta fa<strong>i</strong>n<u>sh</u>ab",
-      "idn": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
+      "idn": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/094007.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/094007.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/094007.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/094007.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/094007.mp3"
+      }
     },
     {
       "id": 6098,
@@ -77,7 +126,14 @@
       "nomor": 8,
       "ar": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
       "tr": "wa-il<u>aa</u> rabbika fa<strong>i</strong>rghab",
-      "idn": "dan hanya kepada Tuhanmulah engkau berharap."
+      "idn": "dan hanya kepada Tuhanmulah engkau berharap.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/094008.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/094008.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/094008.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/094008.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/094008.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -91,5 +147,12 @@
     "nama": "الضحى",
     "nama_latin": "Ad-Duha",
     "jumlah_ayat": 11
+  },
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/094.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/094.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/094.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/094.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/094.mp3"
   }
 }

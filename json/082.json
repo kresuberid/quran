@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "اِذَا السَّمَاۤءُ انْفَطَرَتْۙ",
       "tr": "i<u>dzaa</u> <strong>al</strong>ssam<u>aa</u>u infa<u>th</u>arath",
-      "idn": "Apabila langit terbelah, "
+      "idn": "Apabila langit terbelah, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082001.mp3"
+      }
     },
     {
       "id": 5831,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "وَاِذَا الْكَوَاكِبُ انْتَثَرَتْۙ",
       "tr": "wa-i<u>dzaa</u> <strong>a</strong>lkaw<u>aa</u>kibu intatsarath",
-      "idn": "dan apabila bintang-bintang jatuh berserakan, "
+      "idn": "dan apabila bintang-bintang jatuh berserakan, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082002.mp3"
+      }
     },
     {
       "id": 5832,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "وَاِذَا الْبِحَارُ فُجِّرَتْۙ",
       "tr": "wa-i<u>dzaa</u> <strong>a</strong>lbi<u>haa</u>ru fujjirath",
-      "idn": "dan apabila lautan dijadikan meluap, "
+      "idn": "dan apabila lautan dijadikan meluap, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082003.mp3"
+      }
     },
     {
       "id": 5833,
@@ -45,7 +66,14 @@
       "nomor": 4,
       "ar": "وَاِذَا الْقُبُوْرُ بُعْثِرَتْۙ",
       "tr": "wa-i<u>dzaa</u> <strong>a</strong>lqubuuru bu'tsirath",
-      "idn": "dan apabila kuburan-kuburan dibongkar,"
+      "idn": "dan apabila kuburan-kuburan dibongkar,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082004.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082004.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082004.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082004.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082004.mp3"
+      }
     },
     {
       "id": 5834,
@@ -53,7 +81,14 @@
       "nomor": 5,
       "ar": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَاَخَّرَتْۗ",
       "tr": "'alimat nafsun m<u>aa</u> qaddamat wa-akhkharath",
-      "idn": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya)."
+      "idn": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya).",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082005.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082005.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082005.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082005.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082005.mp3"
+      }
     },
     {
       "id": 5835,
@@ -61,7 +96,14 @@
       "nomor": 6,
       "ar": "يٰٓاَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيْمِۙ",
       "tr": "y<u>aa</u> ayyuh<u>aa</u> <strong>a</strong>l-ins<u>aa</u>nu m<u>aa</u> gharraka birabbika <strong>a</strong>lkariim<strong>i</strong>",
-      "idn": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia, "
+      "idn": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082006.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082006.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082006.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082006.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082006.mp3"
+      }
     },
     {
       "id": 5836,
@@ -69,7 +111,14 @@
       "nomor": 7,
       "ar": "الَّذِيْ خَلَقَكَ فَسَوّٰىكَ فَعَدَلَكَۙ",
       "tr": "<strong>al</strong>la<u>dz</u>ii khalaqaka fasaww<u>aa</u>ka fa'adalak<strong>a</strong>",
-      "idn": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang, "
+      "idn": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082007.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082007.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082007.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082007.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082007.mp3"
+      }
     },
     {
       "id": 5837,
@@ -77,7 +126,14 @@
       "nomor": 8,
       "ar": "فِيْٓ اَيِّ صُوْرَةٍ مَّا شَاۤءَ رَكَّبَكَۗ",
       "tr": "fii ayyi <u>sh</u>uuratin m<u>aa</u> sy<u>aa</u>-a rakkabak<strong>a</strong>",
-      "idn": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu. "
+      "idn": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082008.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082008.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082008.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082008.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082008.mp3"
+      }
     },
     {
       "id": 5838,
@@ -85,7 +141,14 @@
       "nomor": 9,
       "ar": "كَلَّا بَلْ تُكَذِّبُوْنَ بِالدِّيْنِۙ",
       "tr": "kall<u>aa</u> bal tuka<u>dzdz</u>ibuuna bi<strong>al</strong>ddiin<strong>i</strong>",
-      "idn": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan."
+      "idn": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082009.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082009.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082009.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082009.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082009.mp3"
+      }
     },
     {
       "id": 5839,
@@ -93,7 +156,14 @@
       "nomor": 10,
       "ar": "وَاِنَّ عَلَيْكُمْ لَحٰفِظِيْنَۙ",
       "tr": "wa-inna 'alaykum la<u>haa</u>fi<u>zh</u>iin<strong>a</strong>",
-      "idn": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu), "
+      "idn": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu), ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082010.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082010.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082010.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082010.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082010.mp3"
+      }
     },
     {
       "id": 5840,
@@ -101,7 +171,14 @@
       "nomor": 11,
       "ar": "كِرَامًا كَاتِبِيْنَۙ",
       "tr": "kir<u>aa</u>man k<u>aa</u>tibiin<strong>a</strong>",
-      "idn": "yang mulia (di sisi Allah) dan yang mencatat (amal perbuatanmu), "
+      "idn": "yang mulia (di sisi Allah) dan yang mencatat (amal perbuatanmu), ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082011.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082011.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082011.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082011.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082011.mp3"
+      }
     },
     {
       "id": 5841,
@@ -109,7 +186,14 @@
       "nomor": 12,
       "ar": "يَعْلَمُوْنَ مَا تَفْعَلُوْنَ",
       "tr": "ya'lamuuna m<u>aa</u> taf'aluun<strong>a</strong>",
-      "idn": "mereka mengetahui apa yang kamu kerjakan. "
+      "idn": "mereka mengetahui apa yang kamu kerjakan. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082012.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082012.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082012.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082012.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082012.mp3"
+      }
     },
     {
       "id": 5842,
@@ -117,7 +201,14 @@
       "nomor": 13,
       "ar": "اِنَّ الْاَبْرَارَ لَفِيْ نَعِيْمٍۙ",
       "tr": "inna <strong>a</strong>l-abr<u>aa</u>ra lafii na'iim<strong>in</strong>",
-      "idn": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan, "
+      "idn": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082013.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082013.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082013.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082013.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082013.mp3"
+      }
     },
     {
       "id": 5843,
@@ -125,7 +216,14 @@
       "nomor": 14,
       "ar": "وَّاِنَّ الْفُجَّارَ لَفِيْ جَحِيْمٍ",
       "tr": "wa-inna <strong>a</strong>lfujj<u>aa</u>ra lafii ja<u>h</u>iim<strong>in</strong>",
-      "idn": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka. "
+      "idn": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082014.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082014.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082014.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082014.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082014.mp3"
+      }
     },
     {
       "id": 5844,
@@ -133,7 +231,14 @@
       "nomor": 15,
       "ar": "يَصْلَوْنَهَا يَوْمَ الدِّيْنِ",
       "tr": "ya<u>sh</u>lawnah<u>aa</u> yawma <strong>al</strong>ddiin<strong>i</strong>",
-      "idn": "Mereka masuk ke dalamnya pada hari pembalasan."
+      "idn": "Mereka masuk ke dalamnya pada hari pembalasan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082015.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082015.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082015.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082015.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082015.mp3"
+      }
     },
     {
       "id": 5845,
@@ -141,7 +246,14 @@
       "nomor": 16,
       "ar": "وَمَا هُمْ عَنْهَا بِغَاۤىِٕبِيْنَۗ",
       "tr": "wam<u>aa</u> hum 'anh<u>aa</u> bigh<u>aa</u>-ibiin<strong>a</strong>",
-      "idn": "Dan mereka tidak mungkin keluar dari neraka itu. "
+      "idn": "Dan mereka tidak mungkin keluar dari neraka itu. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082016.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082016.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082016.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082016.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082016.mp3"
+      }
     },
     {
       "id": 5846,
@@ -149,7 +261,14 @@
       "nomor": 17,
       "ar": "وَمَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۙ",
       "tr": "wam<u>aa</u> adr<u>aa</u>ka m<u>aa</u> yawmu <strong>al</strong>ddiini",
-      "idn": "Dan tahukah kamu apakah hari pembalasan itu? "
+      "idn": "Dan tahukah kamu apakah hari pembalasan itu? ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082017.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082017.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082017.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082017.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082017.mp3"
+      }
     },
     {
       "id": 5847,
@@ -157,7 +276,14 @@
       "nomor": 18,
       "ar": "ثُمَّ مَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۗ",
       "tr": "tsumma m<u>aa</u> adr<u>aa</u>ka m<u>aa</u> yawmu <strong>al</strong>ddiin<strong>i</strong>",
-      "idn": "Sekali lagi, tahukah kamu apakah hari pembalasan itu? "
+      "idn": "Sekali lagi, tahukah kamu apakah hari pembalasan itu? ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082018.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082018.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082018.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082018.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082018.mp3"
+      }
     },
     {
       "id": 5848,
@@ -165,7 +291,14 @@
       "nomor": 19,
       "ar": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۗوَالْاَمْرُ يَوْمَىِٕذٍ لِّلّٰهِ ࣖ",
       "tr": "yawma l<u>aa</u> tamliku nafsun linafsin syay-an wa<strong>a</strong>l-amru yawma-i<u>dz</u>in lill<u>aa</u>h<strong>i</strong>",
-      "idn": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah. "
+      "idn": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/082019.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/082019.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/082019.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/082019.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/082019.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -179,5 +312,12 @@
     "nama": "التكوير",
     "nama_latin": "At-Takwir",
     "jumlah_ayat": 29
+  },
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/082.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/082.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/082.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/082.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/082.mp3"
   }
 }

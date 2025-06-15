@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "اَلرَّحْمٰنُۙ  ",
       "tr": "a<strong>l</strong>rra<u>h</u>m<u>aa</u>n<strong>u</strong>",
-      "idn": "(Allah) Yang Maha Pengasih,"
+      "idn": "(Allah) Yang Maha Pengasih,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055001.mp3"
+      }
     },
     {
       "id": 4903,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "عَلَّمَ الْقُرْاٰنَۗ ",
       "tr": "'allama <strong>a</strong>lqur-<u>aa</u>n<strong>a</strong>",
-      "idn": "Yang telah mengajarkan Al-Qur'an."
+      "idn": "Yang telah mengajarkan Al-Qur'an.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055002.mp3"
+      }
     },
     {
       "id": 4904,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "خَلَقَ الْاِنْسَانَۙ ",
       "tr": "khalaqa <strong>a</strong>l-ins<u>aa</u>n<strong>a</strong>",
-      "idn": "Dia menciptakan manusia, "
+      "idn": "Dia menciptakan manusia, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055003.mp3"
+      }
     },
     {
       "id": 4905,
@@ -45,7 +66,14 @@
       "nomor": 4,
       "ar": "عَلَّمَهُ الْبَيَانَ ",
       "tr": "'allamahu <strong>a</strong>lbay<u>aa</u>n<strong>a</strong>",
-      "idn": "mengajarnya pandai berbicara."
+      "idn": "mengajarnya pandai berbicara.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055004.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055004.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055004.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055004.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055004.mp3"
+      }
     },
     {
       "id": 4906,
@@ -53,7 +81,14 @@
       "nomor": 5,
       "ar": "اَلشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍۙ ",
       "tr": "a<strong>l</strong>sysyamsu wa<strong>a</strong>lqamaru bi<u>h</u>usb<u>aa</u>n<strong>in</strong>",
-      "idn": "Matahari dan bulan beredar menurut perhitungan,"
+      "idn": "Matahari dan bulan beredar menurut perhitungan,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055005.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055005.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055005.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055005.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055005.mp3"
+      }
     },
     {
       "id": 4907,
@@ -61,7 +96,14 @@
       "nomor": 6,
       "ar": "وَّالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ ",
       "tr": "wa<strong>al</strong>nnajmu wa<strong>al</strong>sysyajaru yasjud<u>aa</u>n<strong>i</strong>",
-      "idn": "dan tetumbuhan dan pepohonan, keduanya tunduk (kepada-Nya). "
+      "idn": "dan tetumbuhan dan pepohonan, keduanya tunduk (kepada-Nya). ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055006.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055006.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055006.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055006.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055006.mp3"
+      }
     },
     {
       "id": 4908,
@@ -69,7 +111,14 @@
       "nomor": 7,
       "ar": "وَالسَّمَاۤءَ رَفَعَهَا وَوَضَعَ الْمِيْزَانَۙ  ",
       "tr": "wa<strong>al</strong>ssam<u>aa</u>-a rafa'ah<u>aa</u> wawa<u>dh</u>a'a <strong>a</strong>lmiiz<u>aa</u>n<strong>a</strong>",
-      "idn": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan,"
+      "idn": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055007.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055007.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055007.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055007.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055007.mp3"
+      }
     },
     {
       "id": 4909,
@@ -77,7 +126,14 @@
       "nomor": 8,
       "ar": "اَلَّا تَطْغَوْا فِى الْمِيْزَانِ ",
       "tr": "<strong>al</strong>l<u>aa</u> ta<u>th</u>ghaw fii <strong>a</strong>lmiiz<u>aa</u>n<strong>i</strong>",
-      "idn": "agar kamu jangan merusak keseimbangan itu, "
+      "idn": "agar kamu jangan merusak keseimbangan itu, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055008.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055008.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055008.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055008.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055008.mp3"
+      }
     },
     {
       "id": 4910,
@@ -85,7 +141,14 @@
       "nomor": 9,
       "ar": "وَاَقِيْمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيْزَانَ ",
       "tr": "wa-aqiimuu <strong>a</strong>lwazna bi<strong>a</strong>lqis<u>th</u>i wal<u>aa</u> tukhsiruu <strong>a</strong>lmiiz<u>aa</u>n<strong>a</strong>",
-      "idn": "dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu. "
+      "idn": "dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055009.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055009.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055009.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055009.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055009.mp3"
+      }
     },
     {
       "id": 4911,
@@ -93,7 +156,14 @@
       "nomor": 10,
       "ar": "وَالْاَرْضَ وَضَعَهَا لِلْاَنَامِۙ  ",
       "tr": "wa<strong>a</strong>l-ar<u>dh</u>a wa<u>dh</u>a'ah<u>aa</u> lil-an<u>aa</u>m<strong>i</strong>",
-      "idn": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya), "
+      "idn": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya), ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055010.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055010.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055010.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055010.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055010.mp3"
+      }
     },
     {
       "id": 4912,
@@ -101,7 +171,14 @@
       "nomor": 11,
       "ar": "فِيْهَا فَاكِهَةٌ وَّالنَّخْلُ ذَاتُ الْاَكْمَامِۖ  ",
       "tr": "fiih<u>aa</u> f<u>aa</u>kihatun wa<strong>al</strong>nnakhlu <u>dzaa</u>tu <strong>a</strong>l-akm<u>aa</u>m<strong>i</strong>",
-      "idn": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang, "
+      "idn": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055011.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055011.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055011.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055011.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055011.mp3"
+      }
     },
     {
       "id": 4913,
@@ -109,7 +186,14 @@
       "nomor": 12,
       "ar": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُۚ  ",
       "tr": "wa<strong>a</strong>l<u>h</u>abbu <u>dz</u>uu <strong>a</strong>l'a<u>sh</u>fi wa<strong>al</strong>rray<u>haa</u>n<strong>i</strong>",
-      "idn": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya. "
+      "idn": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055012.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055012.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055012.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055012.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055012.mp3"
+      }
     },
     {
       "id": 4914,
@@ -117,7 +201,14 @@
       "nomor": 13,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055013.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055013.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055013.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055013.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055013.mp3"
+      }
     },
     {
       "id": 4915,
@@ -125,7 +216,14 @@
       "nomor": 14,
       "ar": "خَلَقَ الْاِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ ",
       "tr": "khalaqa <strong>a</strong>l-ins<u>aa</u>na min <u>sh</u>al<u>shaa</u>lin ka<strong>a</strong>lfakhkh<u>aa</u>r<strong>i</strong>",
-      "idn": "Dia menciptakan manusia dari tanah kering seperti tembikar,"
+      "idn": "Dia menciptakan manusia dari tanah kering seperti tembikar,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055014.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055014.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055014.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055014.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055014.mp3"
+      }
     },
     {
       "id": 4916,
@@ -133,7 +231,14 @@
       "nomor": 15,
       "ar": "وَخَلَقَ الْجَاۤنَّ مِنْ مَّارِجٍ مِّنْ نَّارٍۚ  ",
       "tr": "wakhalaqa <strong>a</strong>lj<u>aa</u>nna min m<u>aa</u>rijin min n<u>aa</u>r<strong>in</strong>",
-      "idn": "dan Dia menciptakan jin dari nyala api tanpa asap."
+      "idn": "dan Dia menciptakan jin dari nyala api tanpa asap.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055015.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055015.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055015.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055015.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055015.mp3"
+      }
     },
     {
       "id": 4917,
@@ -141,7 +246,14 @@
       "nomor": 16,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055016.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055016.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055016.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055016.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055016.mp3"
+      }
     },
     {
       "id": 4918,
@@ -149,7 +261,14 @@
       "nomor": 17,
       "ar": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِۚ ",
       "tr": "rabbu <strong>a</strong>lmasyriqayni warabbu <strong>a</strong>lmaghribayn<strong>i</strong>",
-      "idn": "Tuhan (yang memelihara) dua timur dan Tuhan (yang memelihara) dua barat."
+      "idn": "Tuhan (yang memelihara) dua timur dan Tuhan (yang memelihara) dua barat.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055017.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055017.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055017.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055017.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055017.mp3"
+      }
     },
     {
       "id": 4919,
@@ -157,7 +276,14 @@
       "nomor": 18,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055018.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055018.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055018.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055018.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055018.mp3"
+      }
     },
     {
       "id": 4920,
@@ -165,7 +291,14 @@
       "nomor": 19,
       "ar": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيٰنِۙ",
       "tr": "maraja <strong>a</strong>lba<u>h</u>rayni yaltaqiy<u>aa</u>n<strong>i</strong>",
-      "idn": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu, "
+      "idn": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055019.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055019.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055019.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055019.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055019.mp3"
+      }
     },
     {
       "id": 4921,
@@ -173,7 +306,14 @@
       "nomor": 20,
       "ar": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيٰنِۚ",
       "tr": "baynahum<u>aa</u> barzakhun l<u>aa</u> yabghiy<u>aa</u>n<strong>i</strong>",
-      "idn": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing."
+      "idn": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055020.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055020.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055020.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055020.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055020.mp3"
+      }
     },
     {
       "id": 4922,
@@ -181,7 +321,14 @@
       "nomor": 21,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055021.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055021.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055021.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055021.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055021.mp3"
+      }
     },
     {
       "id": 4923,
@@ -189,7 +336,14 @@
       "nomor": 22,
       "ar": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُۚ",
       "tr": "yakhruju minhum<u>aa</u> <strong>al</strong>lu/luu wa<strong>a</strong>lmarj<u>aa</u>n<strong>u</strong>",
-      "idn": "Dari keduanya keluar mutiara dan marjan."
+      "idn": "Dari keduanya keluar mutiara dan marjan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055022.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055022.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055022.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055022.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055022.mp3"
+      }
     },
     {
       "id": 4924,
@@ -197,7 +351,14 @@
       "nomor": 23,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>ni",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055023.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055023.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055023.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055023.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055023.mp3"
+      }
     },
     {
       "id": 4925,
@@ -205,7 +366,14 @@
       "nomor": 24,
       "ar": "وَلَهُ الْجَوَارِ الْمُنْشَاٰتُ فِى الْبَحْرِ كَالْاَعْلَامِۚ  ",
       "tr": "walahu <strong>a</strong>ljaw<u>aa</u>ri <strong>a</strong>lmunsya<u>aa</u>tu fii <strong>a</strong>lba<u>h</u>ri ka<strong>a</strong>l-a'l<u>aa</u>m<strong>i</strong>",
-      "idn": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung."
+      "idn": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055024.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055024.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055024.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055024.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055024.mp3"
+      }
     },
     {
       "id": 4926,
@@ -213,7 +381,14 @@
       "nomor": 25,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055025.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055025.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055025.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055025.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055025.mp3"
+      }
     },
     {
       "id": 4927,
@@ -221,7 +396,14 @@
       "nomor": 26,
       "ar": "كُلُّ مَنْ عَلَيْهَا فَانٍۖ  ",
       "tr": "kullu man 'alayh<u>aa</u> f<u>aa</u>n<strong>in</strong>",
-      "idn": "Semua yang ada di bumi itu akan binasa, "
+      "idn": "Semua yang ada di bumi itu akan binasa, ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055026.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055026.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055026.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055026.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055026.mp3"
+      }
     },
     {
       "id": 4928,
@@ -229,7 +411,14 @@
       "nomor": 27,
       "ar": "وَّيَبْقٰى وَجْهُ رَبِّكَ ذُو الْجَلٰلِ وَالْاِكْرَامِۚ  ",
       "tr": "wayabq<u>aa</u> wajhu rabbika <u>dz</u>uu <strong>a</strong>ljal<u>aa</u>li wa<strong>a</strong>l-ikr<u>aa</u>m<strong>i</strong>",
-      "idn": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal. "
+      "idn": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055027.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055027.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055027.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055027.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055027.mp3"
+      }
     },
     {
       "id": 4929,
@@ -237,7 +426,14 @@
       "nomor": 28,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055028.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055028.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055028.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055028.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055028.mp3"
+      }
     },
     {
       "id": 4930,
@@ -245,7 +441,14 @@
       "nomor": 29,
       "ar": "يَسْـَٔلُهٗ مَنْ فِى السَّمٰوٰتِ وَالْاَرْضِۗ  كُلَّ يَوْمٍ هُوَ فِيْ شَأْنٍۚ",
       "tr": "yas-aluhu man fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i kulla yawmin huwa fii sya/n<strong>in</strong>",
-      "idn": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan. "
+      "idn": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055029.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055029.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055029.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055029.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055029.mp3"
+      }
     },
     {
       "id": 4931,
@@ -253,7 +456,14 @@
       "nomor": 30,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055030.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055030.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055030.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055030.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055030.mp3"
+      }
     },
     {
       "id": 4932,
@@ -261,7 +471,14 @@
       "nomor": 31,
       "ar": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلٰنِۚ  ",
       "tr": "sanafrughu lakum ayyuh<u>aa</u> <strong>al</strong>tstsaqal<u>aa</u>n<strong>i</strong>",
-      "idn": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin! "
+      "idn": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin! ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055031.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055031.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055031.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055031.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055031.mp3"
+      }
     },
     {
       "id": 4933,
@@ -269,7 +486,14 @@
       "nomor": 32,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055032.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055032.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055032.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055032.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055032.mp3"
+      }
     },
     {
       "id": 4934,
@@ -277,7 +501,14 @@
       "nomor": 33,
       "ar": "يٰمَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوْا مِنْ اَقْطَارِ السَّمٰوٰتِ وَالْاَرْضِ فَانْفُذُوْاۗ  لَا تَنْفُذُوْنَ اِلَّا بِسُلْطٰنٍۚ ",
       "tr": "y<u>aa</u> ma'syara <strong>a</strong>ljinni wa<strong>a</strong>l-insi ini ista<u>th</u>a'tum an tanfu<u>dz</u>uu min aq<u>th</u><u>aa</u>ri <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i fa<strong>u</strong>nfu<u>dz</u>uu l<u>aa</u> tanfu<u>dz</u>uuna ill<u>aa</u> bisul<u>th</u><u>aa</u>n<strong>in</strong>",
-      "idn": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah). "
+      "idn": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah). ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055033.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055033.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055033.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055033.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055033.mp3"
+      }
     },
     {
       "id": 4935,
@@ -285,7 +516,14 @@
       "nomor": 34,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055034.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055034.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055034.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055034.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055034.mp3"
+      }
     },
     {
       "id": 4936,
@@ -293,7 +531,14 @@
       "nomor": 35,
       "ar": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّنْ نَّارٍۙ وَّنُحَاسٌ فَلَا تَنْتَصِرَانِۚ ",
       "tr": "yursalu 'alaykum<u>aa</u> syuw<u>aats</u>un min n<u>aa</u>rin wanu<u>haa</u>sun fal<u>aa</u> tanta<u>sh</u>ir<u>aa</u>n<strong>i</strong>",
-      "idn": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya)."
+      "idn": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya).",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055035.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055035.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055035.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055035.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055035.mp3"
+      }
     },
     {
       "id": 4937,
@@ -301,7 +546,14 @@
       "nomor": 36,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055036.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055036.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055036.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055036.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055036.mp3"
+      }
     },
     {
       "id": 4938,
@@ -309,7 +561,14 @@
       "nomor": 37,
       "ar": "فَاِذَا انْشَقَّتِ السَّمَاۤءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِۚ ",
       "tr": "fa-i<u>dzaa</u> insyaqqati <strong>al</strong>ssam<u>aa</u>u fak<u>aa</u>nat wardatan ka<strong>al</strong>ddih<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak. "
+      "idn": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055037.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055037.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055037.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055037.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055037.mp3"
+      }
     },
     {
       "id": 4939,
@@ -317,7 +576,14 @@
       "nomor": 38,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055038.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055038.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055038.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055038.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055038.mp3"
+      }
     },
     {
       "id": 4940,
@@ -325,7 +591,14 @@
       "nomor": 39,
       "ar": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَنْ ذَنْۢبِهٖٓ اِنْسٌ وَّلَا جَاۤنٌّۚ  ",
       "tr": "fayawma-i<u>dz</u>in l<u>aa</u> yus-alu 'an <u>dz</u>anbihi insun wal<u>aa</u> j<u>aa</u>n<strong>nun</strong>",
-      "idn": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya. "
+      "idn": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055039.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055039.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055039.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055039.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055039.mp3"
+      }
     },
     {
       "id": 4941,
@@ -333,7 +606,14 @@
       "nomor": 40,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ  ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055040.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055040.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055040.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055040.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055040.mp3"
+      }
     },
     {
       "id": 4942,
@@ -341,7 +621,14 @@
       "nomor": 41,
       "ar": "يُعْرَفُ الْمُجْرِمُوْنَ بِسِيْمٰهُمْ فَيُؤْخَذُ بِالنَّوَاصِيْ وَالْاَقْدَامِۚ  ",
       "tr": "yu'rafu <strong>a</strong>lmujrimuuna bisiim<u>aa</u>hum fayu/kha<u>dz</u>u bi<strong>al</strong>nnaw<u>aas</u>ii wa<strong>a</strong>l-aqd<u>aa</u>m<strong>i</strong>",
-      "idn": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya."
+      "idn": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055041.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055041.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055041.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055041.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055041.mp3"
+      }
     },
     {
       "id": 4943,
@@ -349,7 +636,14 @@
       "nomor": 42,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055042.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055042.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055042.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055042.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055042.mp3"
+      }
     },
     {
       "id": 4944,
@@ -357,7 +651,14 @@
       "nomor": 43,
       "ar": "هٰذِهٖ جَهَنَّمُ الَّتِيْ يُكَذِّبُ بِهَا الْمُجْرِمُوْنَۘ ",
       "tr": "h<u>aadz</u>ihi jahannamu <strong>al</strong>latii yuka<u>dzdz</u>ibu bih<u>aa</u> <strong>a</strong>lmujrimuun<strong>a</strong>",
-      "idn": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa."
+      "idn": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055043.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055043.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055043.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055043.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055043.mp3"
+      }
     },
     {
       "id": 4945,
@@ -365,7 +666,14 @@
       "nomor": 44,
       "ar": "يَطُوْفُوْنَ بَيْنَهَا وَبَيْنَ حَمِيْمٍ اٰنٍۚ  ",
       "tr": "ya<u>th</u>uufuuna baynah<u>aa</u> wabayna <u>h</u>amiimin <u>aa</u>n<strong>in</strong>",
-      "idn": "Mereka berkeliling di sana dan di antara air yang mendidih. "
+      "idn": "Mereka berkeliling di sana dan di antara air yang mendidih. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055044.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055044.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055044.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055044.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055044.mp3"
+      }
     },
     {
       "id": 4946,
@@ -373,7 +681,14 @@
       "nomor": 45,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055045.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055045.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055045.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055045.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055045.mp3"
+      }
     },
     {
       "id": 4947,
@@ -381,7 +696,14 @@
       "nomor": 46,
       "ar": "وَلِمَنْ خَافَ مَقَامَ رَبِّهٖ جَنَّتٰنِۚ",
       "tr": "waliman kh<u>aa</u>fa maq<u>aa</u>ma rabbihi jannat<u>aa</u>n<strong>i</strong>",
-      "idn": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga."
+      "idn": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055046.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055046.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055046.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055046.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055046.mp3"
+      }
     },
     {
       "id": 4948,
@@ -389,7 +711,14 @@
       "nomor": 47,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055047.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055047.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055047.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055047.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055047.mp3"
+      }
     },
     {
       "id": 4949,
@@ -397,7 +726,14 @@
       "nomor": 48,
       "ar": "ذَوَاتَآ اَفْنَانٍۚ ",
       "tr": "<u>dz</u>aw<u>aa</u>t<u>aa</u> afn<u>aa</u>n<strong>in</strong>",
-      "idn": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan."
+      "idn": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055048.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055048.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055048.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055048.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055048.mp3"
+      }
     },
     {
       "id": 4950,
@@ -405,7 +741,14 @@
       "nomor": 49,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055049.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055049.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055049.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055049.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055049.mp3"
+      }
     },
     {
       "id": 4951,
@@ -413,7 +756,14 @@
       "nomor": 50,
       "ar": "فِيْهِمَا عَيْنٰنِ تَجْرِيٰنِۚ ",
       "tr": "fiihim<u>aa</u> 'ayn<u>aa</u>ni tajriy<u>aa</u>n<strong>i</strong>",
-      "idn": "Di dalam kedua surga itu ada dua buah mata air yang memancar."
+      "idn": "Di dalam kedua surga itu ada dua buah mata air yang memancar.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055050.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055050.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055050.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055050.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055050.mp3"
+      }
     },
     {
       "id": 4952,
@@ -421,7 +771,14 @@
       "nomor": 51,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055051.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055051.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055051.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055051.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055051.mp3"
+      }
     },
     {
       "id": 4953,
@@ -429,7 +786,14 @@
       "nomor": 52,
       "ar": "فِيْهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجٰنِۚ ",
       "tr": "fiihim<u>aa</u> min kulli f<u>aa</u>kihatin zawj<u>aa</u>n<strong>i</strong>",
-      "idn": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan. "
+      "idn": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055052.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055052.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055052.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055052.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055052.mp3"
+      }
     },
     {
       "id": 4954,
@@ -437,7 +801,14 @@
       "nomor": 53,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055053.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055053.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055053.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055053.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055053.mp3"
+      }
     },
     {
       "id": 4955,
@@ -445,7 +816,14 @@
       "nomor": 54,
       "ar": "مُتَّكِـِٕيْنَ عَلٰى فُرُشٍۢ بَطَاۤىِٕنُهَا مِنْ اِسْتَبْرَقٍۗ وَجَنَا الْجَنَّتَيْنِ دَانٍۚ ",
       "tr": "muttaki-iina 'al<u>aa</u> furusyin ba<u>th</u><u>aa</u>-inuh<u>aa</u> min istabraqin wajan<u>aa</u> <strong>a</strong>ljannatayni d<u>aa</u>n<strong>in</strong>",
-      "idn": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat. "
+      "idn": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055054.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055054.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055054.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055054.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055054.mp3"
+      }
     },
     {
       "id": 4956,
@@ -453,7 +831,14 @@
       "nomor": 55,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055055.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055055.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055055.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055055.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055055.mp3"
+      }
     },
     {
       "id": 4957,
@@ -461,7 +846,14 @@
       "nomor": 56,
       "ar": "فِيْهِنَّ قٰصِرٰتُ الطَّرْفِۙ لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ  ",
       "tr": "fiihinna q<u>aas</u>ir<u>aa</u>tu <strong>al</strong><u>ththh</u>arfi lam ya<u>th</u>mitshunna insun qablahum wal<u>aa</u> j<u>aa</u>n<strong>nun</strong>",
-      "idn": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya. "
+      "idn": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055056.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055056.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055056.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055056.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055056.mp3"
+      }
     },
     {
       "id": 4958,
@@ -469,7 +861,14 @@
       "nomor": 57,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055057.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055057.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055057.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055057.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055057.mp3"
+      }
     },
     {
       "id": 4959,
@@ -477,7 +876,14 @@
       "nomor": 58,
       "ar": "كَاَنَّهُنَّ الْيَاقُوْتُ وَالْمَرْجَانُۚ ",
       "tr": "ka-annahunna <strong>a</strong>ly<u>aa</u>quutu wa<strong>a</strong>lmarj<u>aa</u>n<strong>u</strong>",
-      "idn": "Seakan-akan mereka itu permata yakut dan marjan. "
+      "idn": "Seakan-akan mereka itu permata yakut dan marjan. ",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055058.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055058.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055058.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055058.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055058.mp3"
+      }
     },
     {
       "id": 4960,
@@ -485,7 +891,14 @@
       "nomor": 59,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055059.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055059.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055059.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055059.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055059.mp3"
+      }
     },
     {
       "id": 4961,
@@ -493,7 +906,14 @@
       "nomor": 60,
       "ar": "هَلْ جَزَاۤءُ الْاِحْسَانِ اِلَّا الْاِحْسَانُۚ ",
       "tr": "hal jaz<u>aa</u>u <strong>a</strong>l-i<u>h</u>s<u>aa</u>ni ill<u>aa</u> <strong>a</strong>l-i<u>h</u>s<u>aa</u>n<strong>u</strong>",
-      "idn": "Tidak ada balasan untuk kebaikan selain kebaikan (pula)."
+      "idn": "Tidak ada balasan untuk kebaikan selain kebaikan (pula).",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055060.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055060.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055060.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055060.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055060.mp3"
+      }
     },
     {
       "id": 4962,
@@ -501,7 +921,14 @@
       "nomor": 61,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055061.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055061.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055061.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055061.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055061.mp3"
+      }
     },
     {
       "id": 4963,
@@ -509,7 +936,14 @@
       "nomor": 62,
       "ar": "وَمِنْ دُوْنِهِمَا جَنَّتٰنِۚ ",
       "tr": "wamin duunihim<u>aa</u> jannat<u>aa</u>n<strong>i</strong>",
-      "idn": "Dan selain dari dua surga itu ada dua surga lagi."
+      "idn": "Dan selain dari dua surga itu ada dua surga lagi.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055062.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055062.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055062.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055062.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055062.mp3"
+      }
     },
     {
       "id": 4964,
@@ -517,7 +951,14 @@
       "nomor": 63,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan,"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055063.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055063.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055063.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055063.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055063.mp3"
+      }
     },
     {
       "id": 4965,
@@ -525,7 +966,14 @@
       "nomor": 64,
       "ar": "مُدْهَاۤمَّتٰنِۚ  ",
       "tr": "mudh<u>aa</u>mmat<u>aa</u>n<strong>i</strong>",
-      "idn": "kedua surga itu (kelihatan) hijau tua warnanya."
+      "idn": "kedua surga itu (kelihatan) hijau tua warnanya.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055064.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055064.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055064.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055064.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055064.mp3"
+      }
     },
     {
       "id": 4966,
@@ -533,7 +981,14 @@
       "nomor": 65,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055065.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055065.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055065.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055065.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055065.mp3"
+      }
     },
     {
       "id": 4967,
@@ -541,7 +996,14 @@
       "nomor": 66,
       "ar": "فِيْهِمَا عَيْنٰنِ نَضَّاخَتٰنِۚ ",
       "tr": "fiihim<u>aa</u> 'ayn<u>aa</u>ni na<u>dhdhaa</u>khat<u>aa</u>n<strong>i</strong>",
-      "idn": "Di dalam keduanya (surga itu) ada dua buah mata air yang memancar."
+      "idn": "Di dalam keduanya (surga itu) ada dua buah mata air yang memancar.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055066.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055066.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055066.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055066.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055066.mp3"
+      }
     },
     {
       "id": 4968,
@@ -549,7 +1011,14 @@
       "nomor": 67,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055067.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055067.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055067.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055067.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055067.mp3"
+      }
     },
     {
       "id": 4969,
@@ -557,7 +1026,14 @@
       "nomor": 68,
       "ar": "فِيْهِمَا فَاكِهَةٌ وَّنَخْلٌ وَّرُمَّانٌۚ  ",
       "tr": "fiihim<u>aa</u> f<u>aa</u>kihatun wanakhlun warumm<u>aa</u>n<strong>un</strong>",
-      "idn": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima."
+      "idn": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055068.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055068.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055068.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055068.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055068.mp3"
+      }
     },
     {
       "id": 4970,
@@ -565,7 +1041,14 @@
       "nomor": 69,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055069.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055069.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055069.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055069.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055069.mp3"
+      }
     },
     {
       "id": 4971,
@@ -573,7 +1056,14 @@
       "nomor": 70,
       "ar": "فِيْهِنَّ خَيْرٰتٌ حِسَانٌۚ  ",
       "tr": "fiihinna khayr<u>aa</u>tun <u>h</u>is<u>aa</u>n<strong>un</strong>",
-      "idn": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita."
+      "idn": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055070.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055070.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055070.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055070.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055070.mp3"
+      }
     },
     {
       "id": 4972,
@@ -581,7 +1071,14 @@
       "nomor": 71,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055071.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055071.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055071.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055071.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055071.mp3"
+      }
     },
     {
       "id": 4973,
@@ -589,7 +1086,14 @@
       "nomor": 72,
       "ar": "حُوْرٌ مَّقْصُوْرٰتٌ فِى الْخِيَامِۚ  ",
       "tr": "<u>h</u>uurun maq<u>sh</u>uur<u>aa</u>tun fii <strong>a</strong>lkhiy<u>aa</u>m<strong>i</strong>",
-      "idn": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah."
+      "idn": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055072.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055072.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055072.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055072.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055072.mp3"
+      }
     },
     {
       "id": 4974,
@@ -597,7 +1101,14 @@
       "nomor": 73,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055073.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055073.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055073.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055073.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055073.mp3"
+      }
     },
     {
       "id": 4975,
@@ -605,7 +1116,14 @@
       "nomor": 74,
       "ar": "لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ  ",
       "tr": "lam ya<u>th</u>mitshunna insun qablahum wal<u>aa</u> j<u>aa</u>n<strong>nun</strong>",
-      "idn": "Mereka tidak pernah disentuh oleh manusia maupun oleh jin sebelumnya."
+      "idn": "Mereka tidak pernah disentuh oleh manusia maupun oleh jin sebelumnya.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055074.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055074.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055074.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055074.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055074.mp3"
+      }
     },
     {
       "id": 4976,
@@ -613,7 +1131,14 @@
       "nomor": 75,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055075.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055075.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055075.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055075.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055075.mp3"
+      }
     },
     {
       "id": 4977,
@@ -621,7 +1146,14 @@
       "nomor": 76,
       "ar": "مُتَّكِـِٕيْنَ عَلٰى رَفْرَفٍ خُضْرٍ وَّعَبْقَرِيٍّ حِسَانٍۚ  ",
       "tr": "muttaki-iina 'al<u>aa</u> rafrafin khu<u>dh</u>rin wa'abqariyyin <u>h</u>is<u>aa</u>n<strong>in</strong>",
-      "idn": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah."
+      "idn": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055076.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055076.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055076.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055076.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055076.mp3"
+      }
     },
     {
       "id": 4978,
@@ -629,7 +1161,14 @@
       "nomor": 77,
       "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
       "tr": "fabi-ayyi <u>aa</u>l<u>aa</u>-i rabbikum<u>aa</u> tuka<u>dzdz</u>ib<u>aa</u>n<strong>i</strong>",
-      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055077.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055077.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055077.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055077.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055077.mp3"
+      }
     },
     {
       "id": 4979,
@@ -637,7 +1176,14 @@
       "nomor": 78,
       "ar": "تَبٰرَكَ اسْمُ رَبِّكَ ذِى الْجَلٰلِ وَالْاِكْرَامِ ࣖ ",
       "tr": "tab<u>aa</u>raka ismu rabbika <u>dz</u>ii <strong>a</strong>ljal<u>aa</u>li wa<strong>a</strong>l-ikr<u>aa</u>m<strong>i</strong>",
-      "idn": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan."
+      "idn": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/055078.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/055078.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/055078.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/055078.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/055078.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -651,5 +1197,12 @@
     "nama": "القمر",
     "nama_latin": "Al-Qamar",
     "jumlah_ayat": 55
+  },
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/055.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/055.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/055.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/055.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/055.mp3"
   }
 }

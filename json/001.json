@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
       "tr": "bismi <strong>al</strong>l<u>aa</u>hi <strong>al</strong>rra<u>h</u>m<u>aa</u>ni <strong>al</strong>rra<u>h</u>iim<strong>i</strong>",
-      "idn": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      "idn": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/001001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/001001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/001001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/001001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001001.mp3"
+      }
     },
     {
       "id": 2,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
       "tr": "al<u>h</u>amdu lill<u>aa</u>hi rabbi <strong>a</strong>l'<u>aa</u>lamiin<strong>a</strong>",
-      "idn": "Segala puji bagi Allah, Tuhan seluruh alam,"
+      "idn": "Segala puji bagi Allah, Tuhan seluruh alam,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/001002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/001002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/001002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/001002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001002.mp3"
+      }
     },
     {
       "id": 3,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "الرَّحْمٰنِ الرَّحِيْمِۙ",
       "tr": "a<strong>l</strong>rra<u>h</u>m<u>aa</u>ni <strong>al</strong>rra<u>h</u>iim<strong>i</strong>",
-      "idn": "Yang Maha Pengasih, Maha Penyayang,"
+      "idn": "Yang Maha Pengasih, Maha Penyayang,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/001003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/001003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/001003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/001003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001003.mp3"
+      }
     },
     {
       "id": 4,
@@ -45,7 +66,14 @@
       "nomor": 4,
       "ar": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
       "tr": "m<u>aa</u>liki yawmi <strong>al</strong>ddiin<strong>i</strong>",
-      "idn": "Pemilik hari pembalasan."
+      "idn": "Pemilik hari pembalasan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/001004.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/001004.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/001004.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/001004.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001004.mp3"
+      }
     },
     {
       "id": 5,
@@ -53,7 +81,14 @@
       "nomor": 5,
       "ar": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
       "tr": "iyy<u>aa</u>ka na'budu wa-iyy<u>aa</u>ka nasta'iin<strong>u</strong>",
-      "idn": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan."
+      "idn": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/001005.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/001005.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/001005.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/001005.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001005.mp3"
+      }
     },
     {
       "id": 6,
@@ -61,7 +96,14 @@
       "nomor": 6,
       "ar": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ",
       "tr": "ihdin<u>aa</u> <strong>al</strong><u>shsh</u>ir<u>aath</u>a <strong>a</strong>lmustaqiim<strong>a</strong>",
-      "idn": "Tunjukilah kami jalan yang lurus,"
+      "idn": "Tunjukilah kami jalan yang lurus,",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/001006.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/001006.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/001006.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/001006.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001006.mp3"
+      }
     },
     {
       "id": 7,
@@ -69,7 +111,14 @@
       "nomor": 7,
       "ar": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
       "tr": "<u>sh</u>ir<u>aath</u>a <strong>al</strong>la<u>dz</u>iina an'amta 'alayhim ghayri <strong>a</strong>lmagh<u>dh</u>uubi 'alayhim wal<u>aa</u> <strong>al</strong><u>dhdhaa</u>lliin<strong>a</strong>",
-      "idn": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
+      "idn": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/001007.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/001007.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/001007.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/001007.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001007.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -78,5 +127,12 @@
     "nama_latin": "Al-Baqarah",
     "jumlah_ayat": 286
   },
-  "surat_sebelumnya": false
+  "surat_sebelumnya": false,
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/001.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/001.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/001.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/001.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/001.mp3"
+  }
 }

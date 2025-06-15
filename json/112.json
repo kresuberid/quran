@@ -21,7 +21,14 @@
       "nomor": 1,
       "ar": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
       "tr": "qul huwa <strong>al</strong>l<u>aa</u>hu a<u>h</u>ad<strong>un</strong>",
-      "idn": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa."
+      "idn": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/112001.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/112001.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/112001.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/112001.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/112001.mp3"
+      }
     },
     {
       "id": 6223,
@@ -29,7 +36,14 @@
       "nomor": 2,
       "ar": "اَللّٰهُ الصَّمَدُۚ",
       "tr": "<strong>al</strong>l<u>aa</u>hu <strong>al</strong><u>shsh</u>amad<strong>u</strong>",
-      "idn": "Allah tempat meminta segala sesuatu."
+      "idn": "Allah tempat meminta segala sesuatu.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/112002.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/112002.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/112002.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/112002.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/112002.mp3"
+      }
     },
     {
       "id": 6224,
@@ -37,7 +51,14 @@
       "nomor": 3,
       "ar": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
       "tr": "lam yalid walam yuulad<strong>u</strong>",
-      "idn": "(Allah) tidak beranak dan tidak pula diperanakkan."
+      "idn": "(Allah) tidak beranak dan tidak pula diperanakkan.",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/112003.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/112003.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/112003.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/112003.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/112003.mp3"
+      }
     },
     {
       "id": 6225,
@@ -45,7 +66,14 @@
       "nomor": 4,
       "ar": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
       "tr": "walam yakun lahu kufuwan a<u>h</u>ad<strong>un</strong>",
-      "idn": "Dan tidak ada sesuatu yang setara dengan Dia.”"
+      "idn": "Dan tidak ada sesuatu yang setara dengan Dia.”",
+      "audio": {
+        "01": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdullah-Al-Juhany/112004.mp3",
+        "02": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdul-Muhsin-Al-Qasim/112004.mp3",
+        "03": "https://equran.nos.wjv-1.neo.id/audio-partial/Abdurrahman-as-Sudais/112004.mp3",
+        "04": "https://equran.nos.wjv-1.neo.id/audio-partial/Ibrahim-Al-Dossari/112004.mp3",
+        "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/112004.mp3"
+      }
     }
   ],
   "surat_selanjutnya": {
@@ -59,5 +87,12 @@
     "nama": "اللهب",
     "nama_latin": "Al-Lahab",
     "jumlah_ayat": 5
+  },
+  "audioFull": {
+    "01": "https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/112.mp3",
+    "02": "https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/112.mp3",
+    "03": "https://equran.nos.wjv-1.neo.id/audio-full/Abdurrahman-as-Sudais/112.mp3",
+    "04": "https://equran.nos.wjv-1.neo.id/audio-full/Ibrahim-Al-Dossari/112.mp3",
+    "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/112.mp3"
   }
 }
