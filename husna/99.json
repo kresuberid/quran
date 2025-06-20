@@ -1,0 +1,814 @@
+[
+  {
+    "id": 1,
+    "latin": "Ar-Rahman",
+    "arab": "ٱلرَّحْمَٰنُ",
+    "arti": "Yang Maha Pengasih",
+    "makna": "Allah memiliki kasih sayang yang sangat luas kepada seluruh makhluk-Nya, tanpa terkecuali, baik di dunia maupun di akhirat.",
+    "dalil": "QS. Al-Fatihah: 1, QS. Ar-Rahman: 1"
+  },
+  {
+    "id": 2,
+    "latin": "Ar-Rahim",
+    "arab": "ٱلرَّحِيمُ",
+    "arti": "Yang Maha Penyayang",
+    "makna": "Allah sangat penyayang, khususnya kepada hamba-Nya yang beriman dan taat. Dia memberikan rahmat dan ampunan kepada mereka.",
+    "dalil": "QS. Al-Fatihah: 3, QS. Al-Baqarah: 163"
+  },
+  {
+    "id": 3,
+    "latin": "Al-Malik",
+    "arab": "ٱلْمَلِكُ",
+    "arti": "Yang Maha Merajai",
+    "makna": "Allah adalah Raja seluruh alam. Segala sesuatu di langit dan di bumi adalah milik dan dalam kekuasaan-Nya.",
+    "dalil": "QS. Al-Hasyr: 23, QS. Al-Mu'minun: 116"
+  },
+  {
+    "id": 4,
+    "latin": "Al-Quddus",
+    "arab": "ٱلْقُدُّوسُ",
+    "arti": "Yang Maha Suci",
+    "makna": "Allah Mahasuci, bersih dari segala kekurangan, cacat, dan sifat buruk. Dia sempurna dalam segala hal.",
+    "dalil": "QS. Al-Hasyr: 23, QS. Al-Jumu'ah: 1"
+  },
+  {
+    "id": 5,
+    "latin": "As-Salam",
+    "arab": "ٱلسَّلَامُ",
+    "arti": "Yang Maha Memberi Kesejahteraan",
+    "makna": "Allah Maha Damai dan Sumber keselamatan bagi makhluk-Nya. Dia bebas dari segala kekurangan dan menebarkan kesejahteraan.",
+    "dalil": "QS. Al-Hasyr: 23"
+  },
+  {
+    "id": 6,
+    "latin": "Al-Mu'min",
+    "arab": "ٱلْمُؤْمِنُ",
+    "arti": "Yang Maha Memberi Keamanan",
+    "makna": "Allah memberi rasa aman dan perlindungan kepada makhluk-Nya. Ia juga menjaga dan memelihara iman di hati manusia.",
+    "dalil": "QS. Al-Hasyr: 23"
+  },
+  {
+    "id": 7,
+    "latin": "Al-Muhaimin",
+    "arab": "ٱلْمُهَيْمِنُ",
+    "arti": "Yang Maha Memelihara",
+    "makna": "Allah Maha Mengawasi dan menjaga seluruh makhluk-Nya. Dia menyaksikan segala perbuatan dan memberikan rezeki serta perlindungan.",
+    "dalil": "QS. Al-Hasyr: 23"
+  },
+  {
+    "id": 8,
+    "latin": "Al-Aziz",
+    "arab": "ٱلْعَزِيزُ",
+    "arti": "Yang Maha Perkasa",
+    "makna": "Allah Mahakuat dan tidak ada satu pun yang dapat mengalahkan-Nya. Dia berkuasa atas segala sesuatu.",
+    "dalil": "QS. Al-Hasyr: 23, QS. Ali Imran: 6"
+  },
+  {
+    "id": 9,
+    "latin": "Al-Jabbar",
+    "arab": "ٱلْجَبَّارُ",
+    "arti": "Yang Maha Kuasa",
+    "makna": "Allah memiliki kekuasaan mutlak atas segala sesuatu dan mampu memaksakan kehendak-Nya. Tak ada yang bisa melawan kehendak-Nya.",
+    "dalil": "QS. Al-Hasyr: 23"
+  }
+]
+[
+  {
+    "id": 10,
+    "latin": "Al-Mutakabbir",
+    "arab": "ٱلْمُتَكَبِّرُ",
+    "arti": "Yang Maha Megah",
+    "makna": "Allah adalah satu-satunya Dzat yang memiliki kebesaran dan keagungan mutlak. Tidak ada satu pun makhluk yang layak untuk sombong, karena kesombongan hanya milik Allah. Allah menunjukkan keagungan-Nya dengan menciptakan alam semesta yang luas dan menakjubkan.",
+    "dalil": "QS. Al-Hasyr: 23"
+  },
+  {
+    "id": 11,
+    "latin": "Al-Khaliq",
+    "arab": "ٱلْخَالِقُ",
+    "arti": "Yang Maha Pencipta",
+    "makna": "Allah adalah Dzat yang menciptakan segala sesuatu dari tiada. Semua makhluk, mulai dari manusia, tumbuhan, binatang, hingga langit dan bumi, semuanya adalah ciptaan Allah. Tak ada satu pun yang serupa dengan ciptaan-Nya.",
+    "dalil": "QS. Al-Hasyr: 24, QS. Al-Baqarah: 54"
+  },
+  {
+    "id": 12,
+    "latin": "Al-Bari'",
+    "arab": "ٱلْبَارِئُ",
+    "arti": "Yang Maha Mengadakan",
+    "makna": "Allah yang membentuk dan mengatur semua ciptaan-Nya dengan sangat rapi. Setiap makhluk diberikan bentuk dan fungsinya masing-masing, sesuai dengan kehendak Allah.",
+    "dalil": "QS. Al-Hasyr: 24, QS. Al-Baqarah: 54"
+  },
+  {
+    "id": 13,
+    "latin": "Al-Musawwir",
+    "arab": "ٱلْمُصَوِّرُ",
+    "arti": "Yang Maha Membentuk Rupa",
+    "makna": "Allah yang memberikan bentuk, rupa, warna, dan ciri khas pada setiap makhluk. Tidak ada satu pun makhluk yang benar-benar sama, semua memiliki keunikan yang diberikan Allah.",
+    "dalil": "QS. Al-Hasyr: 24, QS. Al-Infithar: 8"
+  },
+  {
+    "id": 14,
+    "latin": "Al-Ghaffar",
+    "arab": "ٱلْغَفَّارُ",
+    "arti": "Yang Maha Pengampun",
+    "makna": "Allah sangat suka mengampuni dosa-dosa hamba-Nya, baik dosa kecil maupun dosa besar, asalkan mereka mau bertobat. Allah menutupi dan menghapuskan dosa-dosa hamba-Nya yang menyesal dan meminta ampun.",
+    "dalil": "QS. Thaha: 82, QS. Az-Zumar: 5"
+  },
+  {
+    "id": 15,
+    "latin": "Al-Qahhar",
+    "arab": "ٱلْقَهَّارُ",
+    "arti": "Yang Maha Menundukkan",
+    "makna": "Allah memiliki kekuasaan yang mutlak. Segala sesuatu tunduk kepada Allah. Tidak ada makhluk yang mampu melawan atau menentang kehendak-Nya.",
+    "dalil": "QS. Yusuf: 39, QS. Ar-Ra’d: 16"
+  },
+  {
+    "id": 16,
+    "latin": "Al-Wahhab",
+    "arab": "ٱلْوَهَّابُ",
+    "arti": "Yang Maha Pemberi Karunia",
+    "makna": "Allah selalu memberi nikmat dan karunia tanpa batas kepada hamba-Nya, bahkan tanpa mereka minta. Allah memberi rezeki, kesehatan, ilmu, dan lain sebagainya.",
+    "dalil": "QS. Sad: 9, QS. Ali Imran: 8"
+  },
+  {
+    "id": 17,
+    "latin": "Ar-Razzaq",
+    "arab": "ٱلرَّزَّاقُ",
+    "arti": "Yang Maha Pemberi Rezeki",
+    "makna": "Allah memberi rezeki kepada semua makhluk-Nya, tanpa kecuali. Baik manusia, hewan, maupun tumbuhan mendapatkan rezeki yang telah Allah tetapkan.",
+    "dalil": "QS. Az-Zariyat: 58, QS. Hud: 6"
+  },
+  {
+    "id": 18,
+    "latin": "Al-Fattah",
+    "arab": "ٱلْفَتَّاحُ",
+    "arti": "Yang Maha Pembuka Rahmat",
+    "makna": "Allah membuka segala kebaikan, kemudahan, dan rezeki bagi hamba-Nya. Allah juga yang membuka pintu ilmu, hati, dan jalan keluar bagi setiap masalah.",
+    "dalil": "QS. Saba’: 26, QS. Al-Fath: 1"
+  }
+]
+[
+  {
+    "id": 19,
+    "latin": "Al-‘Alim",
+    "arab": "ٱلْعَلِيمُ",
+    "arti": "Yang Maha Mengetahui",
+    "makna": "Allah mengetahui segala sesuatu, baik yang terlihat maupun yang tersembunyi. Tidak ada satu pun rahasia di langit dan di bumi yang tidak diketahui-Nya. Allah mengetahui isi hati, niat, dan setiap pikiran manusia, bahkan sebelum mereka mengatakannya. Semua kejadian di masa lalu, sekarang, maupun masa depan ada dalam pengetahuan Allah. Pengetahuan Allah sangat luas dan tak terbatas.",
+    "dalil": "QS. Al-Baqarah: 29, QS. Al-An’am: 59"
+  },
+  {
+    "id": 20,
+    "latin": "Al-Qabidh",
+    "arab": "ٱلْقَابِضُ",
+    "arti": "Yang Maha Menyempitkan",
+    "makna": "Allah berkuasa untuk menyempitkan atau menahan rezeki dan nikmat sesuai kehendak-Nya. Ketika Allah menahan rezeki atau kebahagiaan, itu adalah bagian dari ujian dan kasih sayang Allah, agar hamba-Nya bersabar dan lebih dekat kepada-Nya.",
+    "dalil": "QS. Al-Baqarah: 245, QS. Al-Isra’: 30"
+  },
+  {
+    "id": 21,
+    "latin": "Al-Basit",
+    "arab": "ٱلْبَاسِطُ",
+    "arti": "Yang Maha Melapangkan",
+    "makna": "Allah dapat melapangkan atau memberikan rezeki dengan sangat mudah. Ketika Allah melapangkan rezeki, hamba-Nya merasa bahagia, lega, dan semakin bersyukur. Allah juga melapangkan hati hamba-Nya sehingga mereka dapat menerima segala keadaan dengan ikhlas.",
+    "dalil": "QS. Al-Baqarah: 245, QS. Ar-Ra’d: 26"
+  },
+  {
+    "id": 22,
+    "latin": "Al-Khafidh",
+    "arab": "ٱلْخَافِضُ",
+    "arti": "Yang Maha Merendahkan",
+    "makna": "Allah dapat merendahkan derajat siapa saja yang dikehendaki-Nya. Orang yang sombong dan durhaka akan direndahkan oleh Allah baik di dunia maupun di akhirat. Allah juga dapat menurunkan pangkat atau kedudukan seseorang sebagai bentuk pelajaran dan kasih sayang-Nya.",
+    "dalil": "QS. Al-Waqi’ah: 3"
+  },
+  {
+    "id": 23,
+    "latin": "Ar-Rafi’",
+    "arab": "ٱلرَّافِعُ",
+    "arti": "Yang Maha Meninggikan",
+    "makna": "Allah berkuasa untuk meninggikan derajat siapa saja yang dikehendaki-Nya. Allah meninggikan derajat orang-orang beriman dan bertakwa. Allah juga dapat meninggikan pangkat atau kedudukan seseorang di dunia maupun di akhirat sebagai bentuk rahmat-Nya.",
+    "dalil": "QS. Al-Mujadilah: 11, QS. Al-An’am: 83"
+  },
+  {
+    "id": 24,
+    "latin": "Al-Mu’izz",
+    "arab": "ٱلْمُعِزُّ",
+    "arti": "Yang Maha Memuliakan",
+    "makna": "Allah-lah yang memberikan kemuliaan kepada siapa pun yang dikehendaki-Nya. Orang yang taat dan bertakwa akan dimuliakan Allah di dunia dan akhirat. Kemuliaan sejati hanya milik Allah dan orang yang mendapatkannya adalah orang yang dekat kepada Allah.",
+    "dalil": "QS. Ali Imran: 26, QS. Al-Hasyr: 23"
+  },
+  {
+    "id": 25,
+    "latin": "Al-Mudzil",
+    "arab": "ٱلْمُذِلُّ",
+    "arti": "Yang Maha Menghinakan",
+    "makna": "Allah berkuasa untuk menghinakan siapa saja yang dikehendaki-Nya. Orang yang sombong dan melanggar perintah Allah akan mendapatkan kehinaan baik di dunia maupun di akhirat. Allah ingin mengajarkan bahwa kemuliaan hanya berasal dari-Nya.",
+    "dalil": "QS. Ali Imran: 26, QS. At-Taubah: 63"
+  },
+  {
+    "id": 26,
+    "latin": "As-Sami’",
+    "arab": "ٱلسَّمِيعُ",
+    "arti": "Yang Maha Mendengar",
+    "makna": "Allah mendengar semua perkataan dan doa hamba-Nya. Tidak ada suara sekecil apapun yang luput dari pendengaran Allah, bahkan yang diucapkan dalam hati. Oleh karena itu, ketika berdoa dan memohon kepada Allah, yakinlah Allah pasti mendengar.",
+    "dalil": "QS. Al-Baqarah: 127, QS. Al-An’am: 13"
+  },
+  {
+    "id": 27,
+    "latin": "Al-Basir",
+    "arab": "ٱلْبَصِيرُ",
+    "arti": "Yang Maha Melihat",
+    "makna": "Allah dapat melihat segala sesuatu, baik yang besar maupun yang kecil, yang tampak maupun yang tersembunyi. Allah juga mengetahui perbuatan-perbuatan manusia, sehingga kita harus selalu berbuat baik karena Allah selalu mengawasi.",
+    "dalil": "QS. Al-Ghafir: 44, QS. Al-Isra’: 1"
+  }
+]
+[
+  {
+    "id": 28,
+    "latin": "Al-Hakam",
+    "arab": "ٱلْحَكَمُ",
+    "arti": "Yang Maha Menetapkan",
+    "makna": "Allah adalah Hakim yang paling adil. Segala keputusan dan ketetapan-Nya tidak pernah salah. Allah akan memberikan keputusan terbaik bagi hamba-Nya di dunia maupun di akhirat. Semua makhluk tidak dapat menolak atau melawan ketetapan Allah, karena Allah Maha Mengetahui dan Maha Bijaksana. Dalam setiap persoalan, Allah memberikan hukum dan keadilan yang sempurna.",
+    "dalil": "QS. Al-An’am: 114, QS. Al-Qasas: 70"
+  },
+  {
+    "id": 29,
+    "latin": "Al-‘Adl",
+    "arab": "ٱلْعَدْلُ",
+    "arti": "Yang Maha Adil",
+    "makna": "Allah Maha Adil, tidak pernah menzalimi siapa pun. Setiap makhluk akan mendapatkan balasan sesuai dengan perbuatannya. Tidak ada satu pun yang dirugikan ataupun dilebihkan tanpa alasan yang benar. Allah memberikan keadilan yang sempurna dan setiap keputusan-Nya penuh dengan kebijaksanaan. Keadilan Allah menjadi dasar bagi kehidupan yang seimbang di dunia.",
+    "dalil": "QS. Al-Anbiya’: 47, QS. An-Nahl: 90"
+  },
+  {
+    "id": 30,
+    "latin": "Al-Lathif",
+    "arab": "ٱللَّطِيفُ",
+    "arti": "Yang Maha Lembut",
+    "makna": "Allah sangat lembut dan penuh kasih sayang dalam setiap perbuatan-Nya. Dia memberikan kebaikan kepada hamba-Nya dengan cara yang sering tidak disadari. Allah membantu, menjaga, dan menolong hamba-Nya secara halus dan bijaksana. Tidak ada satu pun kebaikan yang luput dari perhatian Allah.",
+    "dalil": "QS. Al-An’am: 103, QS. Al-Mulk: 14"
+  },
+  {
+    "id": 31,
+    "latin": "Al-Khabir",
+    "arab": "ٱلْخَبِيرُ",
+    "arti": "Yang Maha Mengetahui Rahasia",
+    "makna": "Allah mengetahui semua yang tersembunyi, termasuk rahasia hati, niat, dan pikiran manusia. Tidak ada satu pun yang luput dari pengetahuan Allah. Allah mengetahui rahasia di balik segala peristiwa dan setiap yang terjadi di alam semesta. Pengetahuan Allah meliputi segala hal, bahkan yang paling dalam sekalipun.",
+    "dalil": "QS. Al-Mulk: 14, QS. Al-An’am: 18"
+  },
+  {
+    "id": 32,
+    "latin": "Al-Halim",
+    "arab": "ٱلْحَلِيمُ",
+    "arti": "Yang Maha Penyantun",
+    "makna": "Allah sangat penyabar dan tidak segera menghukum hamba-Nya yang bersalah. Allah memberikan kesempatan untuk bertaubat dan memperbaiki diri. Kasih sayang dan kesabaran Allah tidak terbatas, meskipun banyak hamba-Nya yang melakukan kesalahan, Allah tetap memberi waktu untuk kembali ke jalan yang benar.",
+    "dalil": "QS. Al-Baqarah: 225, QS. Al-Ahzab: 51"
+  },
+  {
+    "id": 33,
+    "latin": "Al-‘Azhim",
+    "arab": "ٱلْعَظِيمُ",
+    "arti": "Yang Maha Agung",
+    "makna": "Allah adalah Dzat yang Maha Besar dan Maha Agung. Tidak ada yang dapat menandingi keagungan-Nya. Seluruh alam semesta tunduk kepada kebesaran dan kemuliaan Allah. Keagungan Allah meliputi segala sesuatu, dan tidak ada sesuatu pun yang mampu menyaingi-Nya.",
+    "dalil": "QS. Al-Baqarah: 255, QS. Al-Waqi’ah: 96"
+  },
+  {
+    "id": 34,
+    "latin": "Al-Ghafur",
+    "arab": "ٱلْغَفُورُ",
+    "arti": "Yang Maha Pengampun",
+    "makna": "Allah sangat sering mengampuni dosa-dosa hamba-Nya, sebesar apapun dosa tersebut, jika hamba-Nya mau bertaubat. Allah menutupi kesalahan dan tidak mempermalukan hamba-Nya di depan makhluk lain. Kasih sayang Allah sangat luas, sehingga selalu membuka pintu ampunan bagi siapa saja yang memohon dengan sungguh-sungguh.",
+    "dalil": "QS. Az-Zumar: 53, QS. Al-Hijr: 49"
+  },
+  {
+    "id": 35,
+    "latin": "Asy-Syakur",
+    "arab": "ٱلشَّكُورُ",
+    "arti": "Yang Maha Mensyukuri/Menghargai",
+    "makna": "Allah selalu menghargai setiap amal kebaikan hamba-Nya, walaupun kecil. Allah memberi balasan yang jauh lebih besar dari kebaikan yang dilakukan seorang hamba. Tidak ada kebaikan yang sia-sia di sisi Allah. Allah memuji dan membalas setiap usaha hamba-Nya yang taat.",
+    "dalil": "QS. Fatir: 30, QS. Asy-Syura: 23"
+  },
+  {
+    "id": 36,
+    "latin": "Al-‘Aliyy",
+    "arab": "ٱلْعَلِيُّ",
+    "arti": "Yang Maha Tinggi",
+    "makna": "Allah Maha Tinggi derajat-Nya, tidak ada satu pun makhluk yang menyamai-Nya. Allah berada di atas segala sesuatu dan memiliki kekuasaan mutlak atas seluruh alam semesta. Semua makhluk tunduk kepada keagungan dan kemuliaan Allah.",
+    "dalil": "QS. Al-Baqarah: 255, QS. Al-An’am: 61"
+  }
+]
+[
+  {
+    "id": 37,
+    "latin": "Al-Kabir",
+    "arab": "ٱلْكَبِيرُ",
+    "arti": "Yang Maha Besar",
+    "makna": "Allah adalah Dzat yang Maha Besar, kebesaran-Nya meliputi segala sesuatu di alam semesta. Tidak ada satu makhluk pun yang mampu menandingi atau menyaingi keagungan-Nya. Segala sesuatu yang besar dan hebat di dunia hanyalah kecil di hadapan Allah. Kebesaran Allah tampak dalam segala ciptaan-Nya, dari yang terkecil hingga yang terbesar. Allah-lah yang patut disembah dan diagungkan, karena Dia satu-satunya yang benar-benar besar dalam segala hal.",
+    "dalil": "QS. Al-Hajj: 62, QS. Luqman: 30"
+  },
+  {
+    "id": 38,
+    "latin": "Al-Hafizh",
+    "arab": "ٱلْحَفِيظُ",
+    "arti": "Yang Maha Menjaga",
+    "makna": "Allah adalah penjaga terbaik bagi seluruh makhluk-Nya. Allah menjaga alam semesta agar tetap berjalan sesuai kehendak-Nya. Dia melindungi, memelihara, dan menjaga manusia, hewan, tumbuhan, serta seluruh ciptaan-Nya. Allah juga menjaga kitab-kitab-Nya dari perubahan dan penyelewengan. Tidak ada yang terlewat dari penjagaan Allah, baik yang tampak maupun yang tersembunyi.",
+    "dalil": "QS. Hud: 57, QS. Yusuf: 64"
+  },
+  {
+    "id": 39,
+    "latin": "Al-Muqit",
+    "arab": "ٱلْمُقِيتُ",
+    "arti": "Yang Maha Pemberi Kecukupan",
+    "makna": "Allah memberikan kecukupan kepada semua makhluk-Nya. Dia memastikan bahwa semua makhluk mendapatkan rezeki dan kebutuhan yang cukup untuk bertahan hidup. Allah mengetahui apa yang diperlukan setiap makhluk dan memberikannya dengan hikmah dan kasih sayang. Allah juga memelihara hati dan jiwa manusia agar tetap tenang dan bahagia dengan kecukupan yang diberikan.",
+    "dalil": "QS. An-Nisa’: 85"
+  },
+  {
+    "id": 40,
+    "latin": "Al-Hasib",
+    "arab": "ٱلْحَسِيبُ",
+    "arti": "Yang Maha Membuat Perhitungan",
+    "makna": "Allah adalah yang menghitung segala amal perbuatan makhluk-Nya dengan sangat teliti. Tidak ada satu pun amal, baik yang besar maupun yang kecil, yang luput dari perhitungan Allah. Pada hari kiamat nanti, Allah akan memperhitungkan semua amal manusia dan membalasnya dengan adil. Allah juga mencukupi kebutuhan hamba-Nya dan melindungi mereka dari kekurangan.",
+    "dalil": "QS. An-Nisa’: 6, QS. Al-Ahzab: 39"
+  },
+  {
+    "id": 41,
+    "latin": "Al-Jalil",
+    "arab": "ٱلْجَلِيلُ",
+    "arti": "Yang Maha Mulia",
+    "makna": "Allah adalah Dzat yang penuh kemuliaan, keagungan, dan kebesaran. Kemuliaan Allah tampak pada segala ciptaan-Nya, pada hukum-hukum yang ditetapkan-Nya, dan pada seluruh perintah-Nya. Tidak ada satu pun makhluk yang dapat menandingi kemuliaan-Nya. Allah dimuliakan oleh seluruh makhluk di langit dan di bumi.",
+    "dalil": "QS. Ar-Rahman: 27, QS. Al-A’raf: 143"
+  },
+  {
+    "id": 42,
+    "latin": "Al-Karim",
+    "arab": "ٱلْكَرِيمُ",
+    "arti": "Yang Maha Pemurah",
+    "makna": "Allah Maha Pemurah kepada seluruh makhluk-Nya. Allah memberi rezeki, kebaikan, dan karunia tanpa batas, bahkan kepada orang yang sering lalai atau durhaka. Allah tidak pernah perhitungan dalam memberi. Sifat pemurah Allah mendorong manusia untuk bersyukur, berbagi, dan tidak kikir.",
+    "dalil": "QS. Al-Infithar: 6, QS. Al-Mu’minun: 116"
+  },
+  {
+    "id": 43,
+    "latin": "Ar-Raqib",
+    "arab": "ٱلرَّقِيبُ",
+    "arti": "Yang Maha Mengawasi",
+    "makna": "Allah selalu mengawasi seluruh makhluk-Nya. Tidak ada satu pun perbuatan, ucapan, atau bahkan niat manusia yang luput dari pengawasan Allah. Allah mengetahui apa yang dilakukan makhluk-Nya, baik secara terang-terangan maupun tersembunyi. Dengan kesadaran akan pengawasan Allah, manusia didorong untuk selalu berhati-hati dan berbuat baik.",
+    "dalil": "QS. An-Nisa’: 1, QS. Al-Ma’idah: 117"
+  },
+  {
+    "id": 44,
+    "latin": "Al-Mujib",
+    "arab": "ٱلْمُجِيبُ",
+    "arti": "Yang Maha Mengabulkan",
+    "makna": "Allah Maha Mengabulkan setiap doa dan permohonan hamba-Nya. Tidak ada satu doa pun yang diabaikan oleh Allah. Allah mengabulkan doa dengan cara dan waktu yang terbaik menurut kehendak-Nya. Allah juga mendengarkan keluh kesah setiap makhluk dan memberikan solusi sesuai kebijaksanaan-Nya.",
+    "dalil": "QS. Hud: 61, QS. Ash-Shura: 26"
+  },
+  {
+    "id": 45,
+    "latin": "Al-Wasi’",
+    "arab": "ٱلْوَاسِعُ",
+    "arti": "Yang Maha Luas",
+    "makna": "Allah memiliki keluasan dalam segala hal. Ilmu Allah sangat luas, tidak terbatas dan meliputi segala sesuatu. Rahmat dan kasih sayang Allah juga sangat luas, bahkan meliputi seluruh makhluk. Kekuasaan, kemampuan, dan kerajaan Allah sangat luas sehingga tidak ada batasnya.",
+    "dalil": "QS. Al-Baqarah: 115, QS. Al-An’am: 80"
+  }
+]
+[
+  {
+    "id": 46,
+    "latin": "Al-Hakim",
+    "arab": "ٱلْحَكِيمُ",
+    "arti": "Yang Maha Bijaksana",
+    "makna": "Allah adalah Dzat yang Maha Bijaksana dalam setiap keputusan dan ketetapan-Nya. Semua ciptaan dan perintah-Nya tidak pernah sia-sia. Allah menciptakan segala sesuatu dengan penuh hikmah, mengatur dan memberi ketentuan terbaik bagi makhluk-Nya. Kebijaksanaan Allah terlihat dalam penciptaan alam semesta, pengaturan kehidupan manusia, hingga dalam pemberian ujian dan nikmat. Allah tidak pernah salah atau keliru, karena segala keputusan-Nya berdasarkan ilmu dan kasih sayang yang sempurna.",
+    "dalil": "QS. Al-Baqarah: 129, QS. Al-An’am: 18"
+  },
+  {
+    "id": 47,
+    "latin": "Al-Wadud",
+    "arab": "ٱلْوَدُودُ",
+    "arti": "Yang Maha Pencinta",
+    "makna": "Allah adalah Dzat yang Maha Pencinta dan penyayang. Dia mencintai hamba-Nya yang beriman, taat, dan selalu berbuat kebaikan. Bentuk kasih sayang dan cinta Allah adalah dengan memberikan rahmat, ampunan, serta nikmat kepada hamba-Nya. Allah juga mengajarkan umat manusia untuk saling mencintai dan menyayangi sesama, mengikuti teladan kasih sayang-Nya.",
+    "dalil": "QS. Hud: 90, QS. Al-Buruj: 14"
+  },
+  {
+    "id": 48,
+    "latin": "Al-Majid",
+    "arab": "ٱلْمَجِيدُ",
+    "arti": "Yang Maha Mulia",
+    "makna": "Allah Maha Mulia, keagungan-Nya sangat tinggi, dan kemuliaan-Nya tak terhingga. Allah memiliki kemuliaan dalam Dzat, sifat, dan perbuatan-Nya. Tidak ada satu pun makhluk yang dapat menandingi kemuliaan dan kehormatan Allah. Semua kemuliaan dan keutamaan hanya milik Allah semata.",
+    "dalil": "QS. Al-Buruj: 15, QS. Hud: 73"
+  },
+  {
+    "id": 49,
+    "latin": "Al-Ba’its",
+    "arab": "ٱلْبَاعِثُ",
+    "arti": "Yang Maha Membangkitkan",
+    "makna": "Allah adalah Dzat yang mampu membangkitkan makhluk dari kematian. Allah membangkitkan manusia dari alam kubur pada hari kiamat untuk mempertanggungjawabkan semua amal perbuatan mereka. Allah juga membangkitkan semangat, pengetahuan, dan kebaikan di hati manusia. Hanya Allah yang berkuasa membangkitkan kembali siapa saja yang dikehendaki-Nya.",
+    "dalil": "QS. Al-Hajj: 7, QS. Al-Mujadilah: 6"
+  },
+  {
+    "id": 50,
+    "latin": "Asy-Syahid",
+    "arab": "ٱلشَّهِيدُ",
+    "arti": "Yang Maha Menyaksikan",
+    "makna": "Allah Maha Menyaksikan segala sesuatu. Tidak ada satu perbuatan, perkataan, atau pun pikiran manusia yang luput dari pengawasan-Nya. Allah adalah saksi bagi semua yang dilakukan manusia di dunia, dan akan menjadi saksi utama di hari kiamat nanti.",
+    "dalil": "QS. Al-Hajj: 17, QS. Al-Ma’idah: 117"
+  },
+  {
+    "id": 51,
+    "latin": "Al-Haqq",
+    "arab": "ٱلْحَقُّ",
+    "arti": "Yang Maha Benar",
+    "makna": "Allah adalah Dzat yang Maha Benar. Segala yang berasal dari-Nya adalah kebenaran mutlak. Keberadaan Allah adalah nyata dan tidak mungkin disangkal. Segala janji, firman, dan ketetapan-Nya pasti benar dan pasti terjadi.",
+    "dalil": "QS. Yunus: 32, QS. Al-Hajj: 62"
+  },
+  {
+    "id": 52,
+    "latin": "Al-Wakil",
+    "arab": "ٱلْوَكِيلُ",
+    "arti": "Yang Maha Memelihara",
+    "makna": "Allah adalah tempat bersandar dan tempat memohon perlindungan terbaik. Dia adalah pelindung, penjaga, dan pemelihara semua makhluk-Nya. Setiap urusan diserahkan kepada Allah, dan Dia tidak pernah lalai ataupun lupa. Allah mengatur, memelihara, dan menolong hamba-Nya yang bertawakal kepada-Nya.",
+    "dalil": "QS. Az-Zumar: 38, QS. Al-Anfal: 49"
+  },
+  {
+    "id": 53,
+    "latin": "Al-Qawiyyu",
+    "arab": "ٱلْقَوِيُّ",
+    "arti": "Yang Maha Kuat",
+    "makna": "Allah Maha Kuat, kekuatan-Nya meliputi segalanya. Tidak ada satu makhluk pun yang mampu mengalahkan-Nya. Allah mampu menciptakan, memusnahkan, menghidupkan, dan mematikan makhluk-Nya dengan mudah. Segala kekuatan di alam semesta berasal dari-Nya.",
+    "dalil": "QS. Al-Hajj: 40, QS. Ash-Shura: 19"
+  },
+  {
+    "id": 54,
+    "latin": "Al-Matin",
+    "arab": "ٱلْمَتِينُ",
+    "arti": "Yang Maha Kokoh",
+    "makna": "Allah Maha Kokoh dan teguh dalam segala urusan-Nya. Tidak ada sesuatu pun yang dapat menggoyahkan atau melemahkan Allah. Segala sesuatu yang ditetapkan-Nya pasti terjadi, dan tidak ada yang bisa menghalangi kekuatan-Nya. Allah adalah tempat bergantung yang paling kokoh dan kuat.",
+    "dalil": "QS. Adz-Dzariyat: 58"
+  }
+]
+[
+  {
+    "id": 55,
+    "latin": "Al-Waliy",
+    "arab": "ٱلْوَلِيُّ",
+    "arti": "Yang Maha Melindungi",
+    "makna": "Allah adalah pelindung dan penolong bagi siapa saja yang dikehendaki-Nya, terutama bagi orang-orang yang beriman. Allah selalu menjaga, mengawasi, dan menolong hamba-hamba-Nya dalam berbagai urusan. Perlindungan Allah meliputi perlindungan fisik, batin, iman, dan rezeki. Siapa pun yang berserah diri kepada Allah dan bertawakal akan mendapatkan penjagaan dan pertolongan terbaik, bahkan dalam kondisi yang paling sulit sekalipun.",
+    "dalil": "QS. Al-Baqarah: 257, QS. Al-A'raf: 196"
+  },
+  {
+    "id": 56,
+    "latin": "Al-Hamid",
+    "arab": "ٱلْحَمِيدُ",
+    "arti": "Yang Maha Terpuji",
+    "makna": "Allah adalah Dzat yang pantas dan berhak mendapatkan segala pujian dari seluruh makhluk. Segala nikmat, kebaikan, dan keindahan yang ada di dunia ini bersumber dari Allah. Segala sesuatu yang diciptakan-Nya menunjukkan kesempurnaan dan keagungan-Nya, sehingga seluruh pujian yang dilantunkan manusia, malaikat, dan makhluk lainnya hanya layak ditujukan kepada Allah.",
+    "dalil": "QS. Al-Baqarah: 267, QS. Ibrahim: 8"
+  },
+  {
+    "id": 57,
+    "latin": "Al-Muhshi",
+    "arab": "ٱلْمُحْصِي",
+    "arti": "Yang Maha Menghitung",
+    "makna": "Allah mengetahui dan mencatat seluruh amal, perkataan, dan niat hamba-Nya tanpa ada yang terlewat sedikit pun. Setiap detik kehidupan, setiap ucapan, bahkan bisikan hati, semuanya dihitung dan diketahui oleh Allah. Tak ada yang tersembunyi atau luput dari catatan dan pengawasan-Nya. Pada hari kiamat, semua perbuatan itu akan diperlihatkan dan diperhitungkan secara adil.",
+    "dalil": "QS. Al-Jinn: 28, QS. Yasin: 12"
+  },
+  {
+    "id": 58,
+    "latin": "Al-Mubdi'",
+    "arab": "ٱلْمُبْدِئُ",
+    "arti": "Yang Maha Memulai",
+    "makna": "Allah adalah Dzat yang memulai penciptaan seluruh makhluk dari ketiadaan. Dialah yang menciptakan manusia, hewan, tumbuhan, dan seluruh isi alam semesta dari tiada menjadi ada. Allah memulai segala urusan tanpa contoh atau bantuan siapa pun, dan hanya Dia yang mampu menciptakan segala sesuatu dari awal.",
+    "dalil": "QS. Al-Baqarah: 117, QS. Al-Ankabut: 19-20"
+  },
+  {
+    "id": 59,
+    "latin": "Al-Mu'id",
+    "arab": "ٱلْمُعِيدُ",
+    "arti": "Yang Maha Mengembalikan Kehidupan",
+    "makna": "Allah Maha Mengembalikan kehidupan setelah kematian. Dialah yang mampu menghidupkan kembali semua makhluk yang telah mati untuk dibangkitkan di hari kiamat. Tidak ada yang dapat menghalangi kekuasaan Allah dalam membangkitkan seluruh makhluk-Nya, serta mengembalikan segala urusan yang telah berlalu.",
+    "dalil": "QS. Al-Baqarah: 28, QS. Al-A'raf: 25"
+  },
+  {
+    "id": 60,
+    "latin": "Al-Muhyi",
+    "arab": "ٱلْمُحْيِي",
+    "arti": "Yang Maha Menghidupkan",
+    "makna": "Allah adalah satu-satunya Dzat yang memberi kehidupan kepada seluruh makhluk. Allah meniupkan ruh kepada manusia, binatang, dan tumbuhan sehingga semuanya hidup sesuai kehendak-Nya. Allah juga mampu menghidupkan hati yang mati dengan cahaya iman dan ilmu pengetahuan. Hanya Allah yang berkuasa untuk memberikan kehidupan dan mengatur segala urusan makhluk-Nya.",
+    "dalil": "QS. Al-Baqarah: 258, QS. Ar-Rum: 50"
+  },
+  {
+    "id": 61,
+    "latin": "Al-Mumit",
+    "arab": "ٱلْمُمِيتُ",
+    "arti": "Yang Maha Mematikan",
+    "makna": "Allah yang menentukan ajal dan waktu kematian bagi setiap makhluk-Nya. Tidak ada satu makhluk pun yang mampu menghindari atau menunda kematian yang telah ditetapkan oleh Allah. Setiap yang hidup pasti akan mati sesuai dengan takdir yang sudah ditentukan Allah. Allah menunjukkan kekuasaan-Nya dengan menciptakan kehidupan dan mematikan makhluk sesuai hikmah dan rencana-Nya.",
+    "dalil": "QS. Al-Baqarah: 258, QS. Az-Zumar: 42"
+  },
+  {
+    "id": 62,
+    "latin": "Al-Hayy",
+    "arab": "ٱلْحَيُّ",
+    "arti": "Yang Maha Hidup",
+    "makna": "Allah adalah Dzat yang hidup dan tidak pernah mati. Kehidupan Allah tidak berawal dan tidak berakhir. Tidak ada yang mampu memberi kehidupan kepada Allah karena Allah adalah sumber segala kehidupan. Semua makhluk bergantung kepada Allah untuk hidup, sedangkan Allah tidak membutuhkan makhluk sedikit pun.",
+    "dalil": "QS. Al-Baqarah: 255, QS. Ghafir: 65"
+  },
+  {
+    "id": 63,
+    "latin": "Al-Qayyum",
+    "arab": "ٱلْقَيُّومُ",
+    "arti": "Yang Maha Mandiri",
+    "makna": "Allah Maha Mandiri dalam mengatur seluruh alam semesta. Allah tidak membutuhkan bantuan siapa pun untuk mengatur ciptaan-Nya. Allah selalu berdiri sendiri, tidak pernah lemah, tidak pernah tidur, dan tidak pernah lalai. Semua makhluk membutuhkan Allah untuk bertahan hidup, namun Allah tidak membutuhkan apa pun dari makhluk-Nya.",
+    "dalil": "QS. Al-Baqarah: 255, QS. Al-Imran: 2"
+  }
+]
+[
+  {
+    "id": 64,
+    "latin": "Al-Wajid",
+    "arab": "ٱلْوَاجِدُ",
+    "arti": "Yang Maha Menemukan",
+    "makna": "Allah adalah Dzat yang menemukan apa saja yang dikehendaki-Nya tanpa perlu mencari. Tidak ada yang tersembunyi bagi Allah, baik di langit maupun di bumi. Allah mengetahui segala sesuatu, baik yang tampak maupun yang tersembunyi, dan segala sesuatu berada dalam pengawasan-Nya. Tidak ada satu pun yang luput dari pengetahuan-Nya. Allah mampu menghadirkan dan mencukupi seluruh kebutuhan makhluk-Nya kapan saja dan di mana saja.",
+    "dalil": "QS. Adh-Dhuha: 7–8, QS. Al-An’am: 59"
+  },
+  {
+    "id": 65,
+    "latin": "Al-Majid",
+    "arab": "ٱلْمَاجِدُ",
+    "arti": "Yang Maha Mulia",
+    "makna": "Allah Maha Mulia dengan kemuliaan yang tidak terbatas. Kemuliaan-Nya tidak bisa dibandingkan dengan makhluk mana pun. Allah memiliki kebesaran, ketinggian derajat, dan kemuliaan dalam setiap nama, sifat, dan perbuatan-Nya. Allah memberikan kemuliaan kepada siapa saja yang Dia kehendaki di antara hamba-hamba-Nya. Segala bentuk keagungan dan kemuliaan hanya milik Allah.",
+    "dalil": "QS. Hud: 73, QS. Al-Buruj: 15"
+  },
+  {
+    "id": 66,
+    "latin": "Al-Wahid",
+    "arab": "ٱلْوَاحِدُ",
+    "arti": "Yang Maha Tunggal",
+    "makna": "Allah adalah Dzat yang Maha Esa, Tunggal, tidak ada sekutu bagi-Nya. Allah tidak beranak dan tidak diperanakkan. Segala bentuk penyembahan hanya diperuntukkan kepada Allah semata. Allah berdiri sendiri tanpa bantuan siapa pun dan tidak ada satu pun yang setara dengan-Nya. Keberadaan Allah sebagai Yang Maha Tunggal membedakan-Nya dari segala makhluk.",
+    "dalil": "QS. Al-Baqarah: 163, QS. Ash-Shaffat: 4"
+  },
+  {
+    "id": 67,
+    "latin": "Al-Ahad",
+    "arab": "ٱلْأَحَدُ",
+    "arti": "Yang Maha Esa",
+    "makna": "Allah adalah satu-satunya Tuhan yang berhak disembah. Tidak ada Tuhan selain Allah. Allah tidak punya sekutu, tidak punya pasangan, dan tidak pernah menyerupai makhluk-Nya. Allah adalah Dzat yang kekal, tidak diciptakan dan tidak menciptakan Tuhan lain. Ketauhidan kepada Allah adalah inti dari ajaran Islam.",
+    "dalil": "QS. Al-Ikhlas: 1, QS. Al-Baqarah: 255"
+  },
+  {
+    "id": 68,
+    "latin": "Ash-Shamad",
+    "arab": "ٱلصَّمَدُ",
+    "arti": "Yang Maha Dibutuhkan",
+    "makna": "Allah adalah tempat bergantung seluruh makhluk. Segala sesuatu yang ada di alam semesta ini membutuhkan Allah, baik untuk kehidupan, rezeki, perlindungan, maupun petunjuk. Sementara Allah sama sekali tidak membutuhkan apa pun dari makhluk-Nya. Semua permintaan, harapan, dan doa hamba akan kembali kepada Allah. Hanya Allah yang sanggup memenuhi segala kebutuhan makhluk-Nya.",
+    "dalil": "QS. Al-Ikhlas: 2, QS. Az-Zumar: 36"
+  },
+  {
+    "id": 69,
+    "latin": "Al-Qadir",
+    "arab": "ٱلْقَادِرُ",
+    "arti": "Yang Maha Berkuasa",
+    "makna": "Allah memiliki kekuasaan yang sempurna atas segala sesuatu. Tidak ada yang bisa melawan atau menandingi kekuasaan Allah. Allah mampu menciptakan, mematikan, menghidupkan, mengatur, dan menetapkan segala urusan sesuai dengan kehendak-Nya. Kekuasaan Allah tidak terbatas oleh ruang dan waktu.",
+    "dalil": "QS. Fathir: 44, QS. Al-Baqarah: 20"
+  },
+  {
+    "id": 70,
+    "latin": "Al-Muqtadir",
+    "arab": "ٱلْمُقْتَدِرُ",
+    "arti": "Yang Maha Menentukan",
+    "makna": "Allah adalah penentu segala sesuatu. Allah menentukan apa yang terjadi di langit dan bumi. Tidak ada satu pun yang dapat menghalangi keputusan-Nya. Apa pun yang dikehendaki Allah pasti terjadi, dan apa yang tidak dikehendaki-Nya tidak akan terjadi. Kuasa Allah meliputi segala sesuatu dan tidak pernah berkurang sedikit pun.",
+    "dalil": "QS. Al-Qamar: 42, QS. Al-Kahfi: 45"
+  },
+  {
+    "id": 71,
+    "latin": "Al-Muqaddim",
+    "arab": "ٱلْمُقَدِّمُ",
+    "arti": "Yang Maha Mendahulukan",
+    "makna": "Allah mendahulukan apa saja yang dikehendaki-Nya dalam penciptaan, urusan, atau kejadian. Allah memiliki hak mutlak untuk memberikan keutamaan atau mendahulukan siapa saja yang Dia kehendaki, sesuai dengan hikmah dan kebijaksanaan-Nya. Segala sesuatu terjadi dengan ketetapan dan urutan yang sudah diatur Allah.",
+    "dalil": "QS. Al-Muddathir: 37–38, QS. Al-Hadid: 4"
+  },
+  {
+    "id": 72,
+    "latin": "Al-Mu’akhkhir",
+    "arab": "ٱلْمُؤَخِّرُ",
+    "arti": "Yang Maha Mengakhirkan",
+    "makna": "Allah berhak untuk menunda atau mengakhirkan segala sesuatu sesuai dengan hikmah-Nya. Allah mengatur waktu dan urutan kejadian dengan sempurna. Tidak ada yang bisa memajukan atau mengundurkan ketetapan Allah. Segala urusan, baik rezeki, kematian, ataupun pertolongan, semuanya terjadi sesuai dengan waktu yang sudah ditentukan oleh Allah.",
+    "dalil": "QS. Al-Muddathir: 37–38, QS. Huud: 104"
+  }
+]
+[
+  {
+    "id": 73,
+    "latin": "Al-Awwal",
+    "arab": "ٱلْأَوَّلُ",
+    "arti": "Yang Maha Awal",
+    "makna": "Allah adalah Dzat yang paling pertama, tidak ada apa pun yang mendahului-Nya. Allah ada sebelum segalanya diciptakan, dan tidak pernah ada awal bagi keberadaan-Nya. Semua makhluk, waktu, dan ruang ada karena kehendak-Nya. Pemahaman ini mengajarkan bahwa Allah adalah sumber dari segalanya dan tidak bergantung pada apa pun. Hanya Allah yang layak dijadikan tempat bergantung dan dimintai pertolongan dalam segala urusan.",
+    "dalil": "QS. Al-Hadid: 3"
+  },
+  {
+    "id": 74,
+    "latin": "Al-Akhir",
+    "arab": "ٱلْآخِرُ",
+    "arti": "Yang Maha Akhir",
+    "makna": "Allah adalah Dzat yang paling akhir, tidak ada sesuatu pun yang datang sesudah-Nya. Setelah semua makhluk lenyap, hanya Allah yang tetap ada, kekal selama-lamanya. Allah tidak akan pernah mati atau binasa. Dengan memahami bahwa Allah Maha Akhir, manusia diajak untuk tidak menggantungkan diri pada dunia, karena segala sesuatu selain Allah akan musnah.",
+    "dalil": "QS. Al-Hadid: 3"
+  },
+  {
+    "id": 75,
+    "latin": "Az-Zhahir",
+    "arab": "ٱلظَّاهِرُ",
+    "arti": "Yang Maha Nyata",
+    "makna": "Allah Maha Nyata dan bukti keberadaan-Nya terlihat dari ciptaan-ciptaan-Nya di alam semesta. Segala keindahan, keteraturan, dan keajaiban alam adalah tanda-tanda yang menunjukkan kekuasaan dan keagungan Allah. Tidak ada satu pun makhluk yang bisa menandingi kebesaran dan kemuliaan Allah. Semua makhluk menjadi saksi akan keberadaan dan keesaan-Nya.",
+    "dalil": "QS. Al-Hadid: 3"
+  },
+  {
+    "id": 76,
+    "latin": "Al-Batin",
+    "arab": "ٱلْبَاطِنُ",
+    "arti": "Yang Maha Ghaib",
+    "makna": "Allah adalah Dzat yang tidak terlihat oleh pandangan mata manusia. Allah mengetahui segala yang tersembunyi di dalam hati dan segala rahasia makhluk-Nya. Tidak ada yang bisa menjangkau hakikat Allah kecuali yang Dia kehendaki. Allah Maha Dekat kepada hamba-Nya dan Maha Mengetahui apa yang dirahasiakan sekalipun.",
+    "dalil": "QS. Al-Hadid: 3"
+  },
+  {
+    "id": 77,
+    "latin": "Al-Wali",
+    "arab": "ٱلْوَالِي",
+    "arti": "Yang Maha Memerintah",
+    "makna": "Allah adalah Dzat yang berkuasa penuh dan memerintah segala sesuatu di langit dan di bumi. Semua perintah dan ketetapan Allah pasti berlaku dan tidak ada yang dapat membantah-Nya. Allah menjaga, mengurus, dan mengatur seluruh makhluk-Nya dengan penuh hikmah dan keadilan.",
+    "dalil": "QS. Ar-Ra'd: 11"
+  },
+  {
+    "id": 78,
+    "latin": "Al-Muta'ali",
+    "arab": "ٱلْمُتَعَالِى",
+    "arti": "Yang Maha Tinggi",
+    "makna": "Allah Maha Tinggi derajat-Nya, tidak ada satu pun makhluk yang bisa menandingi keagungan dan ketinggian-Nya. Allah berada di atas segalanya, tidak bisa dijangkau oleh akal maupun pancaindra manusia. Allah bersih dari segala kekurangan dan kelemahan.",
+    "dalil": "QS. Ar-Ra'd: 9"
+  },
+  {
+    "id": 79,
+    "latin": "Al-Barr",
+    "arab": "ٱلْبَرُّ",
+    "arti": "Yang Maha Penderma",
+    "makna": "Allah Maha Baik dan Maha Dermawan. Kebaikan dan kasih sayang-Nya meliputi semua makhluk, baik yang beriman maupun tidak. Allah selalu memberikan rahmat, rezeki, perlindungan, dan segala kebaikan tanpa diminta. Tidak ada satu makhluk pun yang luput dari kebaikan dan kemurahan Allah.",
+    "dalil": "QS. Ath-Thur: 28"
+  },
+  {
+    "id": 80,
+    "latin": "At-Tawwab",
+    "arab": "ٱلتَّوَّابُ",
+    "arti": "Yang Maha Penerima Taubat",
+    "makna": "Allah sangat senang menerima taubat hamba-hamba-Nya. Allah memaafkan kesalahan dan dosa siapa pun yang benar-benar menyesal dan memohon ampunan kepada-Nya. Allah tidak pernah bosan menerima taubat, meskipun hamba-Nya sering jatuh ke dalam dosa selama mau bertaubat dengan sungguh-sungguh.",
+    "dalil": "QS. At-Taubah: 104"
+  },
+  {
+    "id": 81,
+    "latin": "Al-Muntaqim",
+    "arab": "ٱلْمُنْتَقِمُ",
+    "arti": "Yang Maha Pemberi Balasan",
+    "makna": "Allah berhak membalas kejahatan dan kedurhakaan makhluk-Nya dengan siksa yang adil. Namun Allah juga Maha Pengampun dan tidak menyiksa tanpa alasan yang benar. Balasan Allah adalah bukti keadilan dan kebijaksanaan-Nya dalam menegakkan kebenaran.",
+    "dalil": "QS. Ali Imran: 4"
+  }
+]
+[
+  {
+    "id": 82,
+    "latin": "Al-'Afuww",
+    "arab": "ٱلْعَفُوُّ",
+    "arti": "Yang Maha Pemaaf",
+    "makna": "Allah adalah Dzat Yang Maha Pemaaf, yang senantiasa menghapus dosa dan kesalahan hamba-hamba-Nya yang mau bertaubat dan memohon ampun. Allah suka memaafkan dan tidak membalas kesalahan orang yang telah bertaubat sungguh-sungguh. Pengampunan Allah sangat luas, bahkan dosa sebesar apapun jika diiringi penyesalan dan permohonan ampunan yang tulus, Allah pasti mengampuni. Ini menunjukkan kelembutan dan kasih sayang Allah yang tidak terbatas. Karena itu, setiap orang sebaiknya jangan pernah putus asa untuk bertaubat kepada Allah.",
+    "dalil": "QS. Al-Hajj: 60"
+  },
+  {
+    "id": 83,
+    "latin": "Ar-Ra'uf",
+    "arab": "ٱلرَّؤُفُ",
+    "arti": "Yang Maha Pengasih",
+    "makna": "Allah adalah Dzat Yang Maha Pengasih, sangat lembut dan penuh kasih sayang kepada seluruh makhluk-Nya. Allah memberikan nikmat, perlindungan, dan petunjuk kepada semua makhluk-Nya, baik yang beriman maupun yang tidak. Kasih sayang Allah sangat luas dan tidak terbatas, bahkan ketika manusia berbuat salah pun Allah masih memberikan kesempatan untuk bertaubat dan memperbaiki diri. Allah mencintai hamba-Nya yang taat dan selalu ingin yang terbaik untuk mereka.",
+    "dalil": "QS. Al-Hasyr: 10"
+  },
+  {
+    "id": 84,
+    "latin": "Malikul-Mulk",
+    "arab": "مَالِكُ الْمُلْكِ",
+    "arti": "Penguasa Kerajaan (Alam Semesta)",
+    "makna": "Allah adalah Penguasa seluruh kerajaan, pemilik segala kekuasaan dan kerajaan di langit dan di bumi. Semua yang ada di alam semesta adalah milik Allah, dan hanya Allah yang berhak mengatur dan memerintah segalanya. Kekuasaan Allah meliputi segala sesuatu, dan tidak ada satu pun makhluk yang bisa menandingi-Nya. Semua makhluk sangat membutuhkan Allah, sedangkan Allah sama sekali tidak membutuhkan apa pun.",
+    "dalil": "QS. Ali Imran: 26"
+  },
+  {
+    "id": 85,
+    "latin": "Dzul-Jalali wal-Ikram",
+    "arab": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+    "arti": "Yang Memiliki Kebesaran dan Kemuliaan",
+    "makna": "Allah adalah Dzat yang memiliki keagungan, kebesaran, dan kemuliaan yang sempurna. Tidak ada satu pun makhluk yang dapat menandingi keagungan dan kemuliaan-Nya. Allah juga sangat pemurah dan selalu memuliakan makhluk-Nya dengan memberi nikmat, rahmat, dan rezeki. Semua kemuliaan dan kebesaran hanya milik Allah, dan setiap makhluk harus memuliakan dan mengagungkan-Nya.",
+    "dalil": "QS. Ar-Rahman: 27"
+  },
+  {
+    "id": 86,
+    "latin": "Al-Muqsith",
+    "arab": "ٱلْمُقْسِطُ",
+    "arti": "Yang Maha Adil",
+    "makna": "Allah adalah Dzat Yang Maha Adil dalam segala ketetapan-Nya. Setiap keputusan dan perbuatan Allah pasti berdasarkan keadilan dan hikmah yang sempurna. Allah tidak pernah menzalimi hamba-Nya, dan semua amal perbuatan manusia akan dihitung dan dibalas sesuai dengan keadilan-Nya. Dengan memahami sifat ini, manusia diajak untuk berlaku adil dalam kehidupan sehari-hari dan tidak pernah berbuat zalim.",
+    "dalil": "QS. Al-Hujurat: 9"
+  },
+  {
+    "id": 87,
+    "latin": "Al-Jami'",
+    "arab": "ٱلْجَامِعُ",
+    "arti": "Yang Maha Mengumpulkan",
+    "makna": "Allah adalah Dzat Yang Maha Mengumpulkan, yang akan mengumpulkan seluruh makhluk pada hari kiamat untuk diberi balasan atas amal perbuatan mereka. Allah juga mengumpulkan hati manusia agar bersatu dalam kebaikan dan ketaatan. Tidak ada satu pun makhluk yang mampu lari dari ketetapan Allah. Semua makhluk pasti akan dikumpulkan kembali di akhirat nanti.",
+    "dalil": "QS. An-Nisa: 87"
+  },
+  {
+    "id": 88,
+    "latin": "Al-Ghaniyy",
+    "arab": "ٱلْغَنِيُّ",
+    "arti": "Yang Maha Kaya",
+    "makna": "Allah adalah Dzat Yang Maha Kaya, tidak membutuhkan apa pun dari makhluk-Nya. Semua makhluk sangat membutuhkan Allah, sedangkan Allah sama sekali tidak butuh makhluk. Kekayaan Allah meliputi segalanya, dan Allah dapat memberi kekayaan kepada siapa saja yang Dia kehendaki.",
+    "dalil": "QS. Fathir: 15"
+  },
+  {
+    "id": 89,
+    "latin": "Al-Mughni",
+    "arab": "ٱلْمُغْنِي",
+    "arti": "Yang Maha Memberi Kekayaan",
+    "makna": "Allah adalah Dzat Yang Maha Memberi Kekayaan, mampu memberi rezeki, kecukupan, dan kekayaan kepada siapa saja sesuai dengan kehendak-Nya. Allah memberi karunia dan nikmat tanpa batas, dan Dia mampu menjadikan siapa pun kaya ataupun miskin.",
+    "dalil": "QS. An-Najm: 48"
+  },
+  {
+    "id": 90,
+    "latin": "Al-Mani'",
+    "arab": "ٱلْمَانِعُ",
+    "arti": "Yang Maha Mencegah",
+    "makna": "Allah adalah Dzat Yang Maha Mencegah. Tidak ada sesuatu pun yang bisa terjadi tanpa izin Allah. Jika Allah menghendaki untuk mencegah atau menahan sesuatu, maka tidak ada satu makhluk pun yang mampu menghalanginya. Allah mampu melindungi dan mencegah bahaya, musibah, dan mara bahaya menimpa hamba-Nya.",
+    "dalil": "QS. Al-Baqarah: 255"
+  }
+]
+[
+  {
+    "id": 91,
+    "latin": "Adh-Dharr",
+    "arab": "ٱلضَّارُّ",
+    "arti": "Yang Maha Memberi Derita",
+    "makna": "Allah adalah Dzat Yang Maha Berkuasa untuk memberi bahaya, derita, atau musibah kepada siapa pun yang Dia kehendaki. Tidak ada satu makhluk pun yang bisa mencegah bahaya atau kesulitan yang Allah tetapkan. Allah memberikan cobaan, ujian, maupun penderitaan kepada manusia sebagai bentuk ujian keimanan dan sarana mendekatkan diri kepada-Nya. Namun, Allah tidak pernah berbuat zalim dan selalu memberikan ujian sesuai kemampuan hamba-Nya.",
+    "dalil": "QS. Al-An'am: 17"
+  },
+  {
+    "id": 92,
+    "latin": "An-Nafi'",
+    "arab": "ٱلنَّافِعُ",
+    "arti": "Yang Maha Memberi Manfaat",
+    "makna": "Allah adalah Dzat Yang Maha Memberi Manfaat kepada seluruh makhluk. Allah memberikan segala kebaikan, manfaat, dan maslahat kepada siapa pun yang dikehendaki-Nya. Setiap nikmat, rezeki, dan keberkahan datang hanya dari Allah. Tidak ada satu pun makhluk yang bisa memberi manfaat jika Allah tidak mengizinkan.",
+    "dalil": "QS. Yunus: 107"
+  },
+  {
+    "id": 93,
+    "latin": "An-Nur",
+    "arab": "ٱلنُّورُ",
+    "arti": "Yang Maha Bercahaya",
+    "makna": "Allah adalah Dzat Yang Maha Bercahaya dan memberi cahaya kepada seluruh makhluk-Nya, baik cahaya secara hakiki maupun maknawi (petunjuk, ilmu, dan keimanan). Cahaya Allah menerangi hati, alam semesta, dan jalan hidup manusia. Dengan petunjuk-Nya, manusia bisa membedakan antara yang benar dan salah.",
+    "dalil": "QS. An-Nur: 35"
+  },
+  {
+    "id": 94,
+    "latin": "Al-Hadi",
+    "arab": "ٱلْهَادِي",
+    "arti": "Yang Maha Memberi Petunjuk",
+    "makna": "Allah adalah Dzat Yang Maha Memberi Petunjuk. Allah membimbing hati manusia menuju kebenaran dan jalan yang lurus. Hanya Allah yang mampu membuka hati manusia agar mau menerima petunjuk, memahami kebenaran, dan mengamalkannya. Tanpa petunjuk Allah, manusia akan tersesat.",
+    "dalil": "QS. Al-Furqan: 31"
+  },
+  {
+    "id": 95,
+    "latin": "Al-Badi'",
+    "arab": "ٱلْبَدِيعُ",
+    "arti": "Yang Maha Pencipta Tiada Bandingannya",
+    "makna": "Allah adalah Dzat Yang Maha Menciptakan segala sesuatu secara sempurna, tanpa ada contoh sebelumnya. Segala ciptaan Allah memiliki keunikan dan keindahan. Tidak ada yang dapat menandingi ciptaan dan keagungan Allah. Setiap makhluk diciptakan dengan ilmu, kekuasaan, dan hikmah yang sempurna.",
+    "dalil": "QS. Al-Baqarah: 117"
+  },
+  {
+    "id": 96,
+    "latin": "Al-Baqi",
+    "arab": "ٱلْبَاقِي",
+    "arti": "Yang Maha Kekal",
+    "makna": "Allah adalah Dzat Yang Maha Kekal. Allah tidak akan binasa, tidak akan mati, dan tidak akan hilang. Segala sesuatu di dunia ini akan musnah, kecuali Allah. Sifat kekekalan Allah menjadi pengingat bagi manusia bahwa hanya Allah tempat bersandar dan kembali.",
+    "dalil": "QS. Ar-Rahman: 27"
+  },
+  {
+    "id": 97,
+    "latin": "Al-Warith",
+    "arab": "ٱلْوَارِثُ",
+    "arti": "Yang Maha Pewaris",
+    "makna": "Allah adalah Dzat Yang Maha Pewaris segala sesuatu. Setelah semua makhluk meninggal dunia dan segala sesuatu hancur, hanya Allah yang tetap ada. Seluruh kekayaan, kekuasaan, dan kepemilikan akhirnya akan kembali kepada Allah. Ini menunjukkan bahwa manusia hanyalah makhluk yang diberi titipan sementara.",
+    "dalil": "QS. Al-Hijr: 23"
+  },
+  {
+    "id": 98,
+    "latin": "Ar-Rashid",
+    "arab": "ٱلرَّشِيدُ",
+    "arti": "Yang Maha Membimbing ke Jalan Lurus",
+    "makna": "Allah adalah Dzat Yang Maha Membimbing, memberikan petunjuk, dan mengarahkan setiap makhluk kepada jalan yang lurus dan benar. Allah memberikan bimbingan melalui wahyu, akal, dan hati nurani, serta mengilhamkan kepada manusia mana yang benar dan mana yang salah.",
+    "dalil": "QS. Al-Kahfi: 10"
+  },
+  {
+    "id": 99,
+    "latin": "As-Shabur",
+    "arab": "ٱلصَّبُورُ",
+    "arti": "Yang Maha Sabar",
+    "makna": "Allah adalah Dzat Yang Maha Sabar, tidak segera menghukum makhluk-Nya meskipun banyak yang membangkang dan durhaka. Allah memberikan waktu dan kesempatan kepada manusia untuk bertaubat, memperbaiki diri, dan memohon ampun. Kesabaran Allah adalah bentuk kasih sayang-Nya kepada seluruh makhluk.",
+    "dalil": "QS. Al-Baqarah: 153"
+  }
+]
