@@ -21,3 +21,33 @@
   height:100%;
   display:block;
 }
+
+.wp-equran-husna,
+.wp-equran-doa ol {
+  list-style:none;
+  padding:0;
+}
+.wp-equran-husna li,
+.wp-equran-doa li {
+  line-height:1.6;
+  margin:0 0 1em;
+}
+.wp-equran-husna li strong,
+.wp-equran-doa li strong {
+  display:block;
+  font-size:1.2em;
+}
+.wp-equran-husna li em,
+.wp-equran-doa li em {
+  color:#666;
+  display:block;
+  margin-top:4px;
+}
+.wp-equran-husna li span,
+.wp-equran-doa .arab {
+  display:block;
+  font-family:LPMQ-IsepMisbah, sans-serif;
+}
+.wp-equran-doa h3 {
+  margin:1em 0 .5em;
+}

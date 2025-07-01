@@ -39,4 +39,45 @@ function wpequran_shortcode() {
     return $html;
 }
 add_shortcode('equran','wpequran_shortcode');
+
+function wpequran_husna_shortcode(){
+    $file = plugin_dir_path(__FILE__) . 'husna/99.json';
+    if (!file_exists($file)) return '';
+    $data = json_decode(file_get_contents($file), true);
+    if (!$data) return '';
+    $html = '<ol class="wp-equran-husna">';
+    foreach ($data as $item) {
+        $arab  = esc_html($item['arab']);
+        $latin = esc_html($item['latin']);
+        $arti  = esc_html($item['arti']);
+        $html .= '<li><strong>'. $arab .'</strong><em>'. $latin .'</em><span>'. $arti .'</span></li>';
+    }
+    $html .= '</ol>';
+    return $html;
+}
+add_shortcode('equran_husna','wpequran_husna_shortcode');
+
+function wpequran_doa_shortcode(){
+    $file = plugin_dir_path(__FILE__) . 'doa/doa.json';
+    if (!file_exists($file)) return '';
+    $data = json_decode(file_get_contents($file), true);
+    if (!$data) return '';
+    $groups = array();
+    foreach ($data as $item) {
+        $groups[$item['grup']][] = $item;
+    }
+    $html = '<div class="wp-equran-doa">';
+    foreach ($groups as $name => $items) {
+        $html .= '<h3>'. esc_html($name) .'</h3><ol>';
+        foreach ($items as $d) {
+            $html .= '<li><strong>'. esc_html($d['nama']) .'</strong>';
+            $html .= '<span class="arab">'. esc_html($d['ar']) .'</span>';
+            $html .= '<em>'. esc_html($d['idn']) .'</em></li>';
+        }
+        $html .= '</ol>';
+    }
+    $html .= '</div>';
+    return $html;
+}
+add_shortcode('equran_doa','wpequran_doa_shortcode');
 ?>
