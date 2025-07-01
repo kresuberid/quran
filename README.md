@@ -87,7 +87,7 @@ Kontribusi terbuka untuk developer WordPress, pengembang plugin ACF, penerjemah,
 
 ## Lisensi
 
-MIT License. Sumber data Al-Qur’an mengikuti lisensi dan ketentuan API/data penyedia.
+Dirilis di bawah MIT License. Lihat berkas `LICENSE` untuk detailnya. Sumber data Al-Qur’an mengikuti lisensi dan ketentuan API/data penyedia.
 
 ---
 
