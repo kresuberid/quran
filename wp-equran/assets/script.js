@@ -25,7 +25,7 @@
 
           const btn = document.createElement('button');
           btn.className = 'wp-equran-audio-btn';
-          btn.innerHTML = '<img src="'+wpEquran.pluginUrl+'/icon/play.svg" alt="play">';
+          btn.innerHTML = '<img src="'+wpEquran.pluginUrl+'/icon/play.svg" alt="'+wpEquran.play+'">';
 
           const audio = document.createElement('audio');
           const first = a.audio ? Object.values(a.audio)[0] : '';
@@ -35,13 +35,16 @@
             if(audio.paused){
               audio.play();
               btn.querySelector('img').src = wpEquran.pluginUrl+'/icon/pause.svg';
+              btn.querySelector('img').alt = wpEquran.pause;
             } else {
               audio.pause();
               btn.querySelector('img').src = wpEquran.pluginUrl+'/icon/play.svg';
+              btn.querySelector('img').alt = wpEquran.play;
             }
           });
           audio.addEventListener('ended',function(){
             btn.querySelector('img').src = wpEquran.pluginUrl+'/icon/play.svg';
+            btn.querySelector('img').alt = wpEquran.play;
           });
 
           p.appendChild(btn);
