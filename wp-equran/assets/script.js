@@ -1,17 +1,30 @@
 (function(){
+  const map = {};
+  function slugify(str){
+    return str.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+  }
   function loadSurahList(){
     fetch(wpEquran.pluginUrl + '/surah-list.json')
       .then(r => r.json())
       .then(list => {
         const select = document.getElementById('wp-equran-surah');
         list.forEach(function(s){
+          const slug = slugify(s.namaLatin);
+          map[slug] = s.nomor.toString().padStart(3,'0');
           const opt = document.createElement('option');
-          opt.value = s.nomor;
+          opt.value = slug;
           opt.text = s.nomor + '. ' + s.namaLatin;
+          if(wpEquran.defaultSurahSlug === slug) opt.selected = true;
           select.appendChild(opt);
         });
-        if(select.options.length) loadSurah(select.value);
-        select.addEventListener('change', () => loadSurah(select.value));
+        let slug = select.value;
+        if(wpEquran.defaultSurah){
+          slug = wpEquran.defaultSurahSlug;
+        }
+        if(map[slug]) loadSurah(map[slug]);
+        select.addEventListener('change', () => {
+          location.href = wpEquran.surahBase + select.value;
+        });
       });
   }
   function loadSurah(id){

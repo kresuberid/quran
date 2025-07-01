@@ -37,6 +37,9 @@ function wpequran_enqueue_assets() {
             'pluginUrl' => rtrim($base, '/'),
             'play'      => __('Play', 'wp-equran'),
             'pause'     => __('Pause', 'wp-equran'),
+            'surahBase' => home_url('/surat/'),
+            'defaultSurah' => '',
+            'defaultSurahSlug' => '',
         )
     );
 }
@@ -91,4 +94,49 @@ function wpequran_doa_shortcode(){
     return $html;
 }
 add_shortcode('equran_doa','wpequran_doa_shortcode');
+
+function wpequran_get_surah_map(){
+    static $map = null;
+    if ($map !== null) return $map;
+    $file = plugin_dir_path(__FILE__) . 'surah-list.json';
+    if (!file_exists($file)) return array();
+    $list = json_decode(file_get_contents($file), true);
+    $map = array();
+    foreach ($list as $row) {
+        $slug = sanitize_title($row['namaLatin']);
+        $map[$slug] = str_pad($row['nomor'], 3, '0', STR_PAD_LEFT);
+    }
+    return $map;
+}
+
+function wpequran_add_rewrite_rule(){
+    add_rewrite_rule('^surat/([^/]+)/?$', 'index.php?equran_surah=$matches[1]', 'top');
+}
+add_action('init','wpequran_add_rewrite_rule');
+
+function wpequran_add_query_var($vars){
+    $vars[] = 'equran_surah';
+    return $vars;
+}
+add_filter('query_vars','wpequran_add_query_var');
+
+function wpequran_template_include($template){
+    if(get_query_var('equran_surah')){
+        $tpl = plugin_dir_path(__FILE__) . 'templates/surah.php';
+        if(file_exists($tpl)) return $tpl;
+    }
+    return $template;
+}
+add_filter('template_include','wpequran_template_include');
+
+function wpequran_activate(){
+    wpequran_add_rewrite_rule();
+    flush_rewrite_rules();
+}
+register_activation_hook(__FILE__,'wpequran_activate');
+
+function wpequran_deactivate(){
+    flush_rewrite_rules();
+}
+register_deactivation_hook(__FILE__,'wpequran_deactivate');
 ?>
