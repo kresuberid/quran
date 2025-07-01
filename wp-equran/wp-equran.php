@@ -9,34 +9,42 @@ License: MIT
 */
 
 function wpequran_enqueue_assets() {
-    $base = plugin_dir_url(__FILE__);
+    $base  = plugin_dir_url(__FILE__);
+    $style = __DIR__ . '/assets/style.css';
+    $script = __DIR__ . '/assets/script.js';
+
     wp_enqueue_style(
         'wpequran-style',
         $base . 'assets/style.css',
         array(),
-        filemtime(__DIR__ . '/assets/style.css')
+        filemtime($style)
     );
+
     wp_enqueue_script(
         'wpequran-script',
         $base . 'assets/script.js',
         array(),
-        filemtime(__DIR__ . '/assets/script.js'),
+        filemtime($script),
         true
     );
+
     wp_localize_script(
         'wpequran-script',
         'wpEquran',
-        array('pluginUrl' => rtrim($base, '/'))
+        array('pluginUrl' => untrailingslashit(plugins_url('', __FILE__)))
     );
 }
 add_action('wp_enqueue_scripts', 'wpequran_enqueue_assets');
 
 function wpequran_shortcode() {
-    $html  = '<div id="wp-equran-app">';
-    $html .= '<select id="wp-equran-surah"></select>';
-    $html .= '<div id="wp-equran-content"></div>';
-    $html .= '</div>';
-    return $html;
+    ob_start();
+    ?>
+    <div id="wp-equran-app">
+        <select id="wp-equran-surah"></select>
+        <div id="wp-equran-content"></div>
+    </div>
+    <?php
+    return ob_get_clean();
 }
-add_shortcode('equran','wpequran_shortcode');
+add_shortcode('equran', 'wpequran_shortcode');
 ?>
