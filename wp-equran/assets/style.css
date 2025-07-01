@@ -6,3 +6,18 @@
   font-family: 'LPMQ-IsepMisbah';
   src: url('../font/LPMQ-IsepMisbah.ttf') format('truetype');
 }
+
+.wp-equran-audio-btn {
+  background:none;
+  border:none;
+  cursor:pointer;
+  vertical-align:middle;
+  width:32px;
+  height:32px;
+  margin-right:6px;
+}
+.wp-equran-audio-btn img {
+  width:100%;
+  height:100%;
+  display:block;
+}

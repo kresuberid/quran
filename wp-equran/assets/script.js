@@ -22,10 +22,34 @@
         cont.innerHTML='';
         data.data.ayat.forEach(function(a){
           const p = document.createElement('p');
-          p.innerHTML =
-            '<strong>'+a.nomorAyat+'</strong> '+
-            a.teksArab +
+
+          const btn = document.createElement('button');
+          btn.className = 'wp-equran-audio-btn';
+          btn.innerHTML = '<img src="'+wpEquran.pluginUrl+'/icon/play.svg" alt="play">';
+
+          const audio = document.createElement('audio');
+          const first = a.audio ? Object.values(a.audio)[0] : '';
+          if(first) audio.src = first;
+
+          btn.addEventListener('click',function(){
+            if(audio.paused){
+              audio.play();
+              btn.querySelector('img').src = wpEquran.pluginUrl+'/icon/pause.svg';
+            } else {
+              audio.pause();
+              btn.querySelector('img').src = wpEquran.pluginUrl+'/icon/play.svg';
+            }
+          });
+          audio.addEventListener('ended',function(){
+            btn.querySelector('img').src = wpEquran.pluginUrl+'/icon/play.svg';
+          });
+
+          p.appendChild(btn);
+          const span = document.createElement('span');
+          span.innerHTML = '<strong>'+a.nomorAyat+'</strong> '+a.teksArab+
             '<br><em>'+a.teksLatin+'</em><br>'+a.teksIndonesia;
+          p.appendChild(span);
+          p.appendChild(audio);
           cont.appendChild(p);
         });
       });
