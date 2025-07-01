@@ -1,5 +1,5 @@
 === WP eQuran ===
-Contributors: kresuberdigital
+Contributors: kresuberid
 Plugin URI: https://equran.my.id
 Tags: quran, shortcode, islam
 Requires at least: 5.0
