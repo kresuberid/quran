@@ -37,6 +37,8 @@ function wpequran_enqueue_assets() {
             'pluginUrl' => rtrim($base, '/'),
             'play'      => __('Play', 'wp-equran'),
             'pause'     => __('Pause', 'wp-equran'),
+            'tafsir'    => __('Tafsir', 'wp-equran'),
+            'share'     => __('Share', 'wp-equran'),
             'surahBase' => home_url('/surat/'),
             'defaultSurah' => '',
             'defaultSurahSlug' => '',
