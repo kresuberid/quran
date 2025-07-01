@@ -1,0 +1,7 @@
+#wp-equran-app { font-family: LPMQ-IsepMisbah, sans-serif; margin:20px; }
+#wp-equran-surah { margin-bottom:10px; padding:5px; }
+#wp-equran-content { line-height:2; }
+@font-face {
+  font-family: 'LPMQ-IsepMisbah';
+  src: url('../font/LPMQ-IsepMisbah.ttf') format('truetype');
+}
