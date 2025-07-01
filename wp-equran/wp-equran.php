@@ -6,7 +6,14 @@ Description: Simple digital Quran plugin with built‑in dataset.
 Author: Kresuber Digital
 Version: 1.0.0
 License: MIT
+Text Domain: wp-equran
+Domain Path: /languages
 */
+
+function wpequran_load_textdomain() {
+    load_plugin_textdomain('wp-equran', false, dirname(plugin_basename(__FILE__)) . '/languages');
+}
+add_action('plugins_loaded', 'wpequran_load_textdomain');
 
 function wpequran_enqueue_assets() {
     $base = plugin_dir_url(__FILE__);
@@ -26,7 +33,11 @@ function wpequran_enqueue_assets() {
     wp_localize_script(
         'wpequran-script',
         'wpEquran',
-        array('pluginUrl' => rtrim($base, '/'))
+        array(
+            'pluginUrl' => rtrim($base, '/'),
+            'play'      => __('Play', 'wp-equran'),
+            'pause'     => __('Pause', 'wp-equran'),
+        )
     );
 }
 add_action('wp_enqueue_scripts', 'wpequran_enqueue_assets');
