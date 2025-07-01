@@ -1,9 +1,55 @@
 (function(){
   const map = {};
   let player,playerAudio,playerBtn,playerClose,currentBtn=null,fullBtn=null;
+  let modal,modalBody;
+  let tafsir={};
 
   function slugify(str){
     return str.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+  }
+
+  function createModal(){
+    modal=document.createElement('div');
+    modal.id='wp-equran-modal';
+    modal.innerHTML='<div class="wp-equran-modal-content"><button type="button" id="wp-equran-modal-close"><img src="'+wpEquran.pluginUrl+'/icon/close.svg" alt="x"></button><div class="wp-equran-modal-body"></div></div>';
+    document.body.appendChild(modal);
+    modalBody=modal.querySelector('.wp-equran-modal-body');
+    modal.querySelector('#wp-equran-modal-close').addEventListener('click',function(){modal.style.display='none';});
+    modal.style.display='none';
+  }
+
+  function showModal(html){
+    if(!modal) createModal();
+    modalBody.innerHTML=html;
+    modal.style.display='flex';
+  }
+
+  function loadTafsir(id){
+    tafsir={};
+    return fetch(wpEquran.pluginUrl + '/tafsir/' + id.padStart(3,'0') + '.json')
+      .then(r=>r.json())
+      .then(t=>{
+        if(t.data && t.data.tafsir){
+          t.data.tafsir.forEach(function(row){
+            tafsir[row.ayat]=row.teks;
+          });
+        }
+      });
+  }
+
+  function showTafsir(num){
+    if(tafsir[num]){
+      showModal(tafsir[num]);
+    }
+  }
+
+  function shareAyah(a){
+    const text=a.teksArab+'\n'+a.teksIndonesia+'\n'+location.href;
+    if(navigator.share){
+      navigator.share({text:a.teksIndonesia,url:location.href}).catch(()=>{});
+    }else if(navigator.clipboard){
+      navigator.clipboard.writeText(text).then(()=>{alert('Copied');});
+    }
   }
 
   function createPlayer(){
@@ -129,6 +175,7 @@
     fetch(wpEquran.pluginUrl + '/json/' + id.padStart(3,'0') + '.json')
       .then(r=>r.json())
       .then(data=>{
+        loadTafsir(id);
         createFullBtn();
         const full=data.data.audioFull?Object.values(data.data.audioFull)[0]:'';
         fullBtn.dataset.audio=full||'';
@@ -141,6 +188,14 @@
           const btn=document.createElement('button');
           btn.className='wp-equran-audio-btn';
           btn.innerHTML='<img src="'+wpEquran.pluginUrl+'/icon/play.svg" alt="'+wpEquran.play+'">';
+          const tafsirBtn=document.createElement('button');
+          tafsirBtn.className='wp-equran-icon-btn';
+          tafsirBtn.innerHTML='<img src="'+wpEquran.pluginUrl+'/icon/info-alt.svg" alt="'+wpEquran.tafsir+'">';
+          tafsirBtn.addEventListener('click',function(){showTafsir(a.nomorAyat);});
+          const shareBtn=document.createElement('button');
+          shareBtn.className='wp-equran-icon-btn';
+          shareBtn.innerHTML='<img src="'+wpEquran.pluginUrl+'/icon/share-alt.svg" alt="'+wpEquran.share+'">';
+          shareBtn.addEventListener('click',function(){shareAyah(a);});
           const src=a.audio?Object.values(a.audio)[0]:'';
           btn.dataset.audio=src;
           btn.addEventListener('click',function(){
@@ -182,6 +237,8 @@
           const span=document.createElement('span');
           span.innerHTML='<strong>'+a.nomorAyat+'</strong> '+a.teksArab+'<br><em>'+a.teksLatin+'</em><br>'+a.teksIndonesia;
           p.appendChild(btn);
+          p.appendChild(tafsirBtn);
+          p.appendChild(shareBtn);
           p.appendChild(span);
           cont.appendChild(p);
         });
@@ -190,6 +247,7 @@
 
   document.addEventListener('DOMContentLoaded',function(){
     createPlayer();
+    createModal();
     loadSurahList();
   });
 })();
