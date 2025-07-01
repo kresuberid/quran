@@ -2,8 +2,7 @@
 
 **Al-Qur'an Digital** adalah platform aplikasi berbasis WordPress yang memanfaatkan Advanced Custom Fields (ACF) untuk pengelolaan data, ayat, surah, audio, dan berbagai fitur Quran digital secara dinamis dan terstruktur. Dengan integrasi ACF, pengelolaan konten dan pengembangan fitur menjadi lebih fleksibel dan powerful bagi admin maupun developer.
 
-Plugin **wp-equran** kini tersedia untuk instalasi cepat.
-Unggah folder `wp-equran` ke `wp-content/plugins`, aktifkan, dan gunakan shortcode `[equran]`.
+Plugin **wp-equran** kini tersedia untuk instalasi cepat. Salin folder `wp-equran` ke `wp-content/plugins`, aktifkan lewat dashboard, lalu gunakan shortcode `[equran]` pada halaman atau postingan.
 Demo: https://equran.my.id
 
 
@@ -52,43 +51,19 @@ Demo: https://equran.my.id
 
 ## Cara Instalasi
 
-Atau cukup salin folder `wp-equran` ke direktori plugins dan aktifkan untuk penggunaan cepat.
+Berikut langkah cepat untuk mencoba plugin:
 
+1. **Salin Plugin**
+   
+   Copy folder `wp-equran` ke direktori `wp-content/plugins` pada instalasi WordPress Anda.
 
-1. **Install WordPress + ACF*
+2. **Aktifkan**
 
-   * Upload plugin [Advanced Custom Fields PRO](https://www.advancedcustomfields.com/) dan aktifkan.
+   Masuk ke Dashboard → Plugins lalu aktifkan *WP eQuran*.
 
-2. **Import Field Groups**
+3. **Gunakan Shortcode**
 
-   * Gunakan menu Tools → Import Field Group (JSON) sesuai struktur yang dibutuhkan (`field_surat.json`, `field_ayat.json`, dll).
-
-3. **Buat Custom Post Type**
-
-   * Bisa dengan plugin (CPT UI) atau manual di functions.php, contoh:
-
-     ```php
-     register_post_type('surat', [...]);
-     register_post_type('ayat', [...]);
-     ```
-
-4. **Isi Data Al-Qur'an**
-
-   * Import otomatis via script/API atau manual lewat dashboard.
-
-5. **Integrasi Frontend**
-
-   * Template theme: gunakan `get_field()` untuk menampilkan data (teks arab, terjemahan, audio, dst)
-
-     ```php
-     $teks_arab = get_field('teks_arab');
-     $audio = get_field('audio_url');
-     $tafsir = get_field('tafsir');
-     ```
-
-6. **Optimasi SEO & Performa**
-
-   * Gunakan Rank Math/Yoast SEO + caching plugin.
+   Tambahkan shortcode `[equran]` ke halaman atau postingan. Plugin akan menampilkan daftar surah dan ayat menggunakan dataset bawaan.
 
 ---
 
