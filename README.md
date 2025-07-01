@@ -3,6 +3,7 @@
 **Al-Qur'an Digital** adalah platform aplikasi berbasis WordPress yang memanfaatkan Advanced Custom Fields (ACF) untuk pengelolaan data, ayat, surah, audio, dan berbagai fitur Quran digital secara dinamis dan terstruktur. Dengan integrasi ACF, pengelolaan konten dan pengembangan fitur menjadi lebih fleksibel dan powerful bagi admin maupun developer.
 
 Plugin **wp-equran** kini tersedia untuk instalasi cepat. Salin folder `wp-equran` ke `wp-content/plugins`, aktifkan lewat dashboard, lalu gunakan shortcode `[equran]` pada halaman atau postingan.
+Plugin ini telah diuji berjalan baik dengan tema **Blocksy**.
 Demo: https://equran.my.id
 
 

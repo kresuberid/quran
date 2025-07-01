@@ -48,7 +48,7 @@
     if(navigator.share){
       navigator.share({text:a.teksIndonesia,url:location.href}).catch(()=>{});
     }else if(navigator.clipboard){
-      navigator.clipboard.writeText(text).then(()=>{alert('Copied');});
+      navigator.clipboard.writeText(text).then(()=>{alert(wpEquran.copied);});
     }
   }
 

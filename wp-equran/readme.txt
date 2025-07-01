@@ -13,6 +13,8 @@ License URI: https://opensource.org/licenses/MIT
 
 WP eQuran is a simple digital Quran plugin that ships with a full dataset of surahs, ayahs, Asmaul Husna and daily prayers. Display them anywhere with shortcodes.
 
+This plugin has been tested to work well with the Blocksy theme.
+
 == Installation ==
 
 1. Upload the `wp-equran` directory to the `/wp-content/plugins/` path of your WordPress site.
