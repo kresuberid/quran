@@ -15,6 +15,63 @@ function wpequran_load_textdomain() {
 }
 add_action('plugins_loaded', 'wpequran_load_textdomain');
 
+function wpequran_preload_assets() {
+    ?>
+    <!-- Preconnect & Prefetch CDN Font & Icon -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn-uicons.flaticon.com">
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    <link rel="dns-prefetch" href="https://cdn-uicons.flaticon.com">
+
+    <!-- Preload Fonts (gabungan) -->
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&family=Roboto+Mono:wght@500&family=Inter:wght@400;600&family=Amiri:wght@400;700&family=Noto+Sans+Arabic:wght@400;700&display=swap" onload="this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&family=Roboto+Mono:wght@500&family=Inter:wght@400;600&family=Amiri:wght@400;700&family=Noto+Sans+Arabic:wght@400;700&display=swap">
+    </noscript>
+
+    <!-- Preload Critical Icon CSS -->
+    <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"></noscript>
+    <link rel="preload" as="style" href="https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css"></noscript>
+
+    <!-- Load other icon sets as usual -->
+    <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css">
+    <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-bold-rounded/css/uicons-bold-rounded.css">
+    <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-thin-rounded/css/uicons-thin-rounded.css">
+    <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-curved-rounded/css/uicons-curved-rounded.css">
+
+    <!-- Font-face lokal & styling tetap sama -->
+    <style>
+    @font-face {
+      font-family: 'LPMQ-IsepMisbah';
+      src: url('https://equran.my.id/fonts/LPMQIsepMisbah.woff2') format('woff2'),
+           url('https://equran.my.id/fonts/LPMQIsepMisbah.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+      unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+    }
+    .font-arabic,
+    .arabic,
+    .quran-arab,
+    [lang="ar"] {
+      font-family: 'LPMQ-IsepMisbah', 'Amiri', 'Traditional Arabic', serif !important;
+      letter-spacing: 0;
+      direction: rtl;
+      font-feature-settings: "calt";
+      font-size: 2rem;
+      font-weight: normal;
+      line-height: 1.85;
+    }
+    </style>
+    <?php
+}
+add_action('wp_head', 'wpequran_preload_assets');
+
 function wpequran_enqueue_assets() {
     $base = plugin_dir_url(__FILE__);
     wp_enqueue_style(

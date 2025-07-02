@@ -85,6 +85,15 @@ Kontribusi terbuka untuk developer WordPress, pengembang plugin ACF, penerjemah,
 
 ---
 
+## API eQuran.id
+
+Dataset plugin ini berasal dari layanan terbuka [eQuran.id](https://equran.id).
+Beberapa endpoint yang dapat dimanfaatkan:
+
+- Seluruh surat: `https://equran.id/api/v2/surat/`
+- Surat per nomor: `https://equran.id/api/v2/surat/{nomor}`
+- Tafsir per surat: `https://equran.id/api/v2/tafsir/{nomor}`
+
 ## Lisensi
 
 Dirilis di bawah MIT License. Lihat berkas `LICENSE` untuk detailnya. Sumber data Al-Qur’an mengikuti lisensi dan ketentuan API/data penyedia.
