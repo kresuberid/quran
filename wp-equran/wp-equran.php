@@ -256,6 +256,89 @@ function wpequran_get_surah_map(){
     return $map;
 }
 
+function wpequran_import_page(){
+    echo '<div class="wrap">';
+    echo '<h1>' . esc_html__("Isi Otomatis 114 Surat", "wp-equran") . '</h1>';
+    if (isset($_GET['imported'])) {
+        $count = intval($_GET['imported']);
+        echo '<div class="notice notice-success"><p>' . sprintf(esc_html__('%d surat berhasil diproses.', 'wp-equran'), $count) . '</p></div>';
+    }
+    echo '<form method="post" action="' . esc_url(admin_url('admin-post.php')) . '">';
+    wp_nonce_field('wpequran_import_surah', 'wpequran_import_nonce');
+    echo '<input type="hidden" name="action" value="wpequran_import_surah">';
+    submit_button(esc_html__('Jalankan Import', 'wp-equran'));
+    echo '</form>';
+    echo '</div>';
+}
+
+function wpequran_register_admin_page(){
+    add_submenu_page(
+        'edit.php?post_type=surat',
+        __("Isi Otomatis 114 Surat", "wp-equran"),
+        __("Isi Otomatis 114 Surat", "wp-equran"),
+        'manage_options',
+        'wpequran-import',
+        'wpequran_import_page'
+    );
+}
+add_action('admin_menu', 'wpequran_register_admin_page');
+
+function wpequran_handle_import(){
+    if (!current_user_can('manage_options')) {
+        wp_die(__('You do not have permission.', 'wp-equran'));
+    }
+    check_admin_referer('wpequran_import_surah', 'wpequran_import_nonce');
+
+    $dir   = plugin_dir_path(__FILE__) . 'json/';
+    $files = glob($dir . '[0-9][0-9][0-9].json');
+    $count = 0;
+
+    foreach ($files as $file) {
+        $json = json_decode(file_get_contents($file), true);
+        if (!$json || !isset($json['data'])) continue;
+        $d    = $json['data'];
+        $slug = sanitize_title($d['namaLatin']);
+        $post = get_page_by_path($slug, OBJECT, 'surat');
+
+        if ($post) {
+            $post_id = $post->ID;
+            wp_update_post(array(
+                'ID'         => $post_id,
+                'post_title' => $d['namaLatin'],
+                'post_status'=> 'publish'
+            ));
+        } else {
+            $post_id = wp_insert_post(array(
+                'post_type'  => 'surat',
+                'post_status'=> 'publish',
+                'post_title' => $d['namaLatin'],
+                'post_name'  => $slug
+            ));
+        }
+
+        if ($post_id) {
+            update_post_meta($post_id, 'nomor', $d['nomor']);
+            update_post_meta($post_id, 'nama', $d['nama']);
+            update_post_meta($post_id, 'namaLatin', $d['namaLatin']);
+            update_post_meta($post_id, 'jumlahAyat', $d['jumlahAyat']);
+            update_post_meta($post_id, 'tempatTurun', $d['tempatTurun']);
+            update_post_meta($post_id, 'arti', $d['arti']);
+            update_post_meta($post_id, 'deskripsi', $d['deskripsi']);
+            $audio = '';
+            if (!empty($d['audioFull']) && is_array($d['audioFull'])) {
+                $audio = reset($d['audioFull']);
+            }
+            update_post_meta($post_id, 'audioFull', $audio);
+            $count++;
+        }
+    }
+
+    $redirect = add_query_arg('imported', $count, admin_url('edit.php?post_type=surat&page=wpequran-import'));
+    wp_redirect($redirect);
+    exit;
+}
+add_action('admin_post_wpequran_import_surah', 'wpequran_handle_import');
+
 function wpequran_template_include($template){
     if(is_singular('surat')){
         $tpl = plugin_dir_path(__FILE__) . 'templates/surah.php';
