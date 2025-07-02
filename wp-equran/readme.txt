@@ -11,7 +11,9 @@ License URI: https://opensource.org/licenses/MIT
 
 == Description ==
 
-WP eQuran is a simple digital Quran plugin that ships with a full dataset of surahs, ayahs, Asmaul Husna and daily prayers. Display them anywhere with shortcodes.
+WP eQuran is a simple digital Quran plugin that ships with a full dataset of surahs, ayahs, Asmaul Husna and daily prayers. Data is sourced from the public API at https://equran.id/api/v2. Display them anywhere with shortcodes.
+
+This plugin has been tested to work well with the Blocksy theme.
 
 == Installation ==
 
@@ -22,7 +24,7 @@ WP eQuran is a simple digital Quran plugin that ships with a full dataset of sur
 == Frequently Asked Questions ==
 
 = Where does the Quran data come from? =
-All data is bundled in JSON files inside the plugin.
+The dataset is generated from https://equran.id/api/v2 and bundled as JSON files inside the plugin.
 
 == Changelog ==
 

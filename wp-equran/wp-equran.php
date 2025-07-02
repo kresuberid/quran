@@ -37,6 +37,9 @@ function wpequran_enqueue_assets() {
             'pluginUrl' => rtrim($base, '/'),
             'play'      => __('Play', 'wp-equran'),
             'pause'     => __('Pause', 'wp-equran'),
+            'tafsir'    => __('Tafsir', 'wp-equran'),
+            'share'     => __('Share', 'wp-equran'),
+            'copied'    => __('Copied', 'wp-equran'),
             'surahBase' => home_url('/surat/'),
             'defaultSurah' => '',
             'defaultSurahSlug' => '',
@@ -44,6 +47,56 @@ function wpequran_enqueue_assets() {
     );
 }
 add_action('wp_enqueue_scripts', 'wpequran_enqueue_assets');
+
+function wpequran_preconnect_resources() {
+    echo "\n";
+    ?>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://cdn-uicons.flaticon.com">
+
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://fonts.gstatic.com">
+<link rel="dns-prefetch" href="https://cdn-uicons.flaticon.com">
+
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&family=Roboto+Mono:wght@500&family=Inter:wght@400;600&family=Amiri:wght@400;700&family=Noto+Sans+Arabic:wght@400;700&display=swap" onload="this.rel='stylesheet'">
+<noscript>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&family=Roboto+Mono:wght@500&family=Inter:wght@400;600&family=Amiri:wght@400;700&family=Noto+Sans+Arabic:wght@400;700&display=swap">
+</noscript>
+
+<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"></noscript>
+<link rel="preload" as="style" href="https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css"></noscript>
+
+<link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css">
+<link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-bold-rounded/css/uicons-bold-rounded.css">
+<link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-thin-rounded/css/uicons-thin-rounded.css">
+<link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-curved-rounded/css/uicons-curved-rounded.css">
+
+<style>
+@font-face {
+  font-family: 'LPMQ-IsepMisbah';
+  src: url('https://equran.my.id/fonts/LPMQIsepMisbah.woff2') format('woff2'),
+       url('https://equran.my.id/fonts/LPMQIsepMisbah.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+.font-arabic,
+.arabic,
+.quran-arab,
+[lang="ar"] {
+  font-family: 'LPMQ-IsepMisbah', 'Amiri', 'Traditional Arabic', serif !important;
+  letter-spacing: 0;
+  direction: rtl;
+  font-feature-settings: "calt";
+}
+</style>
+    <?php
+}
+add_action('wp_head', 'wpequran_preconnect_resources');
 
 function wpequran_shortcode() {
     $html  = '<div id="wp-equran-app">';
