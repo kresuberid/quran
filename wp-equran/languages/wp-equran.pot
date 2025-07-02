@@ -1,26 +1,207 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Copyright (C) 2025 Febri Suryanto
+# This file is distributed under the MIT.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-01 18:25+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Project-Id-Version: WP eQuran 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-equran\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-02T13:06:18+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: wp-equran\n"
 
-#: wp-equran/wp-equran.php:38
+#. Plugin Name of the plugin
+#: wp-equran.php
+msgid "WP eQuran"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: wp-equran.php
+msgid "https://equran.my.id"
+msgstr ""
+
+#. Description of the plugin
+#: wp-equran.php
+msgid "WP eQuran adalah plugin Al-Quran digital Indonesia yang menyediakan bacaan Al-Qur'an 30 juz, dilengkapi dengan arab, latin, audio murottal dari qori ternama dunia dan tafsir lengkap per ayat."
+msgstr ""
+
+#. Author of the plugin
+#: wp-equran.php
+msgid "Febri Suryanto"
+msgstr ""
+
+#: templates/surah.php:29
+msgid "verses"
+msgstr ""
+
+#: templates/surah.php:32
+#: wp-equran.php:101
 msgid "Play"
 msgstr ""
 
-#: wp-equran/wp-equran.php:39
+#: wp-equran.php:102
 msgid "Pause"
+msgstr ""
+
+#: wp-equran.php:103
+msgid "Tafsir"
+msgstr ""
+
+#: wp-equran.php:104
+msgid "Share"
+msgstr ""
+
+#: wp-equran.php:105
+msgid "Play Audio Full"
+msgstr ""
+
+#: wp-equran.php:106
+msgid "Pause or Resume Audio"
+msgstr ""
+
+#: wp-equran.php:107
+msgid "Close"
+msgstr ""
+
+#: wp-equran.php:108
+msgid "Copied"
+msgstr ""
+
+#: wp-equran.php:170
+#: wp-equran.php:181
+msgid "Al-Qur'an"
+msgstr ""
+
+#: wp-equran.php:171
+msgid "Surat"
+msgstr ""
+
+#: wp-equran.php:172
+msgid "Tambah Baru"
+msgstr ""
+
+#: wp-equran.php:173
+msgid "Tambah Surat Baru"
+msgstr ""
+
+#: wp-equran.php:174
+msgid "Sunting Surat"
+msgstr ""
+
+#: wp-equran.php:175
+msgid "Surat Baru"
+msgstr ""
+
+#: wp-equran.php:176
+msgid "Lihat Surat"
+msgstr ""
+
+#: wp-equran.php:177
+msgid "Cari Surat"
+msgstr ""
+
+#: wp-equran.php:178
+msgid "Tidak ada surat ditemukan"
+msgstr ""
+
+#: wp-equran.php:179
+msgid "Tidak ada surat di Tong Sampah"
+msgstr ""
+
+#: wp-equran.php:180
+msgid "Semua Surat"
+msgstr ""
+
+#: wp-equran.php:211
+msgid "Nomor"
+msgstr ""
+
+#: wp-equran.php:212
+msgid "Nama Arab"
+msgstr ""
+
+#: wp-equran.php:213
+msgid "Nama Latin"
+msgstr ""
+
+#: wp-equran.php:214
+msgid "Jumlah Ayat"
+msgstr ""
+
+#: wp-equran.php:215
+msgid "Tempat Turun"
+msgstr ""
+
+#: wp-equran.php:216
+msgid "Arti"
+msgstr ""
+
+#: wp-equran.php:217
+msgid "Deskripsi"
+msgstr ""
+
+#: wp-equran.php:218
+msgid "Audio Full URL"
+msgstr ""
+
+#: wp-equran.php:219
+msgid "Grid ID"
+msgstr ""
+
+#: wp-equran.php:220
+msgid "Musaf Surat"
+msgstr ""
+
+#: wp-equran.php:237
+msgid "Surat Details"
+msgstr ""
+
+#: wp-equran.php:301
+#: wp-equran.php:351
+#: wp-equran.php:352
+msgid "Isi Otomatis 114 Surat"
+msgstr ""
+
+#: wp-equran.php:304
+#, php-format
+msgid "%d surat berhasil diproses."
+msgstr ""
+
+#: wp-equran.php:309
+msgid "Jalankan Import"
+msgstr ""
+
+#: wp-equran.php:320
+#: wp-equran.php:359
+#: wp-equran.php:360
+msgid "Pengaturan eQuran"
+msgstr ""
+
+#: wp-equran.php:324
+msgid "Default Language"
+msgstr ""
+
+#: wp-equran.php:326
+msgid "Indonesian"
+msgstr ""
+
+#: wp-equran.php:326
+msgid "English"
+msgstr ""
+
+#: wp-equran.php:332
+msgid "Default Surah"
+msgstr ""
+
+#: wp-equran.php:334
+msgid "None"
+msgstr ""
+
+#: wp-equran.php:384
+msgid "You do not have permission."
 msgstr ""
