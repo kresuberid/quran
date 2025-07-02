@@ -154,6 +154,94 @@ function wpequran_doa_shortcode(){
 }
 add_shortcode('equran_doa','wpequran_doa_shortcode');
 
+function wpequran_register_surah_post_type(){
+    $labels = array(
+        'name'               => __('Al-Qur\'an','wp-equran'),
+        'singular_name'      => __('Surat','wp-equran'),
+        'add_new'            => __('Add New','wp-equran'),
+        'add_new_item'       => __('Add New Surat','wp-equran'),
+        'edit_item'          => __('Edit Surat','wp-equran'),
+        'new_item'           => __('New Surat','wp-equran'),
+        'view_item'          => __('View Surat','wp-equran'),
+        'search_items'       => __('Search Surat','wp-equran'),
+        'not_found'          => __('No Surat found','wp-equran'),
+        'not_found_in_trash' => __('No Surat found in Trash','wp-equran'),
+        'all_items'          => __('All Surat','wp-equran'),
+        'menu_name'          => __('Al-Qur\'an','wp-equran'),
+    );
+    $args = array(
+        'labels'       => $labels,
+        'public'       => true,
+        'rewrite'      => array('slug' => 'surat', 'with_front' => false),
+        'supports'     => array('title','custom-fields'),
+        'show_in_rest' => true,
+    );
+    register_post_type('surat',$args);
+}
+add_action('init','wpequran_register_surah_post_type');
+
+function wpequran_register_surah_meta(){
+    $fields = array('nomor','nama','namaLatin','jumlahAyat','tempatTurun','arti','deskripsi','audioFull','quran-grid','musaf-surat');
+    foreach($fields as $key){
+        register_meta('post',$key,array(
+            'object_subtype'  => 'surat',
+            'type'            => 'string',
+            'single'          => true,
+            'show_in_rest'    => true,
+            'sanitize_callback' => 'sanitize_text_field',
+        ));
+    }
+}
+add_action('init','wpequran_register_surah_meta');
+
+function wpequran_surah_meta_box($post){
+    wp_nonce_field('wpequran_surah_save','wpequran_surah_nonce');
+    $fields = array(
+        'nomor'       => __('Nomor','wp-equran'),
+        'nama'        => __('Nama Arab','wp-equran'),
+        'namaLatin'   => __('Nama Latin','wp-equran'),
+        'jumlahAyat'  => __('Jumlah Ayat','wp-equran'),
+        'tempatTurun' => __('Tempat Turun','wp-equran'),
+        'arti'        => __('Arti','wp-equran'),
+        'deskripsi'   => __('Deskripsi','wp-equran'),
+        'audioFull'   => __('Audio Full URL','wp-equran'),
+        'quran-grid'  => __('Grid ID','wp-equran'),
+        'musaf-surat' => __('Musaf Surat','wp-equran'),
+    );
+    echo '<table class="form-table">';
+    foreach($fields as $key => $label){
+        $val = get_post_meta($post->ID,$key,true);
+        echo '<tr><th><label for="'.$key.'">'.$label.'</label></th><td>';
+        if($key==='deskripsi'){
+            echo '<textarea name="'.$key.'" id="'.$key.'" rows="4" style="width:100%">'.esc_textarea($val).'</textarea>';
+        }else{
+            echo '<input type="text" class="widefat" name="'.$key.'" id="'.$key.'" value="'.esc_attr($val).'">';
+        }
+        echo '</td></tr>';
+    }
+    echo '</table>';
+}
+
+function wpequran_add_surah_meta_box(){
+    add_meta_box('wpequran-surah-meta',__('Surat Details','wp-equran'),'wpequran_surah_meta_box','surat');
+}
+add_action('add_meta_boxes','wpequran_add_surah_meta_box');
+
+function wpequran_save_surah_meta($post_id){
+    if(!isset($_POST['wpequran_surah_nonce']) || !wp_verify_nonce($_POST['wpequran_surah_nonce'],'wpequran_surah_save')) return;
+    if(defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) return;
+    if('surat' !== get_post_type($post_id)) return;
+    $fields = array('nomor','nama','namaLatin','jumlahAyat','tempatTurun','arti','deskripsi','audioFull','quran-grid','musaf-surat');
+    foreach($fields as $field){
+        if(isset($_POST[$field])){
+            update_post_meta($post_id,$field,sanitize_text_field($_POST[$field]));
+        }else{
+            delete_post_meta($post_id,$field);
+        }
+    }
+}
+add_action('save_post','wpequran_save_surah_meta');
+
 function wpequran_get_surah_map(){
     static $map = null;
     if ($map !== null) return $map;
@@ -168,19 +256,8 @@ function wpequran_get_surah_map(){
     return $map;
 }
 
-function wpequran_add_rewrite_rule(){
-    add_rewrite_rule('^surat/([^/]+)/?$', 'index.php?equran_surah=$matches[1]', 'top');
-}
-add_action('init','wpequran_add_rewrite_rule');
-
-function wpequran_add_query_var($vars){
-    $vars[] = 'equran_surah';
-    return $vars;
-}
-add_filter('query_vars','wpequran_add_query_var');
-
 function wpequran_template_include($template){
-    if(get_query_var('equran_surah')){
+    if(is_singular('surat')){
         $tpl = plugin_dir_path(__FILE__) . 'templates/surah.php';
         if(file_exists($tpl)) return $tpl;
     }
@@ -189,7 +266,7 @@ function wpequran_template_include($template){
 add_filter('template_include','wpequran_template_include');
 
 function wpequran_activate(){
-    wpequran_add_rewrite_rule();
+    wpequran_register_surah_post_type();
     flush_rewrite_rules();
 }
 register_activation_hook(__FILE__,'wpequran_activate');
