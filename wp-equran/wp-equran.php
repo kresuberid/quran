@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP eQuran
 Plugin URI: https://equran.my.id
-Description: WP eQuran adalah plugin Al‑Qur'an digital Indonesia ... tafsir lengkap per ayat.
+Description: WP eQuran adalah plugin Al-Quran digital Indonesia yang menyediakan bacaan Al-Qur'an 30 juz, dilengkapi dengan arab, latin, audio murottal dari qori ternama dunia dan tafsir lengkap per ayat.
 Author: Febri Suryanto
 Author URI: https://equran.my.id
 Version: 1.0.0
