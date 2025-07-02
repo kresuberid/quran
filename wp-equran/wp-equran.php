@@ -256,14 +256,19 @@ add_action('save_post','wpequran_save_surah_meta');
 function wpequran_get_surah_map(){
     static $map = null;
     if ($map !== null) return $map;
-    $file = plugin_dir_path(__FILE__) . 'surah-list.json';
-    if (file_exists($file)) {
-        $list = json_decode(file_get_contents($file), true);
-    } else {
-        $file = plugin_dir_path(__FILE__) . 'json/surat.json';
-        if (!file_exists($file)) return array();
-        $json = json_decode(file_get_contents($file), true);
+    $response = wp_remote_get('https://equran.id/api/v2/surat');
+    if (!is_wp_error($response)) {
+        $json = json_decode(wp_remote_retrieve_body($response), true);
         $list = isset($json['data']) ? $json['data'] : array();
+    }
+    if (empty($list)) {
+        $file = plugin_dir_path(__FILE__) . 'surat/surat.json';
+        if (file_exists($file)) {
+            $json = json_decode(file_get_contents($file), true);
+            $list = isset($json['data']) ? $json['data'] : array();
+        } else {
+            $list = array();
+        }
     }
     $map = array();
     foreach ($list as $row) {
@@ -276,14 +281,19 @@ function wpequran_get_surah_map(){
 function wpequran_get_surah_list(){
     static $list = null;
     if ($list !== null) return $list;
-    $file = plugin_dir_path(__FILE__) . 'surah-list.json';
-    if (file_exists($file)) {
-        $data = json_decode(file_get_contents($file), true);
-    } else {
-        $file = plugin_dir_path(__FILE__) . 'json/surat.json';
-        if (!file_exists($file)) return array();
-        $json = json_decode(file_get_contents($file), true);
+    $response = wp_remote_get('https://equran.id/api/v2/surat');
+    if (!is_wp_error($response)) {
+        $json = json_decode(wp_remote_retrieve_body($response), true);
         $data = isset($json['data']) ? $json['data'] : array();
+    }
+    if (empty($data)) {
+        $file = plugin_dir_path(__FILE__) . 'surat/surat.json';
+        if (file_exists($file)) {
+            $json = json_decode(file_get_contents($file), true);
+            $data = isset($json['data']) ? $json['data'] : array();
+        } else {
+            $data = array();
+        }
     }
     $list = array();
     foreach ($data as $row) {
@@ -385,14 +395,13 @@ function wpequran_handle_import(){
     }
     check_admin_referer('wpequran_import_surah', 'wpequran_import_nonce');
 
-    $dir   = plugin_dir_path(__FILE__) . 'json/';
-    $files = glob($dir . '[0-9][0-9][0-9].json');
     $count = 0;
-
-    foreach ($files as $file) {
-        $json = json_decode(file_get_contents($file), true);
+    for ($i = 1; $i <= 114; $i++) {
+        $response = wp_remote_get('https://equran.id/api/v2/surat/' . $i);
+        if (is_wp_error($response)) continue;
+        $json = json_decode(wp_remote_retrieve_body($response), true);
         if (!$json || !isset($json['data'])) continue;
-        $d    = $json['data'];
+        $d = $json['data'];
         $slug = sanitize_title($d['namaLatin']);
         $post = get_page_by_path($slug, OBJECT, 'surat');
 

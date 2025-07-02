@@ -35,7 +35,7 @@ Demo: https://equran.my.id
 
 ## Struktur Data
 
-Plugin ini menyediakan dataset JSON untuk seluruh surah serta custom post type `surat` dengan beberapa meta standar seperti nama latin, arti, jumlah ayat, dan audio.
+Plugin ini memuat data surah langsung dari API [eQuran.id](https://equran.id). Folder `surat` hanya menyimpan salinan JSON jika Anda ingin melakukan impor manual ke custom post type `surat`.
 
 ---
 
