@@ -1,31 +1,30 @@
 === WP eQuran ===
-Contributors: kresuberid
+Kontributor: kresuberid
 Plugin URI: https://equran.my.id
-Tags: quran, shortcode, islam
-Requires at least: 5.0
-Tested up to: 6.5
-Stable tag: 1.0.0
-Requires PHP: 7.4
-License: MIT
-License URI: https://opensource.org/licenses/MIT
+Tag: quran, shortcode, islam
+Membutuhkan minimal WordPress: 5.0
+Diuji hingga: 6.5
+Rilis stabil: 1.0.0
+Memerlukan PHP: 7.4
+Lisensi: MIT
+URL Lisensi: https://opensource.org/licenses/MIT
 
 == Description ==
 
-WP eQuran is a simple digital Quran plugin that ships with a full dataset of surahs, ayahs, Asmaul Husna and daily prayers. Display them anywhere with shortcodes.
+WP eQuran merupakan plugin Al-Qur'an digital yang menyertakan dataset lengkap surah, ayat, Asmaul Husna, dan doa harian. Gunakan shortcode `[equran]` untuk menampilkan daftar surah dan ayat, `[equran_husna]` untuk Asmaul Husna, serta `[equran_doa]` untuk doa-doa harian. Data bersumber dari layanan eQuran.id dan juga disimpan secara lokal sebagai cadangan.
 
 == Installation ==
 
-1. Upload the `wp-equran` directory to the `/wp-content/plugins/` path of your WordPress site.
-2. Activate the plugin from the **Plugins** screen in WordPress.
-3. Insert `[equran]`, `[equran_husna]` or `[equran_doa]` shortcodes in posts or pages.
+1. Unggah folder `wp-equran` ke direktori `/wp-content/plugins/` di situs WordPress Anda.
+2. Aktifkan plugin melalui menu **Plugins** di WordPress.
+3. Sisipkan shortcode `[equran]`, `[equran_husna]`, atau `[equran_doa]` pada postingan atau halaman.
 
 == Frequently Asked Questions ==
 
-= Where does the Quran data come from? =
-Data surat dan tafsir bersumber dari layanan [eQuran.id](https://equran.id).
-Plugin menyertakan dataset lokal sebagai cadangan.
+= Dari mana sumber data Al-Qur'an? =
+Data surat dan tafsir bersumber dari layanan [eQuran.id](https://equran.id). Plugin juga menyertakan dataset lokal sebagai cadangan.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release.
+* Rilis awal.
