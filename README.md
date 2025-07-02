@@ -57,6 +57,15 @@ Berikut langkah cepat untuk mencoba plugin:
 
 ---
 
+## Tema yang Direkomendasikan
+
+Agar plugin berfungsi maksimal, kami sarankan memakai tema berikut:
+
+* **[Blocksy](https://creativethemes.com/blocksy/)** – versi gratis sudah mendukung fitur utama plugin.
+* **[Blocksy Pro](https://r.freemius.com/5115/5517904/https://creativethemes.com/blocksy/pricing/#comparison-free-vs-pro)** – upgrade opsional untuk kustomisasi dan integrasi lebih mendalam.
+
+---
+
 ## Teknologi
 
 * **WordPress**
