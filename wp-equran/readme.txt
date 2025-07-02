@@ -22,7 +22,8 @@ WP eQuran is a simple digital Quran plugin that ships with a full dataset of sur
 == Frequently Asked Questions ==
 
 = Where does the Quran data come from? =
-All data is bundled in JSON files inside the plugin.
+Data surat dan tafsir bersumber dari layanan [eQuran.id](https://equran.id).
+Plugin menyertakan dataset lokal sebagai cadangan.
 
 == Changelog ==
 

@@ -2,10 +2,6 @@
 #wp-equran-surah { margin-bottom:10px; padding:5px; width:100%; }
 #wp-equran-content p { line-height:2; margin:0 0 1em; }
 #wp-equran-content em { color:#666; display:block; margin-top:4px; }
-@font-face {
-  font-family: 'LPMQ-IsepMisbah';
-  src: url('../font/LPMQ-IsepMisbah.ttf') format('truetype');
-}
 
 .wp-equran-audio-btn {
   background:none;
