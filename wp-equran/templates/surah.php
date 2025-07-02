@@ -8,13 +8,22 @@ if(!$id){
     include get_query_template('404');
     return;
 }
-$plugin_dir = dirname(__DIR__);
-$file = $plugin_dir . '/json/' . $id . '.json';
 $data = array();
-if(file_exists($file)){
-    $json = json_decode(file_get_contents($file), true);
+$response = wp_remote_get('https://equran.id/api/v2/surat/' . $id);
+if(!is_wp_error($response)){
+    $json = json_decode(wp_remote_retrieve_body($response), true);
     if($json && isset($json['data'])){
         $data = $json['data'];
+    }
+}
+if(empty($data)){
+    $plugin_dir = dirname(__DIR__);
+    $file = $plugin_dir . '/surat/' . $id . '.json';
+    if(file_exists($file)){
+        $json = json_decode(file_get_contents($file), true);
+        if($json && isset($json['data'])){
+            $data = $json['data'];
+        }
     }
 }
 get_header();

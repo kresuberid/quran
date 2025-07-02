@@ -26,7 +26,7 @@
 
   function loadTafsir(id){
     tafsir={};
-    return fetch(wpEquran.pluginUrl + '/tafsir/' + id.padStart(3,'0') + '.json')
+    return fetch('https://equran.id/api/v2/tafsir/' + id)
       .then(r=>r.json())
       .then(t=>{
         if(t.data && t.data.tafsir){
@@ -108,9 +108,10 @@
   }
 
   function loadSurahList(){
-    fetch(wpEquran.pluginUrl + '/surah-list.json')
+    fetch('https://equran.id/api/v2/surat')
       .then(r => r.json())
-      .then(list => {
+      .then(res => {
+        const list = res.data || [];
         const select = document.getElementById('wp-equran-surah');
         list.forEach(function(s){
           const slug = slugify(s.namaLatin);
@@ -172,7 +173,7 @@
   }
 
   function loadSurah(id){
-    fetch(wpEquran.pluginUrl + '/json/' + id.padStart(3,'0') + '.json')
+    fetch('https://equran.id/api/v2/surat/' + id)
       .then(r=>r.json())
       .then(data=>{
         loadTafsir(id);
