@@ -11,7 +11,7 @@
   function createModal(){
     modal=document.createElement('div');
     modal.id='wp-equran-modal';
-    modal.innerHTML='<div class="wp-equran-modal-content"><button type="button" id="wp-equran-modal-close"><img src="'+wpEquran.pluginUrl+'/icon/close.svg" alt="x"></button><div class="wp-equran-modal-body"></div></div>';
+    modal.innerHTML='<div class="wp-equran-modal-content"><button type="button" id="wp-equran-modal-close"><img src="'+wpEquran.pluginUrl+'/icon/close.svg" alt="'+wpEquran.close+'"></button><div class="wp-equran-modal-body"></div></div>';
     document.body.appendChild(modal);
     modalBody=modal.querySelector('.wp-equran-modal-body');
     modal.querySelector('#wp-equran-modal-close').addEventListener('click',function(){modal.style.display='none';});
