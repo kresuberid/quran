@@ -88,21 +88,27 @@ function wpequran_enqueue_assets() {
         filemtime(__DIR__ . '/assets/script.js'),
         true
     );
+    $default_surah  = get_option('wpequran_default_surah', '');
+    $map            = wpequran_get_surah_map();
+    $default_number = isset($map[$default_surah]) ? $map[$default_surah] : '';
+    $default_lang   = get_option('wpequran_default_language', 'id');
+
     wp_localize_script(
         'wpequran-script',
         'wpEquran',
         array(
-            'pluginUrl' => rtrim($base, '/'),
-            'play'      => __('Play', 'wp-equran'),
-            'pause'     => __('Pause', 'wp-equran'),
-            'tafsir'    => __('Tafsir', 'wp-equran'),
-            'share'     => __('Share', 'wp-equran'),
-            'playFull'  => __('Play Audio Full', 'wp-equran'),
-            'pauseAudio'=> __('Pause/Jeda Audio', 'wp-equran'),
-            'copied'    => __('Copied', 'wp-equran'),
-            'surahBase' => home_url('/surat/'),
-            'defaultSurah' => '',
-            'defaultSurahSlug' => '',
+            'pluginUrl'       => rtrim($base, '/'),
+            'play'            => __('Play', 'wp-equran'),
+            'pause'           => __('Pause', 'wp-equran'),
+            'tafsir'          => __('Tafsir', 'wp-equran'),
+            'share'           => __('Share', 'wp-equran'),
+            'playFull'        => __('Play Audio Full', 'wp-equran'),
+            'pauseAudio'      => __('Pause/Jeda Audio', 'wp-equran'),
+            'copied'          => __('Copied', 'wp-equran'),
+            'surahBase'       => home_url('/surat/'),
+            'defaultSurah'    => $default_number,
+            'defaultSurahSlug'=> $default_surah,
+            'defaultLang'     => $default_lang,
         )
     );
 }
@@ -250,14 +256,43 @@ function wpequran_get_surah_map(){
     static $map = null;
     if ($map !== null) return $map;
     $file = plugin_dir_path(__FILE__) . 'surah-list.json';
-    if (!file_exists($file)) return array();
-    $list = json_decode(file_get_contents($file), true);
+    if (file_exists($file)) {
+        $list = json_decode(file_get_contents($file), true);
+    } else {
+        $file = plugin_dir_path(__FILE__) . 'json/surat.json';
+        if (!file_exists($file)) return array();
+        $json = json_decode(file_get_contents($file), true);
+        $list = isset($json['data']) ? $json['data'] : array();
+    }
     $map = array();
     foreach ($list as $row) {
         $slug = sanitize_title($row['namaLatin']);
         $map[$slug] = str_pad($row['nomor'], 3, '0', STR_PAD_LEFT);
     }
     return $map;
+}
+
+function wpequran_get_surah_list(){
+    static $list = null;
+    if ($list !== null) return $list;
+    $file = plugin_dir_path(__FILE__) . 'surah-list.json';
+    if (file_exists($file)) {
+        $data = json_decode(file_get_contents($file), true);
+    } else {
+        $file = plugin_dir_path(__FILE__) . 'json/surat.json';
+        if (!file_exists($file)) return array();
+        $json = json_decode(file_get_contents($file), true);
+        $data = isset($json['data']) ? $json['data'] : array();
+    }
+    $list = array();
+    foreach ($data as $row) {
+        $list[] = array(
+            'slug'       => sanitize_title($row['namaLatin']),
+            'nomor'      => $row['nomor'],
+            'namaLatin'  => $row['namaLatin'],
+        );
+    }
+    return $list;
 }
 
 function wpequran_import_page(){
@@ -275,6 +310,40 @@ function wpequran_import_page(){
     echo '</div>';
 }
 
+function wpequran_settings_page(){
+    if (!current_user_can('manage_options')) return;
+    $lang  = get_option('wpequran_default_language', 'id');
+    $surah = get_option('wpequran_default_surah', '');
+    $list  = wpequran_get_surah_list();
+    echo '<div class="wrap">';
+    echo '<h1>' . esc_html__("Pengaturan eQuran", "wp-equran") . '</h1>';
+    echo '<form method="post" action="options.php">';
+    settings_fields('wpequran_settings');
+    echo '<table class="form-table" role="presentation">';
+    echo '<tr><th scope="row"><label for="wpequran_default_language">' . esc_html__("Default Language", "wp-equran") . '</label></th><td>';
+    echo '<select name="wpequran_default_language" id="wpequran_default_language">';
+    $langs = array('id' => __('Indonesian', 'wp-equran'), 'en' => __('English', 'wp-equran'));
+    foreach ($langs as $key => $label) {
+        echo '<option value="' . esc_attr($key) . '" ' . selected($lang, $key, false) . '>' . esc_html($label) . '</option>';
+    }
+    echo '</select>';
+    echo '</td></tr>';
+    echo '<tr><th scope="row"><label for="wpequran_default_surah">' . esc_html__("Default Surah", "wp-equran") . '</label></th><td>';
+    echo '<select name="wpequran_default_surah" id="wpequran_default_surah">';
+    echo '<option value="">' . esc_html__('None', 'wp-equran') . '</option>';
+    foreach ($list as $row) {
+        $slug  = $row['slug'];
+        $label = $row['nomor'] . '. ' . $row['namaLatin'];
+        echo '<option value="' . esc_attr($slug) . '" ' . selected($surah, $slug, false) . '>' . esc_html($label) . '</option>';
+    }
+    echo '</select>';
+    echo '</td></tr>';
+    echo '</table>';
+    submit_button();
+    echo '</form>';
+    echo '</div>';
+}
+
 function wpequran_register_admin_page(){
     add_submenu_page(
         'edit.php?post_type=surat',
@@ -284,8 +353,30 @@ function wpequran_register_admin_page(){
         'wpequran-import',
         'wpequran_import_page'
     );
+    add_submenu_page(
+        'edit.php?post_type=surat',
+        __('Pengaturan eQuran', 'wp-equran'),
+        __('Pengaturan eQuran', 'wp-equran'),
+        'manage_options',
+        'wpequran-settings',
+        'wpequran_settings_page'
+    );
 }
 add_action('admin_menu', 'wpequran_register_admin_page');
+
+function wpequran_register_settings(){
+    register_setting('wpequran_settings','wpequran_default_language',array(
+        'type' => 'string',
+        'sanitize_callback' => 'sanitize_text_field',
+        'default' => 'id',
+    ));
+    register_setting('wpequran_settings','wpequran_default_surah',array(
+        'type' => 'string',
+        'sanitize_callback' => 'sanitize_text_field',
+        'default' => '',
+    ));
+}
+add_action('admin_init','wpequran_register_settings');
 
 function wpequran_handle_import(){
     if (!current_user_can('manage_options')) {
