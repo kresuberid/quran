@@ -48,7 +48,7 @@
     if(navigator.share){
       navigator.share({text:a.teksIndonesia,url:location.href}).catch(()=>{});
     }else if(navigator.clipboard){
-      navigator.clipboard.writeText(text).then(()=>{alert('Copied');});
+      navigator.clipboard.writeText(text).then(()=>{alert(wpEquran.copied);});
     }
   }
 
@@ -70,7 +70,7 @@
         playerBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/pause.svg';
         playerBtn.querySelector('img').alt=wpEquran.pause;
         if(currentBtn){
-          if(currentBtn===fullBtn) currentBtn.textContent='Pause/Jeda Audio';
+          if(currentBtn===fullBtn) currentBtn.textContent=wpEquran.pauseAudio;
           else{currentBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/pause.svg';currentBtn.querySelector('img').alt=wpEquran.pause;}
         }
       }else{
@@ -78,7 +78,7 @@
         playerBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/play.svg';
         playerBtn.querySelector('img').alt=wpEquran.play;
         if(currentBtn){
-          if(currentBtn===fullBtn) currentBtn.textContent='Play Audio Full';
+          if(currentBtn===fullBtn) currentBtn.textContent=wpEquran.playFull;
           else{currentBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/play.svg';currentBtn.querySelector('img').alt=wpEquran.play;}
         }
       }
@@ -87,7 +87,7 @@
       playerAudio.pause();
       player.style.display='none';
       if(currentBtn){
-        if(currentBtn===fullBtn) currentBtn.textContent='Play Audio Full';
+        if(currentBtn===fullBtn) currentBtn.textContent=wpEquran.playFull;
         else{currentBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/play.svg';currentBtn.querySelector('img').alt=wpEquran.play;}
       }
       currentBtn=null;
@@ -96,7 +96,7 @@
       playerBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/play.svg';
       playerBtn.querySelector('img').alt=wpEquran.play;
       if(currentBtn){
-        if(currentBtn===fullBtn) currentBtn.textContent='Play Audio Full';
+        if(currentBtn===fullBtn) currentBtn.textContent=wpEquran.playFull;
         else{currentBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/play.svg';currentBtn.querySelector('img').alt=wpEquran.play;}
       }
       currentBtn=null;
@@ -135,7 +135,7 @@
     if(fullBtn) return;
     fullBtn=document.createElement('button');
     fullBtn.id='wp-equran-play-full';
-    fullBtn.textContent='Play Audio Full';
+    fullBtn.textContent=wpEquran.playFull;
     const select=document.getElementById('wp-equran-surah');
     select.parentNode.insertBefore(fullBtn,select.nextSibling);
     fullBtn.addEventListener('click',function(){
@@ -146,12 +146,12 @@
           playerAudio.play();
           playerBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/pause.svg';
           playerBtn.querySelector('img').alt=wpEquran.pause;
-          fullBtn.textContent='Pause/Jeda Audio';
+          fullBtn.textContent=wpEquran.pauseAudio;
         }else{
           playerAudio.pause();
           playerBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/play.svg';
           playerBtn.querySelector('img').alt=wpEquran.play;
-          fullBtn.textContent='Play Audio Full';
+          fullBtn.textContent=wpEquran.playFull;
         }
       }else{
         if(currentBtn){
@@ -166,7 +166,7 @@
         playerAudio.play();
         playerBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/pause.svg';
         playerBtn.querySelector('img').alt=wpEquran.pause;
-        fullBtn.textContent='Pause/Jeda Audio';
+        fullBtn.textContent=wpEquran.pauseAudio;
       }
     });
   }
@@ -179,7 +179,7 @@
         createFullBtn();
         const full=data.data.audioFull?Object.values(data.data.audioFull)[0]:'';
         fullBtn.dataset.audio=full||'';
-        fullBtn.textContent='Play Audio Full';
+        fullBtn.textContent=wpEquran.playFull;
 
         const cont=document.getElementById('wp-equran-content');
         cont.innerHTML='';
@@ -217,7 +217,7 @@
             }else{
               if(currentBtn){
                 if(currentBtn===fullBtn){
-                  fullBtn.textContent='Play Audio Full';
+                  fullBtn.textContent=wpEquran.playFull;
                 }else{
                   currentBtn.querySelector('img').src=wpEquran.pluginUrl+'/icon/play.svg';
                   currentBtn.querySelector('img').alt=wpEquran.play;
