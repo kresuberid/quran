@@ -40,7 +40,6 @@ Demo: https://equran.my.id
   * `ayat` — untuk data ayat, field: nomor, teks arab, latin, terjemahan, audio, surah parent
   * `husna` — untuk Asmaul Husna
   * `doa` — untuk doa-doa harian
-  * `iqro` — (opsional) untuk materi belajar Iqro
 
 * **Field Utama (ACF):**
 
