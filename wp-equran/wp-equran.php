@@ -2,8 +2,9 @@
 /*
 Plugin Name: WP eQuran
 Plugin URI: https://equran.my.id
-Description: Simple digital Quran plugin with built‑in dataset.
-Author: Kresuber Digital
+Description: WP eQuran adalah plugin Al‑Qur'an digital Indonesia ... tafsir lengkap per ayat.
+Author: Febri Suryanto
+Author URI: https://equran.my.id
 Version: 1.0.0
 License: MIT
 Text Domain: wp-equran
