@@ -1,6 +1,7 @@
-# Al-Qur'an Digital – WordPress (ACF Integration)
 
-**Al-Qur'an Digital** adalah platform aplikasi berbasis WordPress yang memanfaatkan Advanced Custom Fields (ACF) untuk pengelolaan data, ayat, surah, audio, dan berbagai fitur Quran digital secara dinamis dan terstruktur. Dengan integrasi ACF, pengelolaan konten dan pengembangan fitur menjadi lebih fleksibel dan powerful bagi admin maupun developer.
+# WP eQuran – Plugin Al-Qur'an Digital
+
+**WP eQuran** adalah plugin WordPress untuk menampilkan Al-Qur'an digital lengkap. Plugin ini menyertakan dataset surah, ayat, Asmaul Husna, dan doa harian sehingga Anda dapat langsung menggunakan shortcode tanpa konfigurasi rumit atau plugin tambahan seperti ACF.
 
 Plugin **wp-equran** kini tersedia untuk instalasi cepat. Salin folder `wp-equran` ke `wp-content/plugins`, aktifkan lewat dashboard, lalu gunakan shortcode `[equran]` pada halaman atau postingan.
 Demo: https://equran.my.id
@@ -16,35 +17,25 @@ Demo: https://equran.my.id
   * Tampilan responsif dan mode terang/gelap
 * **Integrasi Audio Murottal**
 
-  * Field custom audio per ayat/surah dengan ACF
+  * Pemutaran audio per ayat atau per surah
 * **Terjemahan dan Tafsir**
 
-  * Field custom terjemahan/tafsir multi-bahasa via ACF Repeater/Field Group
+  * Dukungan multi bahasa untuk terjemahan dan tafsir
 * **Pencarian Cepat**
 
   * Search by surah, ayat, keyword, terjemahan
 * **Asmaul Husna & Doa Harian**
 
-  * Post type dan field ACF khusus untuk 99 Asmaul Husna dan doa pilihan
+  * Data 99 Asmaul Husna dan doa harian bawaan
 * **Bookmark & Hafalan**
 
   * Save bacaan terakhir dan ayat favorit (jika ingin dengan plugin tambahan)
 
 ---
 
-## Struktur Data (ACF)
+## Struktur Data
 
-* **Post Type:**
-
-  * `surat` — untuk data surah, field: nama latin, arab, arti, jumlah ayat, urutan, dll.
-  * `ayat` — untuk data ayat, field: nomor, teks arab, latin, terjemahan, audio, surah parent
-  * `husna` — untuk Asmaul Husna
-  * `doa` — untuk doa-doa harian
-
-* **Field Utama (ACF):**
-
-  * Teks arab, latin, terjemahan, nomor surah/ayat, audio (URL/file), tafsir, image
-  * Support Repeater Field untuk multi terjemahan atau multi tafsir
+Plugin ini menyediakan dataset JSON untuk seluruh surah serta custom post type `surat` dengan beberapa meta standar seperti nama latin, arti, jumlah ayat, dan audio.
 
 ---
 
@@ -68,8 +59,7 @@ Berikut langkah cepat untuk mencoba plugin:
 
 ## Teknologi
 
-* **WordPress** (Theme/Child Theme atau plugin custom)
-* **Advanced Custom Fields**
+* **WordPress**
 * **Custom Post Types & Taxonomies**
 * **Custom Templates/Blocks** (bisa support Gutenberg)
 * **Plugin pelengkap:**
@@ -80,7 +70,7 @@ Berikut langkah cepat untuk mencoba plugin:
 
 ## Kontribusi
 
-Kontribusi terbuka untuk developer WordPress, pengembang plugin ACF, penerjemah, serta pengelola konten.
+Kontribusi terbuka untuk developer WordPress, penerjemah, dan pengelola konten.
 
 ---
 
@@ -101,7 +91,7 @@ Dirilis di bawah MIT License. Lihat berkas `LICENSE` untuk detailnya. Sumber dat
 
 ## Disclaimer
 
-Pastikan pengecekan ulang validasi ayat, teks, dan terjemahan sebelum digunakan publik. Integrasi ACF bersifat teknis dan butuh pengalaman WordPress dev.
+Pastikan pengecekan ulang validasi ayat, teks, dan terjemahan sebelum digunakan publik.
 
 ---
 
