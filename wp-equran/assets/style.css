@@ -12,10 +12,11 @@
   height:32px;
   margin-right:6px;
 }
-.wp-equran-audio-btn img {
-  width:100%;
-  height:100%;
-  display:block;
+
+.wp-equran-audio-btn i,
+.wp-equran-icon-btn i{
+  font-size:1.2em;
+  line-height:32px;
 }
 
 .wp-equran-icon-btn{
@@ -26,11 +27,6 @@
   width:32px;
   height:32px;
   margin-right:6px;
-}
-.wp-equran-icon-btn img{
-  width:100%;
-  height:100%;
-  display:block;
 }
 
 .wp-equran-husna,
@@ -73,3 +69,8 @@
 #wp-equran-modal{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center;z-index:10000;}
 #wp-equran-modal .wp-equran-modal-content{background:#fff;padding:20px;max-width:600px;width:90%;position:relative;max-height:80vh;overflow:auto;}
 #wp-equran-modal .wp-equran-modal-content button{position:absolute;top:5px;right:5px;background:none;border:none;cursor:pointer;}
+.wp-equran-tabs{display:flex;gap:8px;margin-bottom:10px;}
+.wp-equran-tabs button{background:none;border:1px solid #ccc;padding:6px 12px;cursor:pointer;}
+.wp-equran-tabs button.active{background:#eee;}
+.wp-equran-tab-content{display:none;}
+.wp-equran-tab-content.active{display:block;}
